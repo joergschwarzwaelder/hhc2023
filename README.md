@@ -1,4 +1,4 @@
-# SANS Holiday Hack Challenge 2023
+# The 2023 SANS Holiday Hack Challenge
 **Write-up submitted by Joerg Schwarzwaelder**  
 
 **In-game character: joergen** 
@@ -7,12 +7,12 @@
 
 ![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/HHC3-2023-Web-Banner.webp) 
 
-**KringleCon V: Golden Rings**
+**A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!**
 
 **Background information:**
 
 
-[Online Game](https://2022.kringlecon.com/)
+[Online Game](https://2023.holidayhackchallenge.com/)
 
 [Map of the Game](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Map.md)
 
@@ -50,5 +50,5 @@
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTQ4MzcwMSwxNDQzMjQ0NDE5XX0=
+eyJoaXN0b3J5IjpbLTE4MTkyNzQ1MDRdfQ==
 -->
