@@ -4,6 +4,7 @@
 **In-game character: joergen** 
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
+
 ![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/ab67616d00001e023ee75b5cce48e7771fb066f3.jpeg)
 ![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/HHC3-2023-Web-Banner.webp) 
 
@@ -50,5 +51,5 @@
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTc3ODYzLC0xODE5Mjc0NTA0XX0=
+eyJoaXN0b3J5IjpbNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
 -->
