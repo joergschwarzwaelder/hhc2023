@@ -5,7 +5,7 @@
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
 
-![HHC2022 Logo](https://github.com/joergschwarzwaelder/hhc2022/blob/main/images/hhc2022-logo.jpg) 
+![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/HHC3-2023-Web-Banner.webp) 
 
 **KringleCon V: Golden Rings**
 
@@ -50,5 +50,5 @@
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzI0NDQxOV19
+eyJoaXN0b3J5IjpbMTc1OTQ4MzcwMSwxNDQzMjQ0NDE5XX0=
 -->
