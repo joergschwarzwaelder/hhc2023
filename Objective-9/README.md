@@ -13,9 +13,9 @@ Most of the blocks have their target locations nearby. Only one block has to be 
 The final QR code looks like this:
 
 ![QR Code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-9/qr-code.png)
-This is pointing to `http://8bitelf.com`. Thi
+This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfusedgivingplanetsqrcode`, making the answer finally **santaconfusedgivingplanetsqrcode**.
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDUwMTg2OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTk3NDkzOTYzLC0yMDEwMTkyNjNdfQ==
 -->
