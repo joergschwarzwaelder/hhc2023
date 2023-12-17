@@ -8,7 +8,7 @@ The only difference between both is, that a specific screen in one game is open 
 
 To solve this challenge, both versions of the game were byte compared in order to find, where the "push down"/"push up" definition is done. It turned out, that on byte position `0x17c80` [game0](https://gamegosling.com/vol2-akHB27gg6pN0/rom/game0.gb) has a `0x02` and [game1](https://gamegosling.com/vol2-akHB27gg6pN0/rom/game1.gb) a `0x01`.
 After changing this byte in the game0 binary to `0x01` , the character is not pushed back down anymore and instead push up effectively passing the "magical border".
-The game can now be played in a Gameboy simulator like VisualBoyAdvance.
+The [game](!%5Bgame%5D%28https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game-solved.gb%29) can now be played in a Gameboy simulator like VisualBoyAdvance.
 
 In the final screen a Morse code audio is played. This was recorded and decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
 
@@ -19,6 +19,6 @@ In the final screen a Morse code audio is played. This was recorded and decoded 
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4NDYzNDIwLDE4Njk3ODE0MTEsOTUzMz
+eyJoaXN0b3J5IjpbMjA1MDYxNjQ1LDE4Njk3ODE0MTEsOTUzMz
 I1Mjc0LC0yMDEwMTkyNjNdfQ==
 -->
