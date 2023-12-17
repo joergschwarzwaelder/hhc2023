@@ -8,11 +8,14 @@ It can be started anytime from the "Items" section in the game.
 This starts a Gameboy simulator with the game.
 The main objective in the game is a broken QR code which hs to be repaired.
 It is possible to make music to uncover, which black block can be moved and which locations are expected to have a black block.
-The final
+Most of the blocks have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the final location.
+
+The final QR code looks like this:
 
 ![QR Code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-9/qr-code.png)
+This is pointing to `http://8bitelf.com`. Thi
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1Mzg3NDY5LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTIzMDUwMTg2OCwtMjAxMDE5MjYzXX0=
 -->
