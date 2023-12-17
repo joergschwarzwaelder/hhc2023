@@ -86,10 +86,23 @@ In the code it is easy to spot, that the principal does just default to "elf" bu
 {"ssh_cert": "ssh-ed25519-cert-v01@openssh.com AAAAIHNzaC1lZDI1NTE5LWNlcnQtdjAxQG9wZW5zc2guY29tAAAAJzI4NjY5MDc2NTUyNTIzMTQwNjE2MzEyOTYwMDE0MTE4NjU3MDk2NQAAACCmjki0CX2PzJt/Wkj+pBOi8HO9jwHYpRHj6cdf3fgkagAAAAAAAAABAAAAAQAAACRhYTJkYWY4NS04NDI2LTRjYzMtODAwYi0wMzlhM2ZhYWViOGYAAAAJAAAABWFkbWluAAAAAGV/JQsAAAAAZaQQNwAAAAAAAAASAAAACnBlcm1pdC1wdHkAAAAAAAAAAAAAADMAAAALc3NoLWVkMjU1MTkAAAAgaTYY0wKYmRc8kcdFAf35MzgJGuyr/sEvTCn4/qsIhYcAAABTAAAAC3NzaC1lZDI1NTE5AAAAQHntvqzNyPQy9dnyRatxGXeEZwSsf02LLnIJ/DauD+hB5J+HNgZgjZc8A+2aZpt8lrY8TYGqp+s2GnH3Bor7BAU= ", "principal": "admin"}
 ```
 
+With this SSH certificate it is possible to login to the server as "alabaster":
+```
+alabaster@ssh-server-vm:~$ cat alabaster_todo.md 
+# Geese Islands IT & Security Todo List
+
+- [X] Sleigh GPS Upgrade: Integrate the new "Island Hopper" module into Santa's sleigh GPS. Ensure Rudolph's red nose doesn't interfere with the signal.
+- [X] Reindeer Wi-Fi Antlers: Test out the new Wi-Fi boosting antler extensions on Dasher and Dancer. Perfect for those beach-side internet browsing sessions.
+- [ ] Palm Tree Server Cooling: Make use of the island's natural shade. Relocate servers under palm trees for optimal cooling. Remember to watch out for falling coconuts!
+- [ ] Eggnog Firewall: Upgrade the North Pole's firewall to the new EggnogOS version. Ensure it blocks any Grinch-related cyber threats effectively.
+- [ ] Gingerbread Cookie Cache: Implement a gingerbread cookie caching mechanism to speed up data retrieval times. Don't let Santa eat the cache!
+- [ ] Toy Workshop VPN: Establish a secure VPN tunnel back to the main toy workshop so the elves can securely access to the toy blueprints.
+- [ ] Festive 2FA: Roll out the new two-factor authentication system where the second factor is singing a Christmas carol. Jingle Bells is said to be the most secure.
+```
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIwODIwNTIsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTEwOTQ4MjQwMDEsLTIwMTAxOTI2M119
 -->
