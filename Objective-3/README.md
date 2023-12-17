@@ -3,7 +3,7 @@
 
 Is this terminal the player gets to know some Linux basics.
 
-``
+```
 elf@dd0741506806:~$ ls
 elf@dd0741506806:~$ cat troll_19315479765589239
 elf@dd0741506806:~$ rm troll_19315479765589239  
@@ -32,5 +32,5 @@ elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE1ODQxMCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTQ5NjY3MzMzNCwtMjAxMDE5MjYzXX0=
 -->
