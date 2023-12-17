@@ -167,8 +167,9 @@ What was the command line flag used alongside this executable?
   
 
   
+### Well done!
 
-→
+We are provided 
 
 `print base64_decode_tostring('QmV3YXJlIHRoZSBDdWJlIHRoYXQgV29tYmxlcw==')`
 
@@ -176,5 +177,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjI0MjA3OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTU1MTQ1NTEyMCwtMjAxMDE5MjYzXX0=
 -->
