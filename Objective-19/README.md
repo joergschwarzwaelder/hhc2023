@@ -120,11 +120,50 @@ joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJS
 ```
 So we have now the IP of the domain controller **10.0.0.53**, a valid user name **elfy** and the password for this user **J4`ufC49/J4766**
 
+Testing these credentials:
+```
+alabaster@ssh-server-vm:~/impacket$ ./smbclient.py northpole.local/elfy@10.0.0.53       
+Impacket v0.11.0 - Copyright 2023 Fortra
+
+Password:
+Type help for list of commands
+
+# ls
+[-] No share selected
+# shares
+ADMIN$
+C$
+D$
+FileShare
+IPC$
+NETLOGON
+SYSVOL
+# cd FileShare
+[-] No share selected
+# use FileShare
+# ls
+drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 .
+drw-rw-rw-          0  Sun Dec 10 01:13:41 2023 ..
+-rw-rw-rw-     701028  Sun Dec 10 01:13:44 2023 Cookies.pdf
+-rw-rw-rw-    1521650  Sun Dec 10 01:13:44 2023 Cookies_Recipe.pdf
+-rw-rw-rw-      54096  Sun Dec 10 01:13:44 2023 SignatureCookies.pdf
+drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 super_secret_research
+-rw-rw-rw-        165  Sun Dec 10 01:13:44 2023 todo.txt
+# cat todo.txt
+1. Bake some cookies.
+2. Restrict access to C:\FileShare\super_secret_research to only researchers so everyone cant see the folder or read its contents
+3. Profit
+
+# 
+```
+
+So it seems that the access to "super_secret_research" is restricted to researchers.
+
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5MDY5OTksMTA4Nzg1MzE0NywtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMjMwODQzODMzLDEwODc4NTMxNDcsLTIwMT
+AxOTI2M119
 -->
