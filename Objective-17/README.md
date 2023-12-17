@@ -17,8 +17,14 @@ The web tool creates this SSH certificate:
 }
 ```
 
-With this SSH certificate (and the private key) we are able to login to the server as "monitor":
+With this SSH certificate (and the private key) we are able to login to the server as "monitor".
+On the server we make use of the Azure Metadata Instance Service to obtain an authentication token for https://management.azure.com/:
+```
 
+```
+
+```
+```
 
 
 
@@ -26,5 +32,5 @@ Lorem
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Njk0MjA3MiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTEyNzYwOTcxNzgsLTIwMTAxOTI2M119
 -->
