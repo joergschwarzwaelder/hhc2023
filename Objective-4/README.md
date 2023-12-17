@@ -14,7 +14,7 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
  
 3. Remote Code Execution via Java Deserialization of Stored Database Objects
 
-**false** port 88555/tcp does not exist
+**false**: port 88555/tcp does not exist
 
 4. Azure Function Application-SSH Configuration Key Signing Vulnerable to Principal Manipulation
 
@@ -26,7 +26,7 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 
 6. Stored Cross-Site Scripting Vulnerabilities
 
-**false** listed code is not valid HTML
+**false**: listed code is not valid HTML
 
   
 
@@ -38,14 +38,12 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 
 **true**
 
-  
-
 9. Internal IP Address Disclosure
 
-**false** shown location header shows 1192.168.112.16 which is not a v 
+**false**: shown location header shows 1192.168.112.16 which is not a valid IP address 
 
 **Achievement: Reportinator**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDEzMjQ5MjYsMjEyNzYwMjI4N119
+eyJoaXN0b3J5IjpbNTMyNzg4MDIzLDIxMjc2MDIyODddfQ==
 -->
