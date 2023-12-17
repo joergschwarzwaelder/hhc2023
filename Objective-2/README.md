@@ -1,10 +1,10 @@
 
 # Objective 2: Snowball Fight
-**Location: ChristLorem: Ipsum**  
+**Location: Christmas Island: Frosty's Beach**  
 
 Lorem
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTI1MTc4NywxNTQyOTM5OTUxXX0=
+eyJoaXN0b3J5IjpbMTI4MDQ2NDM2LDE1NDI5Mzk5NTFdfQ==
 -->
