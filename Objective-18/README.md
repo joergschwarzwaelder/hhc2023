@@ -51,15 +51,19 @@ NUM:
 ![NUM Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/NUMDecoder.png)
 `{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`
 This give a hint to the go-date `1224` and the go-time 1600.
-As we have to target four hours earlier, 
+As we have to target four hours earlier, we have to choose `1200`.
 
 RadioFax:
 ![RadioFaxDecoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/RadioFaxDecoder.png)
 Freq: `10426` Hz
 
+With the above private key we can create a signature for the above JWT token for the "GeeseIslandsSuperChiefCommunicationsOfficer" role and have access to the transmitter station.
 
+Setting these three values
+
+https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/completion.png
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMDQ1NDEwLC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTUzMzE1ODk0NiwtMjAxMDE5MjYzXX0=
 -->
