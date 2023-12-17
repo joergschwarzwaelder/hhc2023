@@ -32,10 +32,14 @@ joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJS
 }
 ```
 
+The second one is used by the web application of objective 17, so we will explore now "northpole-it-kv".
+
+
+
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzI1OTQ0OCwxMDg3ODUzMTQ3LC0yMD
+eyJoaXN0b3J5IjpbMTI5NjY2NTM2MiwxMDg3ODUzMTQ3LC0yMD
 EwMTkyNjNdfQ==
 -->
