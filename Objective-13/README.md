@@ -127,7 +127,7 @@ What was the name of the file the attacker copied from the fileshare? (This migh
 
 (2023-12-24T16:07:47Z)
 
-( 'txt.tsiLeciNythguaN\potkseD\:C txt.tsiLeciNythguaN\lacitirCnoissiM\$c\erahselifeloPhtroN\\ metI-ypoC c- exe.llehsrewop' -split '' | %{$_[0]}) -join ''
+`( 'txt.tsiLeciNythguaN\potkseD\:C txt.tsiLeciNythguaN\lacitirCnoissiM\$c\erahselifeloPhtroN\\ metI-ypoC c- exe.llehsrewop' -split '' | %{$_[0]}) -join ''`
 
 echo txt.tsiLeciNythguaN | rev
 
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODUzNzc1NywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTk5NDM4MzQxNywtMjAxMDE5MjYzXX0=
 -->
