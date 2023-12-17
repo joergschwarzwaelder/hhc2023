@@ -37,9 +37,17 @@ elf@dd0741506806:~/workshop/electrical$ find /opt/troll_den/ -iname '*troll*'
 [...]
 elf@dd0741506806:~/workshop/electrical$ find /opt/troll_den/ -user troll
 /opt/troll_den/apps/showcase/src/main/resources/template/ajaxErrorContainers/tr0LL_9528909612014411
-elf@dd0741506806:~/workshop/electrical$ find . -size +108k -size -110k
-./plugins/portlet-mocks/src/test/java/org/apache/t_r_o_l_l_2579728047101724
-elf@dd0741506806:/opt/troll_den$ ps -aef
+elf@dd0741506806:~/workshop/electrical$ find /opt/troll_den/ -size +108k -size -110k
+/opt/troll_den/plugins/portlet-mocks/src/test/java/org/apache/t_r_o_l_l_2579728047101724
+elf@dd0741506806:~/workshop/electrical$ ps -aef
+UID          PID    PPID  C STIME TTY          TIME CMD
+init           1       0  0 09:50 pts/0    00:00:00 /usr/bin/python3 /usr/local/bin/tmuxp load ./mysession.yaml
+elf         7096    7093  0 10:01 pts/2    00:00:00 /usr/bin/python3 /14516_troll
+elf         7426     157  0 10:02 pts/3    00:00:00 ps -aef
+elf@c772017f346a:~/workshop/electrical$ netstat -an | grep LISTEN
+tcp        0      0 0.0.0.0:54321           0.0.0.0:*               LISTEN     
+unix  2      [ ACC ]     STREAM     LISTENING     79232296 /tmp/tmux-1050/default
+
 elf@dd0741506806:/opt/troll_den$ netstat -an | grep LISTEN
 elf@dd0741506806:/opt/troll_den$ curl http://localhost:54321
 elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
@@ -48,6 +56,6 @@ elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDkyMjM2LC0yMTM3NTEyNDIzLDE0OT
-Y2NzMzMzQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTE2MjU0OTA5NTMsLTIxMzc1MTI0MjMsMT
+Q5NjY3MzMzNCwtMjAxMDE5MjYzXX0=
 -->
