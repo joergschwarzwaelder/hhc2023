@@ -43,20 +43,23 @@ From the same To-Do list, we know that the public key of the signatures is in [h
 In addition, using the same token, we can access [https://captainscomms.com/jwtDefault/rDecoder.tok](https://captainscomms.com/jwtDefault/rDecoder.tok). This token unlocks the role "radioDecoder" which is required to use the decoder function in the SDR receiver, providing these three pieces of information:
 
 CW:
-https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/CWDecoder.png
+![CW Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/CWDecoder.png)
 `... CQ CQ CQ DE KH644 - -- SILLY CAPTAIN! WE FOUND HIS FANCY RADIO PRIVATE KEY IN A FOLDER CALLED TH3CAPSPR1V4T3F0LD3R ...`
 With this information we are able to access the private signature key in [https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key](https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key) using the role "radioDecoder".
 
 NUM:
+![NUM Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/NUMDecoder.png)
 `{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`
-This give a hint to the go-date `1224` and the go-time `1600`.
+This give a hint to the go-date `1224` and the go-time 1600.
+As we have to target four hours earlier, 
 
 RadioFax:
-Freq: 10426 Hz
+![RadioFaxDecoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/RadioFaxDecoder.png)
+Freq: `10426` Hz
 
 
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5ODU0Njg1LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNjkwMDQ1NDEwLC0yMDEwMTkyNjNdfQ==
 -->
