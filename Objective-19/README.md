@@ -160,24 +160,172 @@ drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 super_secret_research
 So it seems that the access to "super_secret_research" is restricted to researchers.
 
 ```
-alabaster@ssh-server-vm:~/impacket$ ./GetADUsers.py -all -dc-ip 10.0.0.53 -dc-host npdc01  northpole.local/elfy
-Impacket v0.11.0 - Copyright 2023 Fortra
+alabaster@ssh-server-vm:~/.venv/bin$ ./ldapdomaindump -u northpole.local\\elfy -p 'J4`ufC49/J4766' 10.0.0.53
 
-Password:
-[*] Querying npdc01 for information about domain.
-Name                  Email                           PasswordLastSet      LastLogon           
---------------------  ------------------------------  -------------------  -------------------
-alabaster                                             2023-12-10 01:03:20.201036  2023-12-10 05:15:44.266084 
-Guest                                                 <never>              <never>             
-krbtgt                                                2023-12-10 01:10:48.599596  <never>             
-elfy                                                  2023-12-10 01:12:50.495758  2023-12-10 10:48:43.229485 
-wombleycube                                           2023-12-10 01:12:50.605198  2023-12-10 11:20:42.486017 
+alabaster@ssh-server-vm:~/.venv/bin$ ./ldd2pretty --directory .
+
+[...]
+    +------------------------+
+    | Users Infos            |
+    +------------------------+
+    
+Account: NORTHPOLE\wombleycube	Name: wombleycube	Desc: (null)
+Account: NORTHPOLE\elfy	Name: elfy	Desc: (null)
+Account: NORTHPOLE\krbtgt	Name: krbtgt	Desc: Key Distribution Center Service Account
+Account: NORTHPOLE\Guest	Name: Guest	Desc: Built-in account for guest access to the computer/domain
+Account: NORTHPOLE\alabaster	Name: alabaster	Desc: Built-in account for administering the computer/domain
+
+user:[wombleycube]
+user:[elfy]
+user:[krbtgt]
+user:[Guest]
+user:[alabaster]
+
+
+    +------------------------+import os.path
+    | Groups Infos           |
+    +------------------------+
+    
+group:[researchers]
+group:[DnsUpdateProxy]
+group:[DnsAdmins]
+group:[Enterprise Key Admins]
+group:[Key Admins]
+group:[Protected Users]
+group:[Cloneable Domain Controllers]
+group:[Enterprise Read-only Domain Controllers]
+group:[Read-only Domain Controllers]
+group:[Denied RODC Password Replication Group]
+group:[Allowed RODC Password Replication Group]
+group:[Terminal Server License Servers]
+group:[Windows Authorization Access Group]
+group:[Incoming Forest Trust Builders]
+group:[Pre-Windows 2000 Compatible Access]
+group:[Account Operators]
+group:[Server Operators]
+group:[RAS and IAS Servers]
+group:[Group Policy Creator Owners]
+group:[Domain Guests]
+group:[Domain Users]
+group:[Domain Admins]
+group:[Cert Publishers]
+group:[Enterprise Admins]
+group:[Schema Admins]
+group:[Domain Controllers]
+group:[Domain Computers]
+group:[Storage Replica Administrators]
+group:[Remote Management Users]
+group:[Access Control Assistance Operators]
+group:[Hyper-V Administrators]
+group:[RDS Management Servers]
+group:[RDS Endpoint Servers]
+group:[RDS Remote Access Servers]
+group:[Certificate Service DCOM Access]
+group:[Event Log Readers]
+group:[Cryptographic Operators]
+group:[IIS_IUSRS]
+group:[Distributed COM Users]
+group:[Performance Log Users]
+group:[Performance Monitor Users]
+group:[Network Configuration Operators]
+group:[Remote Desktop Users]
+group:[Replicator]
+group:[Backup Operators]
+group:[Print Operators]
+group:[Guests]
+group:[Users]
+group:[Administrators]
+
+[+] Getting domain group memberships:
+Group 'researchers' has member: NORTHPOLE\wombleycube
+
+[+] Getting domain group memberships:
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Read-only Domain Controllers
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Group Policy Creator Owners
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Domain Admins
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Cert Publishers
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Enterprise Admins
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Schema Admins
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\Domain Controllers
+Group 'Denied RODC Password Replication Group' has member: NORTHPOLE\krbtgt
+
+[+] Getting domain group memberships:
+Group 'Windows Authorization Access Group' has member: NORTHPOLE\S-1-5-9
+
+[+] Getting domain group memberships:
+Group 'Pre-Windows 2000 Compatible Access' has member: NORTHPOLE\npdc01
+Group 'Pre-Windows 2000 Compatible Access' has member: NORTHPOLE\NT AUTHORITY\Authenticated Users
+
+[+] Getting domain group memberships:
+Group 'Group Policy Creator Owners' has member: NORTHPOLE\alabaster
+
+[+] Getting domain group memberships:
+Group 'Domain Admins' has member: NORTHPOLE\alabaster
+
+[+] Getting domain group memberships:
+Group 'Cert Publishers' has member: NORTHPOLE\npdc01
+
+[+] Getting domain group memberships:
+Group 'Enterprise Admins' has member: NORTHPOLE\alabaster
+
+[+] Getting domain group memberships:
+Group 'Schema Admins' has member: NORTHPOLE\alabaster
+
+[+] Getting domain group memberships:
+Group 'Certificate Service DCOM Access' has member: NORTHPOLE\NT AUTHORITY\Authenticated Users
+
+[+] Getting domain group memberships:
+Group 'IIS_IUSRS' has member: NORTHPOLE\NT AUTHORITY\IUSR
+
+[+] Getting domain group memberships:
+Group 'Guests' has member: NORTHPOLE\Domain Guests
+Group 'Guests' has member: NORTHPOLE\Guest
+
+[+] Getting domain group memberships:
+Group 'Users' has member: NORTHPOLE\Domain Users
+Group 'Users' has member: NORTHPOLE\NT AUTHORITY\Authenticated Users
+Group 'Users' has member: NORTHPOLE\NT AUTHORITY\INTERACTIVE
+
+[+] Getting domain group memberships:
+Group 'Administrators' has member: NORTHPOLE\Domain Admins
+Group 'Administrators' has member: NORTHPOLE\Enterprise Admins
+Group 'Administrators' has member: NORTHPOLE\alabaster
+alabaster@ssh-server-vm:~/.venv/bin$ 
+
+alabaster@ssh-server-vm:~/.venv/bin$ ./ldd2bloodhound domain_users.json domain_groups.json
+
+alabaster@ssh-server-vm:~/.venv/bin$ cat group_membership.csv
+GroupName,AccountName,AccountType
+RESEARCHERS@NORTHPOLE.LOCAL,WOMBLEYCUBE@NORTHPOLE.LOCAL,user
+DOMAIN USERS@NORTHPOLE.LOCAL,WOMBLEYCUBE@NORTHPOLE.LOCAL,user
+DOMAIN USERS@NORTHPOLE.LOCAL,ELFY@NORTHPOLE.LOCAL,user
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,KRBTGT@NORTHPOLE.LOCAL,user
+DOMAIN USERS@NORTHPOLE.LOCAL,KRBTGT@NORTHPOLE.LOCAL,user
+GUESTS@NORTHPOLE.LOCAL,GUEST@NORTHPOLE.LOCAL,user
+DOMAIN GUESTS@NORTHPOLE.LOCAL,GUEST@NORTHPOLE.LOCAL,user
+GROUP POLICY CREATOR OWNERS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+DOMAIN ADMINS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+ENTERPRISE ADMINS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+SCHEMA ADMINS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+ADMINISTRATORS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+DOMAIN USERS@NORTHPOLE.LOCAL,ALABASTER@NORTHPOLE.LOCAL,user
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,READ-ONLY DOMAIN CONTROLLERS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,GROUP POLICY CREATOR OWNERS@NORTHPOLE.LOCAL,group
+GUESTS@NORTHPOLE.LOCAL,DOMAIN GUESTS@NORTHPOLE.LOCAL,group
+USERS@NORTHPOLE.LOCAL,DOMAIN USERS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,DOMAIN ADMINS@NORTHPOLE.LOCAL,group
+ADMINISTRATORS@NORTHPOLE.LOCAL,DOMAIN ADMINS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,CERT PUBLISHERS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,ENTERPRISE ADMINS@NORTHPOLE.LOCAL,group
+ADMINISTRATORS@NORTHPOLE.LOCAL,ENTERPRISE ADMINS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,SCHEMA ADMINS@NORTHPOLE.LOCAL,group
+DENIED RODC PASSWORD REPLICATION GROUP@NORTHPOLE.LOCAL,DOMAIN CONTROLLERS@NORTHPOLE.LOCAL,group
 ```
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTY4NjczLDEwODc4NTMxNDcsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTE2MTI4NjgwNzcsMTA4Nzg1MzE0NywtMj
+AxMDE5MjYzXX0=
 -->
