@@ -17,10 +17,10 @@ With the help of https://token.dev is was possible to decode this JWT and it was
 }.
 ```
 As this is not signed, it can easily be modified to `speed: -40` using this tool.
-Assigning the ne
+Assigning the new JWT to the cookie, the game is much easier to play.
 
 
-**Achievement: Ipsum**
+**Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzAyMjk5NSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTk2ODAxMzE2MSwtMjAxMDE5MjYzXX0=
 -->
