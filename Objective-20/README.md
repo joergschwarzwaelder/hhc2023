@@ -16,9 +16,9 @@ spoken with the voice of Wombley Cube.
 In order to achieve this, we use the [audio book](https://www.holidayhackchallenge.com/2023/wombleycube_the_enchanted_voyage.mp3.zip) Wombley gave us .
 With this data, we can head to https://play.ht, clone Wombley voice using the audio book and the "voice clone" feature and let this artificial voice speak the above sentence: [Audio file](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-20/And%20he%20whispered.wav%29)
 
-This file can be played against the access cont
+This file can be played against the access controller to open the door.
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjU4MDY1OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTY5Mzg2NTk0NCwtMjAxMDE5MjYzXX0=
 -->
