@@ -5,18 +5,18 @@ It is a prerequisite to have [Objective 19: Active Directory](https://github.com
 
 The aim of this objective is to get familiar with voice cloning using AI.
 
-We need the sentence from the file 
-InstructionsForEnteringSatelliteGroundStation.txt
-Note to self:
-
-To enter the Satellite Ground Station (SGS), say the following into the speaker:
-
-And he whispered, 'Now I shall be out of sight;
+We need the sentence from the file "InstructionsForEnteringSatelliteGroundStation.txt" from objective 19:
+```
+Now I shall be out of sight;
 So through the valley and over the height.'
 And he'll silently take his way.
+```
+spoken with the voice of Wombley Cube.
+
+In order to achieve this, we use the audio book Wombley gave us 
 
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNTE2ODQ4LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTY5MzU1Nzg2NywtMjAxMDE5MjYzXX0=
 -->
