@@ -8,7 +8,7 @@ There are two ways to solve this challenge:
 
 ### Picking the classic way
 Bow Ninecandle provides a hint to a [video](https://www.youtube.com/watch?v=27rE5ZvWLU0) showing a way to decode this type of locks.
-Using this 
+Using this information, it is still some effort to open the lock, but after a few attempts it is possible.
 
 ### Hacking the simulation
 Using the browser web developer console, there is a variable `lock_numbers` in the context `paddlelockdecode.com` revealing all three numbers. In addition, the other sticky number and guess number (from the classic way) are shown.
@@ -17,5 +17,5 @@ Using the browser web developer console, there is a variable `lock_numbers` in t
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU2NDgyMTIsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTg4NDI1MjYsLTIwMTAxOTI2M119
 -->
