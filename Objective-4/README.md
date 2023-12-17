@@ -26,30 +26,26 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 
 6. Stored Cross-Site Scripting Vulnerabilities
 
-**false** listed code is crap
+**false** listed code is not valid HTML
 
   
 
 7. Browsable Directory Structure
 
-true
-
-  
+**true**  
 
 8. Deprecated Version of PHP Scripting Language
 
-true
+**true**
 
   
 
 9. Internal IP Address Disclosure
 
-false
-
-shown location header shows 1192.168.112.16 and with that is fake 
+**false** shown location header shows 1192.168.112.16 which is not a v 
 
 **Achievement: Reportinator**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgyMzkwMjAsMjEyNzYwMjI4N119
+eyJoaXN0b3J5IjpbLTEzNDEzMjQ5MjYsMjEyNzYwMjI4N119
 -->
