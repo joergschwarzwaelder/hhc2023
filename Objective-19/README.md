@@ -195,11 +195,15 @@ Group 'researchers' has member: NORTHPOLE\wombleycube
 
 [...]
 ```
-As "wombleycube" is the only user in the "reasearchers"
+As "wombleycube" is the only user in the "researchers" group, we need to target him.
+
+```
+
+```
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTQ3NTYzMSwxMDg3ODUzMTQ3LC0yMD
+eyJoaXN0b3J5IjpbLTEyNDkyNzQ5MSwxMDg3ODUzMTQ3LC0yMD
 EwMTkyNjNdfQ==
 -->
