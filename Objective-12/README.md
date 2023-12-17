@@ -1,9 +1,10 @@
 # Objective 12: Na'an
 **Location: Film Noir Island: Chiaroscuro City**  
+**Hints from Shifty McShuffles**
 
-Lorem
 
-**Achievement: Ipsum**
+
+**Achievement: Na'an**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODk4NDc2OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTkzNzA2MTE2OCwtMjAxMDE5MjYzXX0=
 -->
