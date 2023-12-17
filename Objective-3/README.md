@@ -48,14 +48,12 @@ elf@dd0741506806:~/workshop/electrical$ netstat -an | grep LISTEN
 tcp        0      0 0.0.0.0:54321           0.0.0.0:*               LISTEN     
 unix  2      [ ACC ]     STREAM     LISTENING     79232296 /tmp/tmux-1050/default
 elf@dd0741506806:~/workshop/electrical$ curl http://localhost:54321
-troll.73180338045875elf@dd0741506806:~/workshop/electrical$ 
-curl http://localhost:54321
-curl http://localhost:54321elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
+troll.73180338045875elf@dd0741506806:~/workshop/electrical$ pkill 14516_troll
 ```
 
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDA4NDY3NCwtMjEzNzUxMjQyMywxND
+eyJoaXN0b3J5IjpbLTE3NDMyMzMzNiwtMjEzNzUxMjQyMywxND
 k2NjczMzM0LC0yMDEwMTkyNjNdfQ==
 -->
