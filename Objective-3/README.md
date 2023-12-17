@@ -5,10 +5,14 @@ Is this terminal the player gets to know some Linux basics.
 
 ```
 elf@dd0741506806:~$ ls
+HELP  troll_19315479765589239  workshop
 elf@dd0741506806:~$ cat troll_19315479765589239
+troll_24187022596776786
 elf@dd0741506806:~$ rm troll_19315479765589239  
 elf@dd0741506806:~$ pwd
+/home/elf
 elf@dd0741506806:~$ ls -a
+.  ..  .bash_history  .bash_logout  .bashrc  .profile  HELP  troll_19315479765589239  workshop
 elf@dd0741506806:~$ history | grep troll  
 elf@dd0741506806:~$ z_TROLL=troll_20249649541603754
 elf@dd0741506806:~$ cd workshop/
@@ -27,10 +31,11 @@ elf@dd0741506806:/opt/troll_den$ ps -aef
 elf@dd0741506806:/opt/troll_den$ netstat -an | grep LISTEN
 elf@dd0741506806:/opt/troll_den$ curl http://localhost:54321
 elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
-``
+```
 
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjY3MzMzNCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTMwMDIwNjY2MywxNDk2NjczMzM0LC0yMD
+EwMTkyNjNdfQ==
 -->
