@@ -2,9 +2,10 @@
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Alabaster Snowball**
 
+In this objective it shown 
 Lorem
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk1MjQwMjcsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMzE4ODYxNDQzLC0yMDEwMTkyNjNdfQ==
 -->
