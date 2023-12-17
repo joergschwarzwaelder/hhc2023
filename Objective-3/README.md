@@ -31,6 +31,7 @@ elf@dd0741506806:~/workshop/electrical$ echo "TROLL_REPELLENT" >> fuse2
 elf@dd0741506806:/opt/troll_den$ find . -iname '*troll*'  
 ./apps/showcase/src/main/resources/template/ajaxErrorContainers/tr0LL_9528909612014411
 elf@dd0741506806:/opt/troll_den$ find . -size +108k -size -110k
+./plugins/portlet-mocks/src/test/java/org/apache/t_r_o_l_l_2579728047101724
 elf@dd0741506806:/opt/troll_den$ ps -aef
 elf@dd0741506806:/opt/troll_den$ netstat -an | grep LISTEN
 elf@dd0741506806:/opt/troll_den$ curl http://localhost:54321
@@ -40,6 +41,6 @@ elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM2NzAzNDksMTQ5NjY3MzMzNCwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbODQ1MzQyMjQ1LDE0OTY2NzMzMzQsLTIwMT
+AxOTI2M119
 -->
