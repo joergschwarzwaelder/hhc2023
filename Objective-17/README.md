@@ -78,11 +78,12 @@ jsw@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1
 ```
 So the source code is stored in a Github [repository](https://github.com/SantaWorkshopGeeseIslandsDevOps/northpole-ssh-certs-fa).
 
-In the code it is easy to spot, that the principal does just default to "elf" but can be provided as a parameter in 
+In the code it is easy to spot, that the principal does just default to "elf" but can be provided as a parameter in the call. So we just have to supply the principal "admin" to the SSH certificate generation call:
+
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxNDEyOTQ0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTcxNjgzNTQxNCwtMjAxMDE5MjYzXX0=
 -->
