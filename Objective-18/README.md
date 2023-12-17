@@ -57,13 +57,13 @@ RadioFax:
 ![RadioFaxDecoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/RadioFaxDecoder.png)
 Freq: `10426` Hz
 
-With the above private key we can create a signature for the above JWT token for the "GeeseIslandsSuperChiefCommunicationsOfficer" role and have access to the transmitter station.
+With the above private key we can create a signature for the above JWT token for the "GeeseIslandsSuperChiefCommunicationsOfficer" role and have with this role access to the transmitter station.
 
-Setting these three values
+Setting these three values in the transmitter station finalizes the objective:
 
 https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/completion.png
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzE1ODk0NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTIwMTEyMTEwMTQsLTIwMTAxOTI2M119
 -->
