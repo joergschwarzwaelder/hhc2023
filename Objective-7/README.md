@@ -16,7 +16,7 @@ elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
 1457015 20 -rwsr-xr-x 1 root root 16952 Dec 2 22:17 /usr/bin/simplecopy
 ```
 
-`simplecopy`looks promising as this does usually not exist on Linux systems.
+`simplecopy` looks promising as this does usually not exist on Linux systems.
 
 Invoking this binary with some test arguments show interesting error messages and reveals the name of the binary in `/root`:
 ```
@@ -51,6 +51,6 @@ Your answer is correct!
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU2NDY3NTEsLTgyNjE3ODY4NCwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTYxOTUyMDY3MSwtODI2MTc4Njg0LC0yMD
+EwMTkyNjNdfQ==
 -->
