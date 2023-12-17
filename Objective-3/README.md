@@ -1,9 +1,11 @@
-# Objective n:  Lorem
-**Location: Lorem: Ipsum**  
+# Objective 3: Linux 101
+**Location: Christmas Island: Santa's Surf Shack**  
 
-Lorem
+Is this terminal the player gets to know some Linux basics.
 
 **Achievement: Ipsum**
+
+``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTQzODcyMDM2OSwtMjAxMDE5MjYzXX0=
 -->
