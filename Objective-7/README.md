@@ -1,9 +1,9 @@
 # Objective 7: Linux PrivEsc
-**Location: Island of Misfit Toys: OstriLorem: Ipsum**  
+**Location: Island of Misfit Toys: Ostrich Saloon**  
 
-Lorem
+The objective is to perform a privilege escalation in a Linux terminal session 
 
-**Achievement: Ipsum**
+**Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3OTYwMDQ3NSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTEwODcxNzEzOTMsLTIwMTAxOTI2M119
 -->
