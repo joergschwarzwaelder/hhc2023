@@ -43,10 +43,29 @@ elf@16e0a0834f6e:~$ az group list
 elf@16e0a0834f6e:~$ az functionapp list --resource-group northpole-rg1
 [...]
 elf@16e0a0834f6e:~$ az vm list --resource-group northpole-rg2
+[...]
 elf@16e0a0834f6e:~$ az vm run-command invoke --resource-group northpole-rg2 -n NP-VM1 --command-id RunShellScript --scripts "ls"
+{
+  "value": [
+    {
+      "code": "ComponentStatus/StdOut/succeeded",
+      "displayStatus": "Provisioning succeeded",
+      "level": "Info",
+      "message": "bin\netc\nhome\njinglebells\nlib\nlib64\nusr\n",
+      "time": 1702808672
+    },
+    {
+      "code": "ComponentStatus/StdErr/succeeded",
+      "displayStatus": "Provisioning succeeded",
+      "level": "Info",
+      "message": "",
+      "time": 1702808672
+    }
+  ]
+}
 ```
 
 **Achievement: Azure 101**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzcwNjk5NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTYzODQ5NjAwNywtMjAxMDE5MjYzXX0=
 -->
