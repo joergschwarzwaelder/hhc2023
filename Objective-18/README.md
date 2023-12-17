@@ -42,12 +42,17 @@ This rMonitor.tok JWT is a JWT for the role "radioMonitor":
 From the same To-Do list, we know that the public key of the signatures is in [https://captainscomms.com/jwtDefault/capsPubKey.key](https://captainscomms.com/jwtDefault/capsPubKey.key), accessible with the role "radioMonitor".
 In addition, using the same token, we can access [https://captainscomms.com/jwtDefault/rDecoder.tok](https://captainscomms.com/jwtDefault/rDecoder.tok). This token unlocks the role "radioDecoder" which is required to use the decoder function in the SDR receiver, providing these three pieces of information:
 
+CW:
+`... CQ CQ CQ DE KH644 - -- SILLY CAPTAIN! WE FOUND HIS FANCY RADIO PRIVATE KEY IN A FOLDER CALLED TH3CAPSPR1V4T3F0LD3R ...`
+With this information we are able to access the private signature key in [https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key](https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key) using the role "radioDecoder".
 
+NUM:
+`{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`
 
 
 
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjYyNDM5MSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTg5NTM0NjMwMiwtMjAxMDE5MjYzXX0=
 -->
