@@ -1,9 +1,9 @@
-# Objective n:  Lorem
-**Location: Lorem: Ipsum**  
+# Objective 11: Game Cartridges: Vol 3
+**Location: Steampunk Island: Rosty Quay**  
 
 Lorem
 
-**Achievement: Ipsum**
+**Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTE4MzIxMDExOSwtMjAxMDE5MjYzXX0=
 -->
