@@ -10,11 +10,15 @@ To solve this challenge, both versions of the game were byte compared in order t
 After changing this byte in the game0 binary to `0x01` , the character is not pushed back down anymore and instead push up effectively passing the "magical border".
 The game can now be played in a Gameboy simulator like VisualBoyAdvance.
 
+In the final screen a Morse code audio is played. This was recorded and decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
+
+**GL0RY**
+
 
 
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTc4MTQxMSw5NTMzMjUyNzQsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTI1MDAxODMwNywxODY5NzgxNDExLDk1Mz
+MyNTI3NCwtMjAxMDE5MjYzXX0=
 -->
