@@ -100,9 +100,7 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 - [ ] Festive 2FA: Roll out the new two-factor authentication system where the second factor is singing a Christmas carol. Jingle Bells is said to be the most secure.
 ```
 
-
-
-**Achievement: Ipsum**
+**Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ4MjQwMDEsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTE1NzE1MjA3NDgsLTIwMTAxOTI2M119
 -->
