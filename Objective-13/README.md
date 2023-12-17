@@ -24,20 +24,13 @@ What is the email address that was used to send this spear phishing email?
 
 **cwombley@gmail.com**
 
-  
-
-  
-
-  
-
-What was the subject line used in the spear phishing email?
+  What was the subject line used in the spear phishing email?
 
 `Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | where link=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project subject`
 
 **[EXTERNAL] Invoice foir reindeer food past due**
 
   
-
 ### Case 2:
 
 What is the role of our victim in the organization?
@@ -173,5 +166,5 @@ We are provided with the below command to be executed in the KQL prompt:
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE0NDQ5NTQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbOTc5MDU3ODU2LC0yMDEwMTkyNjNdfQ==
 -->
