@@ -7,7 +7,7 @@ Provided is the [hash](https://github.com/joergschwarzwaelder/hhc2023/blob/main/
 
 `$krb5asrep$23$alabaster_snowball@XMAS.LOCAL:22865a2bceeaa73227ea4021879eda02$8f07417379e610e2dcb0621462fec3675bb5a850aba31837d541e50c622dc5faee60e48e019256e466d29b4d8c43cbf5bf7264b12c21737499cfcb73d95a903005a6ab6d9689ddd2772b908fc0d0aef43bb34db66af1dddb55b64937d3c7d7e93a91a7f303fef96e17d7f5479bae25c0183e74822ac652e92a56d0251bb5d975c2f2b63f4458526824f2c3dc1f1fcbacb2f6e52022ba6e6b401660b43b5070409cac0cc6223a2bf1b4b415574d7132f2607e12075f7cd2f8674c33e40d8ed55628f1c3eb08dbb8845b0f3bae708784c805b9a3f4b78ddf6830ad0e9eafb07980d7f2e270d8dd1966` 
 
-and along with that a [password list](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-15/password_list.txt) containing 143 password candidates.
+and along with that a [password list](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-15/password_list.txt) containing 144 password candidates.
 
 A first analysis shows that this is a type 18200 hash ("Kerberos 5, etype 23, AS-REP").
 
@@ -39,6 +39,6 @@ Stopped: Wed Dec  6 17:09:27 2023
 
 **Achievement: Hashcat**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MDQ4MzUsMTU3OTEwNTk2MCwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbNTc3NjE2MzE2LDE1NzkxMDU5NjAsLTIwMT
+AxOTI2M119
 -->
