@@ -26,8 +26,10 @@ In addition, a "CaptainsCokie" is set without a signature:
 }
 ```
 
+From the Captain's ChatNPT Initial To-Do list (on the desk) we know, that one token resides in [https://captainscomms.com/jwtDefault/rMonitor.tok](https://captainscomms.com/jwtDefault/rMonitor.tok), accessible using a JWT for 
+
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjAwOTMsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTgzOTY5NDQxNCwtMjAxMDE5MjYzXX0=
 -->
