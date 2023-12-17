@@ -48,11 +48,14 @@ With this information we are able to access the private signature key in [https:
 
 NUM:
 `{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`
+This give a hint to the go-date `1224` and the go-time `1600`.
 
+RadioFax:
+Freq: 10426 Hz
 
 
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTM0NjMwMiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE4NjMxODY1MjcsLTIwMTAxOTI2M119
 -->
