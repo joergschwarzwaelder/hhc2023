@@ -71,7 +71,7 @@ joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJS
   }
 }
 ```
-As the vault URI differs from https://managent.azure.
+As the vault URI differs from "https://managent.azure.com/" (which is the validity scope of the current Bearer token), we need to head again to Alabaster's SSH host to generate a new Bearer token for the scope "https://vaul.azure.netJWT
 
 
 
@@ -79,6 +79,6 @@ As the vault URI differs from https://managent.azure.
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Njc1NzIxMiwxMDg3ODUzMTQ3LC0yMD
+eyJoaXN0b3J5IjpbMTg4Njk3MDI3MiwxMDg3ODUzMTQ3LC0yMD
 EwMTkyNjNdfQ==
 -->
