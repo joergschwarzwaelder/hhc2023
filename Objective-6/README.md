@@ -1,5 +1,6 @@
 # Objective 6: Luggage Lock
 **Location: Island of Misfit Toys: Squarewheel Yard**  
+**Hints from Garland Candlesticks**
 
 This objective is to open a (simulated) luggage lock.
 Using the provided hint this is absolutely doable.
@@ -8,5 +9,5 @@ Using the provided hint this is absolutely doable.
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjY3NDM3NSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTIwMDM3MTcxMzYsLTIwMTAxOTI2M119
 -->
