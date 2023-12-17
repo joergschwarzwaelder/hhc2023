@@ -249,7 +249,6 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 alabaster@ssh-server-vm:~/impacket$ KRB5CCNAME=wombleycube.ccache ./smbclient.py -k -no-pass -dc-ip 10.0.0.53 -target-ip 10.0.0.53 northpole.local/wombleycube@npdc01
 Impacket v0.11.0 - Copyright 2023 Fortra
 
-Password:
 Type help for list of commands
 # shares
 ADMIN$
@@ -285,7 +284,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk5MDc1MjcsMTE1NDAwNzk1MiwtMT
-QyMzA3NDQzLC0yMDAwMjc4Njc4LDExNjQzMzMxNzAsMTA4Nzg1
-MzE0NywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMjEyMTg4MDU0MCwxMTU0MDA3OTUyLC0xND
+IzMDc0NDMsLTIwMDAyNzg2NzgsMTE2NDMzMzE3MCwxMDg3ODUz
+MTQ3LC0yMDEwMTkyNjNdfQ==
 -->
