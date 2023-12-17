@@ -16,10 +16,8 @@ For the final number, "NaN" is smaller than every remaining number Shifty choose
 
 ### Bonus
 
-If the prechecks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the main part of the Python code.
-
-game](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game-solved.gb) 
+If the prechecks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the [main part of the Python code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-12/python-error.txt).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MDg4OTI0LC0xNjY4NzkxNzIyLDEzNz
-A4OTM3OTAsMTkzNzA2MTE2OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTQzODE5NDEzMywtMTY2ODc5MTcyMiwxMz
+cwODkzNzkwLDE5MzcwNjExNjgsLTIwMTAxOTI2M119
 -->
