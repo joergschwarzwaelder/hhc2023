@@ -4,7 +4,7 @@
 
 This objective is about picking a "Faster Lock" padlock with a dial using three digits between 0 and 39 (simulating a "Master Lock" padlock).
 
-There are two ways to solve this challenge:
+There are two ways to solve this challenge, the classic way and the hacking way.
 
 ### Picking the classic way
 Bow Ninecandle provides a hint to a [video](https://www.youtube.com/watch?v=27rE5ZvWLU0) showing a way to decode this type of locks.
@@ -17,5 +17,5 @@ Using the browser web developer console, there is a variable `lock_numbers` in t
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDI1MjYsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMjU5ODQwODcyLC0yMDEwMTkyNjNdfQ==
 -->
