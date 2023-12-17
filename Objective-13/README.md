@@ -14,19 +14,15 @@ How many Craftperson Elf’s are working from laptops?
 ### Case 1:  
 What is the email address of the employee who received this phishing email?
 
-OutboundNetworkEvents | where url=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | join (Employees) on $left.src_ip==$right.ip_addr | project email_addr
+`OutboundNetworkEvents | where url=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | join (Employees) on $left.src_ip==$right.ip_addr | project email_addr`
 
-alabaster_snowball@santaworkshopgeeseislands.org
-
-  
-
-  
+**alabaster_snowball@santaworkshopgeeseislands.org**
 
 What is the email address that was used to send this spear phishing email?
 
-Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | where link=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project sender
+`Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | where link=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project sender`
 
-cwombley@gmail.com
+**cwombley@gmail.com**
 
   
 
@@ -36,9 +32,9 @@ cwombley@gmail.com
 
 What was the subject line used in the spear phishing email?
 
-Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | where link=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project subject
+`Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | where link=="http://madelvesnorthpole.org/published/search/MonthlyInvoiceForReindeerFood.docx" | project subject`
 
-[EXTERNAL] Invoice foir reindeer food past due
+**[EXTERNAL] Invoice foir reindeer food past due**
 
   
 
@@ -46,17 +42,17 @@ Email | where recipient=="alabaster_snowball@santaworkshopgeeseislands.org" | wh
 
 What is the role of our victim in the organization?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project role
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project role`
 
-Head Elf
+**Head Elf**
 
   
 
 What is the hostname of the victim's machine?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname`
 
-Y1US-DESKTOP
+**Y1US-DESKTOP**
 
   
 
@@ -177,5 +173,5 @@ We are provided with the below command to be executed in the KQL prompt:
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjExNzE2NjIsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbNDU3MjA2NzA0LC0yMDEwMTkyNjNdfQ==
 -->
