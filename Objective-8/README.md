@@ -1,9 +1,9 @@
-# Objective 8:  Lorem
-**Location: Lorem: Ipsum**  
+# Objective 8: Faster Lock Combination
+**Location: Steampunk Island: Brass Bouy Port**  
 
 Lorem
 
-**Achievement: Ipsum**
+**Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjI4NTUxNSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTI3NjQzODMxNywtMjAxMDE5MjYzXX0=
 -->
