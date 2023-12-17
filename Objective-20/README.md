@@ -14,10 +14,10 @@ And he'll silently take his way.
 spoken with the voice of Wombley Cube.
 
 In order to achieve this, we use the [audio book](https://www.holidayhackchallenge.com/2023/wombleycube_the_enchanted_voyage.mp3.zip) Wombley gave us .
-With this data, we can head to https://play.ht, clone Wombley voice using the audio book and the voice clone feature
+With this data, we can head to https://play.ht, clone Wombley voice using the audio book and the "voice clone" feature and let this artificial voice speak the above sentence: 
 
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDUyODQ4NSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbNDI0NTU1NjM0LC0yMDEwMTkyNjNdfQ==
 -->
