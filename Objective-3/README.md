@@ -16,7 +16,10 @@ elf@dd0741506806:~$ ls -a
 elf@dd0741506806:~$ history | grep troll
     1  echo troll_9394554126440791
     [...]
-elf@dd0741506806:~$ z_TROLL=troll_20249649541603754
+elf@dd0741506806:~$ env | grep -i troll
+SESSNAME=Troll Wrangler
+z_TROLL=troll_20249649541603754
+OLDPWD=/opt/troll_den
 elf@dd0741506806:~$ cd workshop/
 elf@dd0741506806:~/workshop$ grep -i troll toolbox_*
 toolbox_191.txt:tRoLl.4056180441832623
@@ -41,6 +44,6 @@ elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MzQyMjQ1LDE0OTY2NzMzMzQsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTIxMzc1MTI0MjMsMTQ5NjY3MzMzNCwtMj
+AxMDE5MjYzXX0=
 -->
