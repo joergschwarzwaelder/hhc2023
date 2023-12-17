@@ -17,11 +17,14 @@ Using that it was found that the single digits of the coins amount are stored in
 - 10s: `0x44a4`
 - 1s: `0x4470`
 
-Setting these three bytes to 
+Setting these three bytes to `9` in the backup file results in an amount of `999` coins after the restore.
 
-###Pass the gap 
+###Pass the gap
+On the far right of the game, there is a gap at it is impossible to jump over it.
+So the idea was to modify the X position of the game character in the backup, to that 
+
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzk5NDU4OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTEzODQ2MDg1NDksLTIwMTAxOTI2M119
 -->
