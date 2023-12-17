@@ -9,14 +9,15 @@ This starts a Gameboy simulator with the game.
 The main objective in the game is a broken QR code which has to be repaired.
 It is possible to make music to uncover, which black block can be moved (by pushing them) and which locations are expected to receive a black block.
 
-Most of the blocks have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the final location.
+Most of the blocks have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the target location.
 
 The final QR code looks like this:
 
 ![QR Code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-9/qr-code.png)
+
 This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfusedgivingplanetsqrcode`, making the answer finally **santaconfusedgivingplanetsqrcode**.
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTg5MTI4OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTk2MjQ3NzU4MCwtMjAxMDE5MjYzXX0=
 -->
