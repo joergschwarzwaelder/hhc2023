@@ -8,7 +8,7 @@ The game was solved using the VisualBoyAdvance simulator.
 
 In the game there are effectively two challenges:
 
-###Obtain 999 coins
+### Obtain 999 coins
 There are three different kind of coins in the game with values 1, 10, and 100. The game has overflow issues so that is it impossible to make 999 with regular gaming.
 In order to analyze, how/were the amount of coins is stored, the game status was backed up using the simulator prior and after obtaining coins.
 Using that it was found that the single digits of the coins amount are stored in these locations:
@@ -19,7 +19,7 @@ Using that it was found that the single digits of the coins amount are stored in
 
 Setting these three bytes to `9` in the backup file results in an amount of `999` coins after the restore.
 
-###Pass the gap
+### Pass the gap
 On the far right of the game, there is a gap at it is impossible to jump over it.
 So the idea was to modify the X position of the game character in the backup, to that after a restore the gap was passed.
 After several tests it was found, that the X position is stored in byte position `0x4432` (low) and `0x4433` (high) of the backup.
@@ -30,5 +30,6 @@ If the game gets backed up in the scene where the character stand in front of th
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTY5NTA0NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ3NTc5MzIsLTI1NTY5NTA0NiwtMj
+AxMDE5MjYzXX0=
 -->
