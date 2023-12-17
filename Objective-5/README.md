@@ -1,9 +1,9 @@
-# Objective n:  Lorem
-**Location: Lorem: Ipsum**  
+# Objective 5: Azure 101
+**Location: Christmas Island: Rudolph's Rest**  
 
-Lorem
+In this obvjLorem
 
-**Achievement: Ipsum**
+**Achievement: Azure 101**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTEzNDE1MDMzNzEsLTIwMTAxOTI2M119
 -->
