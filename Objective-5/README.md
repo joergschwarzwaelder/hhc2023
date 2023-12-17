@@ -33,19 +33,20 @@ elf@16e0a0834f6e:~$ az group list
     "id": "/subscriptions/2b0942f3-9bca-484b-a508-abdae2db5e64/resourceGroups/northpole-rg2",
     "location": "westus",
     "managedBy": null,
-  "name": "northpole-rg2",
-  "properties": {
-    "provisioningState": "Succeeded"
-  },
+    "name": "northpole-rg2",
+    "properties": {
+      "provisioningState": "Succeeded"
+    },
     "tags": {}
   }
 ]
 elf@16e0a0834f6e:~$ az functionapp list --resource-group northpole-rg1
+[...]
 elf@16e0a0834f6e:~$ az vm list --resource-group northpole-rg2
 elf@16e0a0834f6e:~$ az vm run-command invoke --resource-group northpole-rg2 -n NP-VM1 --command-id RunShellScript --scripts "ls"
 ```
 
 **Achievement: Azure 101**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ4Mjg1OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTkxMzcwNjk5NiwtMjAxMDE5MjYzXX0=
 -->
