@@ -8,12 +8,11 @@ There are two ways to solve this challenge:
 ### Picking the classic way
 
 ### Hacking the simulation
-Using the browser web developer console, there is a variable `lock_numbers` in the context `paddlelockdecode******` revealing all three numbers. In addition, the other sticky number and guess number (from the clas
-
+Using the browser web developer console, there is a variable `lock_numbers` in the context `paddlelockdecode.com` revealing all three numbers. In addition, the other sticky number and guess number (from the classic way) are shown.
 
 ![Browser Developer Console](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-8/fasterlock-console.png)
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc2NTM3NzUsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTE3NzczNzEzMiwtMjAxMDE5MjYzXX0=
 -->
