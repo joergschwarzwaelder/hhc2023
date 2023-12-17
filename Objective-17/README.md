@@ -78,11 +78,11 @@ jsw@northpole:~$ curl -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1
 ```
 So the source code is stored in a Github [repository](https://github.com/SantaWorkshopGeeseIslandsDevOps/northpole-ssh-certs-fa).
 
-In the code it is easy to spot, 
+In the code it is easy to spot, that the principal "elf
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2ODM3ODQ2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTI5NDk1NzE3NSwtMjAxMDE5MjYzXX0=
 -->
