@@ -58,9 +58,9 @@ What is the hostname of the victim's machine?
 
 What is the source IP linked to the victim?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project ip_addr
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project ip_addr`
 
-10.10.0.4
+**10.10.0.4**
 
   
 
@@ -173,5 +173,5 @@ We are provided with the below command to be executed in the KQL prompt:
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MjA2NzA0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDE0NDQ5NTQsLTIwMTAxOTI2M119
 -->
