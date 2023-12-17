@@ -15,7 +15,7 @@ When the activity is started, a cookie "justWatchThisRole" is set containing thi
 }
 ```
 
-In addition, a "CaptainsCokie" is set without a signature:
+In addition, a "CaptainsCookie" is set without a signature:
 ```
 {
   "iss": "HHC 2023 Captain's Comms",
@@ -65,5 +65,5 @@ https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/completion
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTEyMTEwMTQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTQ5MTA0MTMwNywtMjAxMDE5MjYzXX0=
 -->
