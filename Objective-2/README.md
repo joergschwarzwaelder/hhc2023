@@ -14,8 +14,8 @@ For this open the browsers console, set the context to "room" and modify the dam
 
 ![Win](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-2/win.png)
 
-**Achievement: Snowball F**
+**Achievement: Snowball Fight**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU0MzAxLDEzNjExMDI3ODksLTE3Mz
-A2MTE4MzEsMTU0MjkzOTk1MV19
+eyJoaXN0b3J5IjpbMTcxNjM5MzgxNywxMzYxMTAyNzg5LC0xNz
+MwNjExODMxLDE1NDI5Mzk5NTFdfQ==
 -->
