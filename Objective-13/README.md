@@ -101,13 +101,13 @@ What is the timestamp when the attackers enumerated network shares on the machin
 
 `Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project timestamp,process_commandline`
 
-**2023-12-02T16:51:44Z → net share
+**2023-12-02T16:51:44Z** → `net share` command
 
   
 
 What was the hostname of the system the attacker moved laterally to?
 
-NorthPolefileshare ("process_commandline": cmd.exe /C net use \\NorthPolefileshare\c$ /user:admin AdminPass123)
+**NorthPolefileshare**  → `"process_commandline": cmd.exe /C net use \\NorthPolefileshare\c$ /user:admin AdminPass123)` command
 
   
 
@@ -117,9 +117,9 @@ NorthPolefileshare ("process_commandline": cmd.exe /C net use \\NorthPolefilesha
 
 When was the attacker's first base64 encoded PowerShell command executed on Alabaster's machine?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | where process_commandline contains "PowerShell" | project timestamp,process_commandline
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | where process_commandline contains "PowerShell" | project timestamp,process_commandline`
 
-2023-12-24T16:07:47Z
+**2023-12-24T16:07:47Z**
 
   
 
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjI2NTk2OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTExODUzNzc1NywtMjAxMDE5MjYzXX0=
 -->
