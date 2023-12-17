@@ -7,15 +7,15 @@ There are two different versions of this game. If the game is started, it is ran
 The only difference between both is, that a specific screen in one game is open on the top and you the player is pushed down a few steps when trying to pass. The other version is just the opposite: The screen is open on the bottom and the player is pushed up when trying to pass.
 
 To solve this challenge, both versions of the game were byte compared in order to find, where the "push down"/"push up" definition is done. It turned out, that on byte position `0x17c80` [game0](https://gamegosling.com/vol2-akHB27gg6pN0/rom/game0.gb) has a `0x02` and [game1](https://gamegosling.com/vol2-akHB27gg6pN0/rom/game1.gb) a `0x01`.
-After changing this byte in the game0 binary to `0x01` , the character is not pushed back down anymore and instead push up effectively passing the "magical border".
+After changing this byte in the game0 binary to `0x01` , the character is not pushed back down anymore and instead pushed up effectively passing the "magical border".
 The [game](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game-solved.gb) can now be played in a Gameboy simulator like VisualBoyAdvance.
 
-In the [final screen](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/final-screen.png) a [Morse code audio](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/Morse-Code.m4a) is played. This was recorded and decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
+In the [final screen](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/final-screen.png) a [Morse code audio](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/Morse-Code.m4a) is played. This was recorded and afterwards decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
 
 Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjUxODQ5Nyw3MjQwODEwODEsMTg2OT
-c4MTQxMSw5NTMzMjUyNzQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTIxNDAzNDAyMzcsNzI0MDgxMDgxLDE4Nj
+k3ODE0MTEsOTUzMzI1Mjc0LC0yMDEwMTkyNjNdfQ==
 -->
