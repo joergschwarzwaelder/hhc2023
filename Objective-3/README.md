@@ -44,18 +44,18 @@ UID          PID    PPID  C STIME TTY          TIME CMD
 init           1       0  0 09:50 pts/0    00:00:00 /usr/bin/python3 /usr/local/bin/tmuxp load ./mysession.yaml
 elf         7096    7093  0 10:01 pts/2    00:00:00 /usr/bin/python3 /14516_troll
 elf         7426     157  0 10:02 pts/3    00:00:00 ps -aef
-elf@c772017f346a:~/workshop/electrical$ netstat -an | grep LISTEN
+elf@dd0741506806:~/workshop/electrical$ netstat -an | grep LISTEN
 tcp        0      0 0.0.0.0:54321           0.0.0.0:*               LISTEN     
 unix  2      [ ACC ]     STREAM     LISTENING     79232296 /tmp/tmux-1050/default
-
-elf@dd0741506806:/opt/troll_den$ netstat -an | grep LISTEN
-elf@dd0741506806:/opt/troll_den$ curl http://localhost:54321
-elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
+elf@dd0741506806:~/workshop/electrical$ curl http://localhost:54321
+troll.73180338045875elf@dd0741506806:~/workshop/electrical$ 
+curl http://localhost:54321
+curl http://localhost:54321elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 ```
 
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU0OTA5NTMsLTIxMzc1MTI0MjMsMT
-Q5NjY3MzMzNCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTYxMDA4NDY3NCwtMjEzNzUxMjQyMywxND
+k2NjczMzM0LC0yMDEwMTkyNjNdfQ==
 -->
