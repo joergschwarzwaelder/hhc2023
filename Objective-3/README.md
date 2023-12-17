@@ -3,8 +3,6 @@
 
 Is this terminal the player gets to know some Linux basics.
 
-**Achievement: Ipsum**
-
 ``
 elf@dd0741506806:~$ ls
 elf@dd0741506806:~$ cat troll_19315479765589239
@@ -27,10 +25,12 @@ elf@dd0741506806:/opt/troll_den$ find . -iname '*troll*'
 elf@dd0741506806:/opt/troll_den$ find . -size +108k -size -110k
 elf@dd0741506806:/opt/troll_den$ ps -aef
 elf@dd0741506806:/opt/troll_den$ netstat -an | grep LISTEN
-elf@dd0741506806:/opt/troll_den$ curl [http://localhost:54321](http://localhost:54321/)
+elf@dd0741506806:/opt/troll_den$ curl http://localhost:54321
 elf@dd0741506806:/opt/troll_den$ pkill 14516_troll
 ``
 
+**Achievement: Linux 101**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyNDk2ODM2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTA5NjE1ODQxMCwtMjAxMDE5MjYzXX0=
 -->
