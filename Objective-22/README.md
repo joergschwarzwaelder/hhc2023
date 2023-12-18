@@ -151,9 +151,7 @@ mysql> select * from pointing_mode;
 
 ```
 
-
-
-**Achievement: Ipsum**
+**Achievement: Missile Diversion**
 
 
 ### Bonus
@@ -306,6 +304,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTM1OTk0ODA5MywtNTEwMjczMjY4LC00Nj
+YyNDIzMjEsLTIwMTAxOTI2M119
 -->
