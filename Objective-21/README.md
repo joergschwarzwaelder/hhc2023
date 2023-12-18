@@ -2,7 +2,9 @@
 **Location: Space Island: Zenith SGS**  
 
 The objective is to gain access to Jack's camera and find the third item on Jack's TODO list.
+
 To clear this objective, the provided [Docker image](https://www.holidayhackchallenge.com/2023/client_container.zip) has to be used.
+
 In the next step, GateXOR has to be used to establish a WireGuard VPN connection - the client side configuration is provided and has to be added to `/etc/wireguard/wg0.conf` in the Docker container. Afterwards the Wireguard connection can be brought up with `wp-quick up wg0`.
 Sample configuration:
 ```
@@ -42,6 +44,6 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDg0MDg1LDIwNDgxMDg5MTIsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTYzODQxNzA3MSw3MzYwODQwODUsMjA0OD
+EwODkxMiwtMjAxMDE5MjYzXX0=
 -->
