@@ -6,11 +6,14 @@ In the next step, GateXOR has to be used to establish a WireGuard VPN connection
 
 In the container is a "Consumer Test Tool" to interact with the server side.
 The directory service URI "maltcp://10.1.1.1:1024/nanosat-mo-supervisor-Directory" is used throughout the objective.
-With the button "Fetch Information" we can retrieve details about al
+With the button "Fetch Information" we can retrieve details about all registered providers. Initially only "nanosat-mo-supervisor" is available.
+We can connect to it by selecting this provider followed by pressing the button "Connect to Selected Provider".
+This opens a new tab "nanosat-mo-supervisor"
+
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjM2NDgxOCwyMDQ4MTA4OTEyLC0yMD
+eyJoaXN0b3J5IjpbMTkxNjYwODY4OSwyMDQ4MTA4OTEyLC0yMD
 EwMTkyNjNdfQ==
 -->
