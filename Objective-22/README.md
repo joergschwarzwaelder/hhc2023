@@ -26,12 +26,11 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 
 ### Bonus
 
-The credentials of the user "targeter" are in "MissileTargetingSystemMCAdapter.class", which can be decompiled:
+The credentials of the user "targeter" are in "MissileTargetingSystemMCAdapter.class" (part of ""), which can be decompiled:
 ```
 Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost:3306/missile_targeting_system?allowMultiQueries=true", "targeter", "cu3xmzp9tzpi00bdqvxq");
 ```
-
-
+Using these credentials, it is much easier to interact with the database directly (still through the Wireguard VPN, of course):
 ```
 mysql> show grants;
 +---------------------------------------------------------------------------------------------------------+
@@ -175,6 +174,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMzgyMDQ3LC00NjYyNDIzMjEsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTYxMjMyMzc4NCwtNDY2MjQyMzIxLC0yMD
+EwMTkyNjNdfQ==
 -->
