@@ -2,7 +2,7 @@
 **Location: Space Island: Zenith SGS**
 
 For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-21).
-The aim is to change the pointing mode from 0 ("Eatargeting system 
+The aim is to change the pointing mode from 0 ("Earth Point Mode") to 1 ("Sun Point Mode").
 
 In the first step, the app "missile-targeting-system" is started just like the "camera" app in objective 21.
 
@@ -23,6 +23,6 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MTAzLC00NjYyNDIzMjEsLTIwMTAxOT
-I2M119
+eyJoaXN0b3J5IjpbLTE2NTY2MzcxMTksLTQ2NjI0MjMyMSwtMj
+AxMDE5MjYzXX0=
 -->
