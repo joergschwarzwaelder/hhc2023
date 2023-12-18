@@ -19,7 +19,7 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 ```
 
 As the "satellite_query" is the only one we have write access to, we need to focus on this.
-Checking the contained data of shows a serialized Java object in column "object" and a Java source code in column "result".
+Checking the contained data shows a serialized Java object in column "object" and a Java source code in column "result" (binary data should be obtained with the MariaDB contained to_base64 and from_64 functions).
 
 Using [SerializationDumper](https://github.com/NickstaDB/SerializationDumper) we can analyse the serialized object:
 ```
@@ -132,6 +132,8 @@ Contents
                 Length - 41 - 0x00 29
                 Value - update pointing_mode set numerical_mode=1 - 0x75706461746520706f696e74696e675f6d6f646520736574206e756d65726963616c5f6d6f64653d31
 ```
+Insert
+
 
 
 **Achievement: Ipsum**
@@ -287,6 +289,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTQ3NTM4MCwtNDY2MjQyMzIxLC0yMD
+eyJoaXN0b3J5IjpbMTAzODkyMjY0OCwtNDY2MjQyMzIxLC0yMD
 EwMTkyNjNdfQ==
 -->
