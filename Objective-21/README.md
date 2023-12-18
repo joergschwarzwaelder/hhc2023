@@ -12,7 +12,10 @@ This opens a new tab "nanosat-mo-supervisor" on the subtab "Apps Launcher Servic
 As our objective is to take a picture using the camera, the "camera" app is selected followed by "runApp".
 
 Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider".
-A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service".
+A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service", where an action service definition for "Base64SnapImage" can be found.
+If this is selected and "submitAction" is pressed, the camera takes a picture and 
+
+
 
 
 
@@ -20,6 +23,6 @@ A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action s
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMzA2NTk1LDIwNDgxMDg5MTIsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTE3MTAwNTkwMTgsMjA0ODEwODkxMiwtMj
+AxMDE5MjYzXX0=
 -->
