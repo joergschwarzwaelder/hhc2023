@@ -19,17 +19,21 @@ AllowedIPs = 10.1.1.2/32
 In the container is a "Consumer Test Tool" to interact with the server side.
 The directory service URI "maltcp://10.1.1.1:1024/nanosat-mo-supervisor-Directory" is used throughout the objective.
 With the button "Fetch Information" we can retrieve details about all registered providers. Initially only "nanosat-mo-supervisor" is available.
+
 We can connect to it by selecting this provider followed by pressing the button "Connect to Selected Provider".
 This opens a new tab "nanosat-mo-supervisor" on the subtab "Apps Launcher Service".
 As our objective is to take a picture using the camera, the "camera" app is selected followed by "runApp".
 
 Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider".
+
 A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service", where an action service definition for "Base64SnapImage" can be found.
+
 If this is selected and "submitAction" is pressed, the camera takes a picture and this image is transferred base64 encoded to the client SW.
+
 This transfer can be captured using the installed "Wireshark" on the wg0 interface. As the traffic is unencrypted, it is easy to spot and extract the base64 image data from the TCP stream.
 Finally, this base64 data just has to be decoded.
 ![Camera image](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-21/image.jpg)
-As we need the third item on the TODO list, **
+As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the solution.
 
 
 
@@ -38,6 +42,6 @@ As we need the third item on the TODO list, **
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDc2MTAwLDIwNDgxMDg5MTIsLTIwMT
+eyJoaXN0b3J5IjpbNzM2MDg0MDg1LDIwNDgxMDg5MTIsLTIwMT
 AxOTI2M119
 -->
