@@ -11,13 +11,15 @@ We can connect to it by selecting this provider followed by pressing the button 
 This opens a new tab "nanosat-mo-supervisor" on the subtab "Apps Launcher Service".
 As our objective is to take a picture using the camera, the "camera" app is selected followed by "runApp".
 
-Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information".
+Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider".
+A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service".
+
 
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjg1ODczOSwyMDQ4MTA4OTEyLC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNTYzMzA2NTk1LDIwNDgxMDg5MTIsLTIwMT
+AxOTI2M119
 -->
