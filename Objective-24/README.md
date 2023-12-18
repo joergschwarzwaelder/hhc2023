@@ -1,9 +1,9 @@
-# Objective 24: BONUS! Fishing Ma Lorem
-**Location: Lorem: Ipsum**  
+# Objective 24: BONUS! Fishing Mastery
+**Location: Sea**
 
 Lorem
 
-**Achievement: Ipsum**
+**Achievement: BONUS! Fishing Mastery!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI5MTUxODcsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTEwMjQxOTY4MDEsLTIwMTAxOTI2M119
 -->
