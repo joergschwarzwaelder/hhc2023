@@ -7,7 +7,7 @@ To clear this objective, the [Docker image](https://www.holidayhackchallenge.com
 
 In the next step, GateXOR has to be used to establish a WireGuard VPN connection - the client side configuration is provided and has to be added to `/etc/wireguard/wg0.conf` in the Docker container. Afterwards the Wireguard connection can be brought up with `wp-quick up wg0`.
 Sample configuration:
-```
+``` #2
 [Interface]
 Address = 10.1.1.1/24
 PrivateKey = DQmUt0eU3kyXPrakUS74gUpG59ZZp0m8IBGrea2xF/k=
@@ -39,6 +39,6 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODI4MzU5OSw3MzYwODQwODUsMjA0OD
-EwODkxMiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbNDI5MjQ0NDU2LC03NDgyODM1OTksNzM2MD
+g0MDg1LDIwNDgxMDg5MTIsLTIwMTAxOTI2M119
 -->
