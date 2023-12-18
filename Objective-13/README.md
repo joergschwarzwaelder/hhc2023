@@ -1,5 +1,5 @@
 # Objective 13: KQL Kraken Hunt
-**Location: Film Noir Island: Gumshoe Alley PI Office**  
+**Location: Film Noir Island: Gumshoe Alley PI Office**
 **Hints provided by Tangle Coalbox**
 
 The aim of this objective is to get familiar with the Kusto platform and the KQL language, which is in total similar to Splunk.
@@ -30,8 +30,7 @@ What is the email address that was used to send this spear phishing email?
 
 **[EXTERNAL] Invoice foir reindeer food past due**
 
-  
-### Case 2:
+ ### Case 2:
 
 What is the role of our victim in the organization?
 
@@ -39,25 +38,19 @@ What is the role of our victim in the organization?
 
 **Head Elf**
 
-  
-
-What is the hostname of the victim's machine?
+ What is the hostname of the victim's machine?
 
 `Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname`
 
 **Y1US-DESKTOP**
 
-  
-
-What is the source IP linked to the victim?
+ What is the source IP linked to the victim?
 
 `Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project ip_addr`
 
 **10.10.0.4**
 
-  
-
-### Case 3:
+  ### Case 3:
 
 What time did Alabaster click on the malicious link? Make sure to copy the exact timestamp from the logs!
 
@@ -65,17 +58,11 @@ What time did Alabaster click on the malicious link? Make sure to copy the exact
 
 **2023-12-02T10:12:42Z**
 
-  
-
-What file is dropped to Alabaster's machine shortly after he downloads the malicious file?
+  What file is dropped to Alabaster's machine shortly after he downloads the malicious file?
 
 `Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join FileCreationEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project filename`
 
 **giftwrap.exe**
-
-  
-
-  
 
 ### Case 4:  
 The attacker created an reverse tunnel connection with the compromised machine. What IP was the connection forwarded to?
@@ -84,25 +71,17 @@ The attacker created an reverse tunnel connection with the compromised machine. 
 
 **113.37.9.17**
 
-  
-
-What is the timestamp when the attackers enumerated network shares on the machine?
+  What is the timestamp when the attackers enumerated network shares on the machine?
 
 `Employees | where email_addr =="alabaster_snowball@santaworkshopgeeseislands.org" | project hostname | join ProcessEvents on $left.hostname==$right.hostname | where timestamp>=datetime("2023-12-02T10:12:42Z") | project timestamp,process_commandline`
 
 **2023-12-02T16:51:44Z** → `net share` command
 
-  
-
-What was the hostname of the system the attacker moved laterally to?
+  What was the hostname of the system the attacker moved laterally to?
 
 **NorthPolefileshare**  → `"process_commandline": cmd.exe /C net use \\NorthPolefileshare\c$ /user:admin AdminPass123)` command
 
-  
-
 ### Case 5:
-
-  
 
 When was the attacker's first base64 encoded PowerShell command executed on Alabaster's machine?
 
@@ -110,9 +89,7 @@ When was the attacker's first base64 encoded PowerShell command executed on Alab
 
 **2023-12-24T16:07:47Z**
 
-  
-
-What was the name of the file the attacker copied from the fileshare? (This might require some additional decoding)
+ What was the name of the file the attacker copied from the fileshare? (This might require some additional decoding)
 
 The command executed at the above timestamp is:
 
@@ -122,9 +99,7 @@ The filename has to be reversed using `echo txt.tsiLeciNythguaN | rev`
 
 **NaughtyNiceList.txt**
 
-  
-
-The attacker has likely exfiltrated data from the file share. What domain name was the data exfiltrated to?
+ The attacker has likely exfiltrated data from the file share. What domain name was the data exfiltrated to?
 
 The activity was performed at 2023-12-24T16:58:43Z.
 Base64 decoding leads to:  
@@ -134,9 +109,6 @@ This is the decimal representation of the ASCII string `downwithsanta.exe -exfil
 
 **giftbox.com**
   
-
-  
-
 ### Case 6:
 
 What is the name of the executable the attackers used in the final malicious command?
@@ -147,15 +119,10 @@ The activity can be found at 2023-12-25T10:44:27Z.
 
 **downwithsanta.exe**
 
-  
-
 What was the command line flag used alongside this executable?
 
 **--wipeall**
 
-  
-
-  
 ### Well done!
 
 We are provided with the below command to be executed in the KQL prompt:
@@ -166,5 +133,5 @@ We are provided with the below command to be executed in the KQL prompt:
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MDU3ODU2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTQ1MTU3Mjk2NiwtMjAxMDE5MjYzXX0=
 -->
