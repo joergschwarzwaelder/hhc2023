@@ -75,7 +75,10 @@ Contents
                 Length - 41 - 0x00 29
                 Value - /opt/SatelliteQueryFileFolderUtility.java - 0x2f6f70742f536174656c6c697465517565727946696c65466f6c6465725574696c6974792e6a617661
 ```
-So this is a serialization of an object of class  "SatelliteQueryFileFolderUtility" - where we have a source code in column
+So this is a serialization of an object of class  "SatelliteQueryFileFolderUtility" - where we have a source code in column 3.
+We can see, that "isQuery" and "isUpdate" are both "false" and "pathOrStatement" contains "/opt/SatelliteQueryFileFolderUtility.java".
+
+Following the source code, the thw booleans
 
 
 **Achievement: Ipsum**
@@ -231,6 +234,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MTc5Njk1LC00NjYyNDIzMjEsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTEwNzY5ODkyMTIsLTQ2NjI0MjMyMSwtMj
+AxMDE5MjYzXX0=
 -->
