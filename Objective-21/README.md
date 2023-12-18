@@ -13,7 +13,8 @@ As our objective is to take a picture using the camera, the "camera" app is sele
 
 Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider".
 A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service", where an action service definition for "Base64SnapImage" can be found.
-If this is selected and "submitAction" is pressed, the camera takes a picture and 
+If this is selected and "submitAction" is pressed, the camera takes a picture and this image is transferred base64 encoded to the client SW.
+This transfer can be captured using the installed "Wireshark" on the wg0 interface. As the traffic is unencrypted, it is easy to spot and extract the base64 image data from the TCP stream.
 
 
 
@@ -23,6 +24,6 @@ If this is selected and "submitAction" is pressed, the camera takes a picture an
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAwNTkwMTgsMjA0ODEwODkxMiwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbNzAyMzkzNzE1LDIwNDgxMDg5MTIsLTIwMT
+AxOTI2M119
 -->
