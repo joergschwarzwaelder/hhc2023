@@ -18,6 +18,7 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`target_coordi
 Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode_to_str` TO `targeter`@`%` | 
 ```
 
+As the satellite_query"
 
 
 
@@ -174,6 +175,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MDg5OTE2LC00NjYyNDIzMjEsLTIwMT
+eyJoaXN0b3J5IjpbMTk3MDU0MTcxLC00NjYyNDIzMjEsLTIwMT
 AxOTI2M119
 -->
