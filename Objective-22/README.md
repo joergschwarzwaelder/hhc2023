@@ -18,7 +18,8 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`target_coordi
 Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode_to_str` TO `targeter`@`%` | 
 ```
 
-As the satellite_query"
+As the "satellite_query" is the only one we have write access to, we need to focus on this.
+Checking the contained data of shows a serialized Java object in column "object" and a Java source code in column "result".
 
 
 
@@ -175,6 +176,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDU0MTcxLC00NjYyNDIzMjEsLTIwMT
+eyJoaXN0b3J5IjpbNDAyODQ3MDg5LC00NjYyNDIzMjEsLTIwMT
 AxOTI2M119
 -->
