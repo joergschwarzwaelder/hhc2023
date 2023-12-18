@@ -8,12 +8,16 @@ In the container is a "Consumer Test Tool" to interact with the server side.
 The directory service URI "maltcp://10.1.1.1:1024/nanosat-mo-supervisor-Directory" is used throughout the objective.
 With the button "Fetch Information" we can retrieve details about all registered providers. Initially only "nanosat-mo-supervisor" is available.
 We can connect to it by selecting this provider followed by pressing the button "Connect to Selected Provider".
-This opens a new tab "nanosat-mo-supervisor"
+This opens a new tab "nanosat-mo-supervisor" on the subtab "Apps Launcher Service".
+As our objective is to take a picture using the camera, the "camera" app is selected followed by "runApp".
+
+Next we nagivate back to "Communications Settings" and refresh the data with "Fetch Information".
+
 
 
 
 **Achievement: Ipsum**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjYwODY4OSwyMDQ4MTA4OTEyLC0yMD
+eyJoaXN0b3J5IjpbLTQwNjg1ODczOSwyMDQ4MTA4OTEyLC0yMD
 EwMTkyNjNdfQ==
 -->
