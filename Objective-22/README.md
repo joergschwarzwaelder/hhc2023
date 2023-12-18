@@ -26,6 +26,10 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 
 ### Bonus
 
+The credentials of the user "targeter" are in "MissileTargetingSystemMCAdapter.class", which can be decompiled:
+```
+Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost:3306/missile_targeting_system?allowMultiQueries=true", "targeter", "cu3xmzp9tzpi00bdqvxq");
+```
 
 
 ```
@@ -171,6 +175,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDQwNjU0LC00NjYyNDIzMjEsLTIwMT
+eyJoaXN0b3J5IjpbNjkwMzgyMDQ3LC00NjYyNDIzMjEsLTIwMT
 AxOTI2M119
 -->
