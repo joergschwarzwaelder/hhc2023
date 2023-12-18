@@ -37,13 +37,8 @@ Finally, this base64 data just has to be decoded.
 ![Camera image](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-21/image.jpg)
 As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the solution.
 
-
-
-
-
-
-**Achievement: Ipsum**
+**Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODQxNzA3MSw3MzYwODQwODUsMjA0OD
+eyJoaXN0b3J5IjpbMTkwNDMwODcyMCw3MzYwODQwODUsMjA0OD
 EwODkxMiwtMjAxMDE5MjYzXX0=
 -->
