@@ -135,6 +135,15 @@ Contents
 Converting this back into the serialized object and inserting this into the table gives the expected result in column "result":
 ```
 |   2 | 0xACED00057372001F536174656C6C697465517565727946696C65466F6C6465725574696C69747912D4F68D0EB392CB0200035A0007697351756572795A000869735570646174654C000F706174684F7253746174656D656E747400124C6A6176612F6C616E672F537472696E673B7870010174002975706461746520706F696E74696E675F6D6F646520736574206E756D65726963616C5F6D6F64653D31 | SQL Update completed.
+
+mysql> select * from pointing_mode;
++----+----------------+
+| id | numerical_mode |
++----+----------------+
+|  1 |              1 |
++----+----------------+
+1 row in set (0,13 sec)
+
 ```
 
 
@@ -167,7 +176,7 @@ mysql> select * from pointing_mode;
 +----+----------------+
 | id | numerical_mode |
 +----+----------------+
-|  1 |              1 |
+|  1 |              0 |
 +----+----------------+
 1 row in set (0,12 sec)
 
@@ -292,6 +301,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDAwODIzMiwtNDY2MjQyMzIxLC0yMD
+eyJoaXN0b3J5IjpbMTU2MDIxMDAwNCwtNDY2MjQyMzIxLC0yMD
 EwMTkyNjNdfQ==
 -->
