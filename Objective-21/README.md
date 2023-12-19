@@ -5,7 +5,7 @@ The objective is to gain access to Jack's camera and find the third item on Jack
 
 To clear this objective, the [Docker image](https://www.holidayhackchallenge.com/2023/client_container.zip) provided by the vending machine "NanoSat-o-Matic" has to be used.
 
-In the next step, GateXOR has to be used to establish a WireGuard VPN connection - the client side configuration is provided and has to be added to `/etc/wireguard/wg0.conf` in the Docker container. Afterwards the Wireguard connection can be brought up with `wp-quick up wg0`.
+In the next step, GateXOR has to be used to establish a WireGuard VPN connection - the client side configuration is provided and has to be added to `/etc/wireguard/wg0.conf` in the Docker container. Afterwards the Wireguard connection can be brought up with `wg-quick up wg0`.
 Sample configuration:
 ```
 [Interface]
@@ -39,6 +39,7 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODI4MzU5OSwtNzQ4MjgzNTk5LDczNj
-A4NDA4NSwyMDQ4MTA4OTEyLC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTMyMzU2NjYzMiwtNzQ4MjgzNTk5LC03ND
+gyODM1OTksNzM2MDg0MDg1LDIwNDgxMDg5MTIsLTIwMTAxOTI2
+M119
 -->
