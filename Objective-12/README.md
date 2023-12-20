@@ -1,5 +1,5 @@
 # Objective 12: Na'an
-**Location: Film Noir Island: Chiaroscuro City**  
+**Location: Film Noir Island: Chiaroscuro City**
 **Hints from Shifty McShuffles**
 
 The aim of this objective is raise awareness of the special handling of "NaN" (non a number) in Python.
@@ -18,7 +18,7 @@ For the final number, "NaN" is smaller than every remaining number Shifty choose
 
 If the prechecks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the [main part of the Python code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-12/python-error.txt).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMyMjIyMjYsLTQzODE5NDEzMywtMT
-Y2ODc5MTcyMiwxMzcwODkzNzkwLDE5MzcwNjExNjgsLTIwMTAx
-OTI2M119
+eyJoaXN0b3J5IjpbLTQ5NjA3MjQ2NiwtNDM4MTk0MTMzLC0xNj
+Y4NzkxNzIyLDEzNzA4OTM3OTAsMTkzNzA2MTE2OCwtMjAxMDE5
+MjYzXX0=
 -->
