@@ -1,6 +1,5 @@
 # Objective 2: Snowball Fight
-**Location: Christmas Island: Frosty's Beach**
-
+**Location: Christmas Island: Frosty's Beach**  
 **Hints provided by Morcel Nougat**
 
 In this game, the player has a snowball fight against Santa and some Elves.
@@ -17,6 +16,6 @@ For this, open the browsers console, set the context to "room/" and modify the d
 
 **Achievement: Snowball Fight**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg0MTYxMjYsNzQ5NDA0NTI4LDEzNj
-ExMDI3ODksLTE3MzA2MTE4MzEsMTU0MjkzOTk1MV19
+eyJoaXN0b3J5IjpbLTMxMjk0MDMwNCw3NDk0MDQ1MjgsMTM2MT
+EwMjc4OSwtMTczMDYxMTgzMSwxNTQyOTM5OTUxXX0=
 -->
