@@ -154,7 +154,7 @@ Converting this back into the serialized object and inserting this into the tabl
 ```
 mysql> insert into satellite_query (object) values (from_base64("rO0ABXNyAB9TYXRlbGxpdGVRdWVyeUZpbGVGb2xkZXJVdGlsaXR5EtT2jQ6zkssCAANaAAdpc1F1ZXJ5WgAIaXNVcGRhdGVMAA9wYXRoT3JTdGF0ZW1lbnR0ABJMamF2YS9sYW5nL1N0cmluZzt4cAEBdAApdXBkYXRlIHBvaW50aW5nX21vZGUgc2V0IG51bWVyaWNhbF9tb2RlPTE="));
 ```
- gives the expected result in column "result":
+ gives the expected result in column "results":
 ```
 |   2 | 0xACED00057372001F536174656C6C697465517565727946696C65466F6C6465725574696C69747912D4F68D0EB392CB0200035A0007697351756572795A000869735570646174654C000F706174684F7253746174656D656E747400124C6A6176612F6C616E672F537472696E673B7870010174002975706461746520706F696E74696E675F6D6F646520736574206E756D65726963616C5F6D6F64653D31 | SQL Update completed.
 
@@ -336,7 +336,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNTUyODIxLC00MzQ0NTY1NTMsMTM1OT
-k0ODA5MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2
-M119
+eyJoaXN0b3J5IjpbLTEyNzc3NzA1ODYsLTQzNDQ1NjU1MywxMz
+U5OTQ4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5
+MjYzXX0=
 -->
