@@ -54,8 +54,12 @@ Your answer is correct!
 
 ### Alternative
 
-As the 
+As it is also possible to provide the answer to the executable on the commandline, it is possible to complete this objective with just one command (even without knowing the executable name):
+
+```
+simplecopy "; /root/*" santa
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxMDIwMywtMTkyMTE2MjUxMCwtMT
+eyJoaXN0b3J5IjpbLTU4OTA4MTUzMiwtMTkyMTE2MjUxMCwtMT
 c2NjU1MTYyMCwtODI2MTc4Njg0LC0yMDEwMTkyNjNdfQ==
 -->
