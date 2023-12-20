@@ -1,6 +1,5 @@
 # Objective 17: Certificate SSHenanigans
-**Location: Pixel Island: Raincaster Cliffs**
-
+**Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Alabaster Snowball**
 
 In this objective it shown how SSH certificates can be used for SSH authentication. For this, a [web tool](https://northpole-ssh-certs-fa.azurewebsites.net/api/create-cert?code=candy-cane-twirl) is provided which signs SSH public keys with the principal "elf". With that it is possible to login to "ssh-server-vm.santaworkshopgeeseislands.org" as user "monitor".
@@ -103,6 +102,6 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5ODU5ODc4LC0xNTcxNTIwNzQ4LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE1MjA3NDgsLTE1NzE1MjA3NDgsLT
+IwMTAxOTI2M119
 -->
