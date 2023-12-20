@@ -10,12 +10,12 @@ In order to summon "Elf the dwarf" as helper, the JavaScript code has to be twea
 ![Breakpoint](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-2/breakpoint.png)
 
 In addition, to make the game easier, it is possible to set the damage of the opponent's snowballs to 0.
-For this, open the browsers console, set the context to "room" and modify the damage variable `snowballDmg=0`
+For this, open the browsers console, set the context to "room/" and modify the damage variable `snowballDmg=0`
 
 ![Win](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-2/win.png)
 
 **Achievement: Snowball Fight**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTcyMzUyNywxMzYxMTAyNzg5LC0xNz
-MwNjExODMxLDE1NDI5Mzk5NTFdfQ==
+eyJoaXN0b3J5IjpbNzQ5NDA0NTI4LDEzNjExMDI3ODksLTE3Mz
+A2MTE4MzEsMTU0MjkzOTk1MV19
 -->
