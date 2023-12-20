@@ -172,7 +172,10 @@ The result is calculated and added to the database by a process running on the s
 ```
 java -cp SatelliteReader.jar:mariadb-java-client-2.7.4.jar:gson-2.9.1.jar SatelliteReader
 ```
-It uses the database user "targeter_admin" to interact with the database
+It uses the database user "targeter_admin" to interact with the database. This user has "update" permissions on the tables "pointing_mode" and "satellite_query":
+
+```
+[{"Grants for targeter_admin@%":"GRANT USAGE ON *.* TO `targeter_admin`@`%` IDENTIFIED BY PASSWORD \u0027*4DB0B6CA59DBAC65309B8BE434744367FDF5DCAC\u0027"},{"Grants for targeter_admin@%":"GRANT SELECT, UPDATE ON `missile_targeting_system`.`pointing_mode` TO `targeter_admin`@`%`"},{"Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`messaging` TO `targeter_admin`@`%`"},{"Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`target_coordinates` TO `targeter_admin`@`%`"},{"Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointing_mode_to_str` TO `targeter_admin`@`%`"},{"Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"}]
 
 
 **Achievement: Missile Diversion**
@@ -328,7 +331,7 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0Mjg4NDgyMiwtNDM0NDU2NTUzLDEzNT
-k5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMDEwMTky
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTE3MTYxMjMwLC00MzQ0NTY1NTMsMTM1OT
+k0ODA5MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2
+M119
 -->
