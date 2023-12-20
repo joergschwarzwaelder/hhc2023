@@ -1,5 +1,6 @@
 # Objective 13: KQL Kraken Hunt
 **Location: Film Noir Island: Gumshoe Alley PI Office**
+
 **Hints provided by Tangle Coalbox**
 
 The aim of this objective is to get familiar with the Kusto platform and the KQL language, which is in total similar to Splunk.
@@ -133,5 +134,6 @@ We are provided with the below command to be executed in the KQL prompt:
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTU3Mjk2NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTU4MDA3MDAyNCwtNDUxNTcyOTY2LC0yMD
+EwMTkyNjNdfQ==
 -->
