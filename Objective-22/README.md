@@ -168,6 +168,13 @@ mysql> select * from pointing_mode;
 
 ```
 
+The result is calculated and added to the database by a process running on the server side:
+```
+java -cp SatelliteReader.jar:mariadb-java-client-2.7.4.jar:gson-2.9.1.jar SatelliteReader
+```
+It uses "
+
+
 **Achievement: Missile Diversion**
 
 
@@ -321,6 +328,7 @@ public class SatelliteQueryFileFolderUtility implements Serializable {
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDQ1NjU1MywxMzU5OTQ4MDkzLC01MT
-AyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTM4NjY2MTU2NCwtNDM0NDU2NTUzLDEzNT
+k5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMDEwMTky
+NjNdfQ==
 -->
