@@ -19,7 +19,7 @@ elf@745490537a8a:~$ find / -perm -4000 -ls 2>/dev/null
 
 `simplecopy` looks promising as this does usually not exist on Linux systems (and has a recent last modified date).
 
-Invoking this binary with some test arguments show interesting error messages and reveals the name of the binary in `/root`:
+Invoking this binary with some test arguments shows interesting error messages and reveals the name of the binary in `/root`:
 ```
 elf@745490537a8a:~$ simplecopy "; ls -l /root" b
 cp: missing file operand
@@ -52,6 +52,6 @@ Your answer is correct!
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzExNDQyNjEsLTE3NjY1NTE2MjAsLT
+eyJoaXN0b3J5IjpbLTE5MjExNjI1MTAsLTE3NjY1NTE2MjAsLT
 gyNjE3ODY4NCwtMjAxMDE5MjYzXX0=
 -->
