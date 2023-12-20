@@ -4,7 +4,7 @@
 
 The objective is a browser game where the player has to target elves which move very fast over the screen.
 
-If the browser developer console it was easy to spot, that the game uses a cookie `ElfHunt_JWT` which contains a JWT token:
+In the browser developer console it was easy to spot, that the game uses a cookie `ElfHunt_JWT` which contains a JWT token:
 `eyJhbGciOiJub25lIiwidHlwIjoiSldUIn0.eyJzcGVlZCI6LTUwMH0.`
 
 With the help of https://token.dev is was possible to decode this JWT and it was found as an unsigned JWT with the content:
@@ -24,5 +24,5 @@ Assigning the new JWT to the cookie, the game is much easier to play.
 
 **Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzOTQ2NTUsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTIxMTk4NjA4OSwtMjAxMDE5MjYzXX0=
 -->
