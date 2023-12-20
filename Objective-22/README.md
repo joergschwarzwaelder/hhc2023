@@ -175,7 +175,7 @@ mysql> select * from pointing_mode;
 
 ### Bonus
 
-The credentials of the user "targeter" are in "MissileTargetingSystemMCAdapter.class" (part of "missile-targeting-system-2.1.0-SNAPSHOT.jar"), which can be decompiled:
+The credentials of the user "targeter" are in "MissileTargetingSystemMCAdapter.class" (part of "missile-targeting-system-2.1.0-SNAPSHOT.jar"), which can be decompiled (for example using :
 ```
 Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost:3306/missile_targeting_system?allowMultiQueries=true", "targeter", "cu3xmzp9tzpi00bdqvxq");
 ```
@@ -336,7 +336,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4ODkzOTkwLC00MzQ0NTY1NTMsMTM1OT
-k0ODA5MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2
-M119
+eyJoaXN0b3J5IjpbLTExMTQyOTM3MDcsLTQzNDQ1NjU1MywxMz
+U5OTQ4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5
+MjYzXX0=
 -->
