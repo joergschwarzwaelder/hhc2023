@@ -1,5 +1,6 @@
 # Objective 18: The Captain's Comms
 **Location: Steampunk Island: Brass Bouy Port**
+
 **Hints provided by Chimney Scissorsticks**
 
 This objective is a deep dive into JWT tokens.
@@ -73,5 +74,5 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA4MDc1NDUsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMjQyNTY5MzY5LC0yMDEwMTkyNjNdfQ==
 -->
