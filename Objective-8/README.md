@@ -1,6 +1,5 @@
 # Objective 8: Faster Lock Combination
-**Location: Steampunk Island: Brass Bouy Port**
-
+**Location: Steampunk Island: Brass Bouy Port**  
 **Hints from Bow Ninecandle**
 
 This objective is about picking a "Faster Lock" padlock with a dial using three digits between 0 and 39 (simulating a "Master Lock" padlock).
@@ -18,6 +17,6 @@ Using the browser web developer console, there is a variable `lock_numbers` in t
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTEzNjg2LDI1OTg0MDg3MiwtMjAxMD
+eyJoaXN0b3J5IjpbMjU5ODQwODcyLDI1OTg0MDg3MiwtMjAxMD
 E5MjYzXX0=
 -->
