@@ -1,5 +1,6 @@
 # Objective 16: Elf Hunt
 **Location: Pixel Island: Raincaster Cliffs**
+
 **Hints provided by Piney Sappington**
 
 The objective is a browser game where the player has to target elves which move very fast over the screen.
@@ -24,5 +25,5 @@ Assigning the new JWT to the cookie, the game is much easier to play.
 
 **Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3Njc5MTk5LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTk2NDU4OTgxMSwtMjAxMDE5MjYzXX0=
 -->
