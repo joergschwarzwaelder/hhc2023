@@ -1,5 +1,6 @@
 # Objective 7: Linux PrivEsc
-**Location: Island of Misfit Toys: Ostrich Saloon**  
+**Location: Island of Misfit Toys: Ostrich Saloon**
+**Hints provided by Rose Mold**
 
 The objective is to perform a privilege escalation in a Linux terminal session. Finally the binary residing in `/root` has to be executed.
 The first approach is to find `suid` files on the file system:
@@ -51,6 +52,6 @@ Your answer is correct!
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTUyMDY3MSwtODI2MTc4Njg0LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjY1NTE2MjAsLTgyNjE3ODY4NCwtMj
+AxMDE5MjYzXX0=
 -->
