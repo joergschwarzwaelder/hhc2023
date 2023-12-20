@@ -9,7 +9,7 @@ There are two different versions of this game. If the game is started, it is ran
 The only difference between both is, that a specific screen in one game is open on the top and you the player is pushed down a few steps when trying to pass. The other version is just the opposite: The screen is open on the bottom and the player is pushed up when trying to pass.
 
 game0:  
-![game0](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game0.png)
+![game0](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game0.png)  
 game1:  
 ![game1](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/game1.png)
 
@@ -23,7 +23,7 @@ Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjY4NzEzLC0xMjg0ODA4ODcwLC0yMT
+eyJoaXN0b3J5IjpbODIxMjYwNTIxLC0xMjg0ODA4ODcwLC0yMT
 QwMzQwMjM3LDcyNDA4MTA4MSwxODY5NzgxNDExLDk1MzMyNTI3
 NCwtMjAxMDE5MjYzXX0=
 -->
