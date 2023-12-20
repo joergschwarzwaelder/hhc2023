@@ -1,5 +1,5 @@
 # Objective 3: Linux 101
-**Location: Christmas Island: Santa's Surf Shack**  
+**Location: Christmas Island: Santa's Surf Shack**
 
 Is this terminal the player gets to know some Linux basics.
 
@@ -54,6 +54,6 @@ troll.73180338045875elf@dd0741506806:~/workshop/electrical$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMyMzMzNiwtMjEzNzUxMjQyMywxND
-k2NjczMzM0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNDkwMzQxMzY4LC0yMTM3NTEyNDIzLDE0OT
+Y2NzMzMzQsLTIwMTAxOTI2M119
 -->
