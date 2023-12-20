@@ -1,5 +1,5 @@
 # Objective 19: Active Directory
-**Location: Pixel Island: Raincaster Cliffs**  
+**Location: Pixel Island: Raincaster Cliffs**
 **Hints provided by Ribb Bonbowford**
 
 This objective is a continuation of [Objective 17: Certificate SSHenanigans](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-17). It is a prerequisite to have this already cleared.
@@ -284,7 +284,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTg4MDU0MCwxMTU0MDA3OTUyLC0xND
-IzMDc0NDMsLTIwMDAyNzg2NzgsMTE2NDMzMzE3MCwxMDg3ODUz
-MTQ3LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMzM2MTkwMzAwLDExNTQwMDc5NTIsLTE0Mj
+MwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMzMTcwLDEwODc4NTMx
+NDcsLTIwMTAxOTI2M119
 -->
