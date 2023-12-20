@@ -25,6 +25,7 @@ admin
 monitor@ssh-server-vm:/etc/ssh/auth_principals$ cat monitor 
 elf
 ```
+So in order to be able to login as "alabaster" we need a SSH certificate for t
 
 and can make use of the Azure Metadata Instance Service to obtain an authentication token for https://management.azure.com/:
 ```
@@ -102,6 +103,6 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE1MjA3NDgsLTE1NzE1MjA3NDgsLT
+eyJoaXN0b3J5IjpbLTE2MTQwNDc1NjcsLTE1NzE1MjA3NDgsLT
 IwMTAxOTI2M119
 -->
