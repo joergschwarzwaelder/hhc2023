@@ -282,9 +282,11 @@ So through the valley and over the height.'
 And he'll silently take his way.
 ```
 
+**InstructionsForEnteringSatelliteGroundStation.txt**
+
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTg4MDU0MCwxMTU0MDA3OTUyLC0xND
-IzMDc0NDMsLTIwMDAyNzg2NzgsMTE2NDMzMzE3MCwxMDg3ODUz
-MTQ3LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNTMxNDU1NDA2LDExNTQwMDc5NTIsLTE0Mj
+MwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMzMTcwLDEwODc4NTMx
+NDcsLTIwMTAxOTI2M119
 -->
