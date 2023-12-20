@@ -1,5 +1,5 @@
 # Objective 9: Game Cartridges: Vol 1
-**Location: Island of Misfit Toys: Tarnished Trove**  
+**Location: Island of Misfit Toys: Tarnished Trove**
 **Hints provided by Dusty Giftwrap**
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
 
@@ -19,5 +19,5 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjQ3NzU4MCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTQxMTc3NDY2OCwtMjAxMDE5MjYzXX0=
 -->
