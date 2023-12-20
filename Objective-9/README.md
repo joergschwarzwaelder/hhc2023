@@ -1,6 +1,8 @@
 # Objective 9: Game Cartridges: Vol 1
 **Location: Island of Misfit Toys: Tarnished Trove**
+
 **Hints provided by Dusty Giftwrap**
+
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
 
 The Game Cartrige 1 can be found at the above location at 31/35.
@@ -19,5 +21,5 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTc3NDY2OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTI2MjcxNjYyNCwtMjAxMDE5MjYzXX0=
 -->
