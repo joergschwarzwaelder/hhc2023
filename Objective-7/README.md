@@ -1,6 +1,5 @@
 # Objective 7: Linux PrivEsc
-**Location: Island of Misfit Toys: Ostrich Saloon**
-
+**Location: Island of Misfit Toys: Ostrich Saloon**  
 **Hints provided by Rose Mold**
 
 The objective is to perform a privilege escalation in a Linux terminal session. Finally the binary residing in `/root` has to be executed.
@@ -53,6 +52,6 @@ Your answer is correct!
 
 **Achievement: Linux PrivEsc**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjg5ODI5MCwtMTc2NjU1MTYyMCwtOD
+eyJoaXN0b3J5IjpbMTU1MjAwNzQyMCwtMTc2NjU1MTYyMCwtOD
 I2MTc4Njg0LC0yMDEwMTkyNjNdfQ==
 -->
