@@ -41,7 +41,7 @@ This rMonitor.tok JWT is a JWT for the role "radioMonitor":
 }
 ```
 
-From the same To-Do list, we know that the public key of the signatures is in [https://captainscomms.com/jwtDefault/capsPubKey.key](https://captainscomms.com/jwtDefault/capsPubKey.key), accessible with the role "radioMonitor".
+From the same To-Do list, we know that the public key of the signatures is in [https://captainscomms.com/jwtDefault/keys/capsPubKey.key](https://captainscomms.com/jwtDefault/keys/capsPubKey.key), accessible with the role "radioMonitor".
 In addition, using the same token, we can access [https://captainscomms.com/jwtDefault/rDecoder.tok](https://captainscomms.com/jwtDefault/rDecoder.tok). This token unlocks the role "radioDecoder" which is required to use the decoder function in the SDR receiver, providing these three pieces of information:
 
 **CW:**
@@ -73,5 +73,5 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NTYyMDU1LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTkxMTk2ODksLTIwMTAxOTI2M119
 -->
