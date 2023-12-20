@@ -7,7 +7,7 @@ The Game Cartrige 1 can be found at the above location at 31/35.
 It can be started anytime from the "Items" section in the game.
 This starts a Gameboy simulator with the game.
 The main objective in the game is a broken QR code which has to be repaired.
-It is possible to make music to uncover, which black block can be moved (by pushing them) and which locations are expected to receive a black block.
+It is possible to make music to uncover, which black block can be moved (by pushing it) and which locations are expected to receive a black block.
 
 Most of the blocks have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the target location.
 
@@ -19,5 +19,5 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyMTMzMDA0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTE4MDI5OTA5OSwtMjAxMDE5MjYzXX0=
 -->
