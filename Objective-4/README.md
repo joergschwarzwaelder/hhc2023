@@ -1,5 +1,5 @@
 # Objective 4: Reportinator
-**Location: Christmas Island: Rudolph's Rest**  
+**Location: Christmas Island: Rudolph's Rest**
 
 In this objective a penetration testing report is shown to the player, which was created by an LLM AI.
 The player has to comment on each of the 9 findings whether it is a true or a false finding.
@@ -45,5 +45,5 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 **Achievement: Reportinator**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNzg4MDIzLDIxMjc2MDIyODddfQ==
+eyJoaXN0b3J5IjpbMTc2MDU5MjYzMSwyMTI3NjAyMjg3XX0=
 -->
