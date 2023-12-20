@@ -1,6 +1,5 @@
 # Objective 10: Game Cartridges: Vol 2
-**Location: Pixel Island: Driftbit Grotto**
-
+**Location: Pixel Island: Driftbit Grotto** 
 **Hints provided by Dusty Giftwrap**
 
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
@@ -20,7 +19,7 @@ Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDkxNTM2NiwtMjE0MDM0MDIzNyw3Mj
+eyJoaXN0b3J5IjpbMTc1MzQ5NjIyMiwtMjE0MDM0MDIzNyw3Mj
 QwODEwODEsMTg2OTc4MTQxMSw5NTMzMjUyNzQsLTIwMTAxOTI2
 M119
 -->
