@@ -1,7 +1,7 @@
 # Objective 22: Missile Diversion
 **Location: Space Island: Zenith SGS**
 
-For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-21).
+For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-21) is used.
 The aim is to change the pointing mode from 0 ("Earth Point Mode") to 1 ("Sun Point Mode").
 
 In the first step, the app "missile-targeting-system" is started just like the "camera" app in objective 21.
@@ -336,7 +336,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDAwNjQ0OCwtNDM0NDU2NTUzLDEzNT
-k5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMDEwMTky
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwOTk0OTc5NDksLTQzNDQ1NjU1MywxMz
+U5OTQ4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5
+MjYzXX0=
 -->
