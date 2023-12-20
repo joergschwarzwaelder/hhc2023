@@ -8,7 +8,7 @@ The aim of this objective is to get familiar with voice cloning using AI.
 
 We need the sentence from the file "InstructionsForEnteringSatelliteGroundStation.txt" from objective 19:
 ```
-Now I shall be out of sight;
+And he whispered, 'Now I shall be out of sight;
 So through the valley and over the height.'
 And he'll silently take his way.
 ```
@@ -21,6 +21,6 @@ This file can be played against the access controller to open the door.
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIzNTY4NzQsLTEwNjIzNTY4NzQsLT
+eyJoaXN0b3J5IjpbLTE1MDE2MjI2MDQsLTEwNjIzNTY4NzQsLT
 E5NDI3MjE4MjIsMTA0NDYyNDM3MiwtMjAxMDE5MjYzXX0=
 -->
