@@ -24,7 +24,7 @@ Setting these three bytes to `9` in the backup file results in an amount of `999
 ### Pass the gap
 On the far right of the game, there is a gap at it is impossible to jump over it.
 
-[gap](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/gap.png)
+![gap](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-10/gap.png)
 
 So the idea was to modify the X position of the game character in the backup, to that after a restore the gap was passed.
 After several tests it was found, that the X position is stored in byte position `0x4432` (low) and `0x4433` (high) of the backup.
@@ -35,6 +35,6 @@ If the game gets backed up in the screen where the character stand in front of t
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTY2NDc2NTQsLTI1NTY5NTA0NiwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTU2MjAzNzIzLC0xNjU2NjQ3NjU0LC0yNT
+U2OTUwNDYsLTIwMTAxOTI2M119
 -->
