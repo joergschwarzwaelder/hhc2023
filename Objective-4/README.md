@@ -44,6 +44,9 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 
 **Achievement: Reportinator**
 
+### Alternative
+As an alternative, as there are only 9 true/false choices in total, i.e. 512 combinations, the solution can easily be brute forced using a script.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDU5MjYzMSwyMTI3NjAyMjg3XX0=
+eyJoaXN0b3J5IjpbLTc5NzU0NzcwMiwxNzYwNTkyNjMxLDIxMj
+c2MDIyODddfQ==
 -->
