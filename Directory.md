@@ -11,7 +11,7 @@
 ### Terminals
 |Terminal Name|Island|Area|Coordinates|
 |-------------|------|----|-----------|
-|Access Speaker|Space Island|Spaceport Point|34/-11|
+|Space Island Access Speaker|Space Island|Spaceport Point|34/-11|
 |Azure 101|Christmas Island|Rudolph’s Rest|11/29|
 |Elf Hunt|Pixel Island|Raincaster Cliffs|29/17|
 |Faster Lock Combination|Steampunk Island|Brass Bouy Port|10/20|
@@ -89,5 +89,5 @@
 |Wombley Cube|Space Island|Zenith SGS|7/4|
 |Wunorse Openslae|Christmas Island|NetWars|8/1|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODQ0MTM3NF19
+eyJoaXN0b3J5IjpbLTY5MDA4MzE1MSwxODc4NDQxMzc0XX0=
 -->
