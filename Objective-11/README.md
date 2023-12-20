@@ -26,15 +26,15 @@ On the far right of the game, there is a gap at it is impossible to jump over it
 
 ![gap](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/gap.png)
 
-So the idea was to modify the X position of the game character in the backup, to that after a restore the gap was passed.
+So the idea was to modify the X position of the game character in a saved game, to that after a restore the gap was passed.
 After several tests it was found, that the X position is stored in byte position `0x4432` (low) and `0x4433` (high) of the backup.
-If the game gets backed up in the screen where the character stand in front of the gap (to have the right scene), the "high" position can be changed to `0x40`. After a [restore](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/game0.sgm) , the game character is on the right of the gap.
+If the game gets saved in the screen where the character is positioned in front of the gap (to have the right scene), the "high" position can be changed to `0x40`. After a [restore](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/game0.sgm) , the game character is on the right of the gap.
 
 **Answer: !tom+elf!**
 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTAyNjEyMiwtMTY1NjY0NzY1NCwtMj
-U1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTExNDE4NDUyODksLTE2NTY2NDc2NTQsLT
+I1NTY5NTA0NiwtMjAxMDE5MjYzXX0=
 -->
