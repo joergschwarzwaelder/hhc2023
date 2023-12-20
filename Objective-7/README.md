@@ -51,7 +51,11 @@ Your answer is correct!
 
 
 **Achievement: Linux PrivEsc**
+
+### Alternative
+
+As the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjExNjI1MTAsLTE3NjY1NTE2MjAsLT
-gyNjE3ODY4NCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE4MzAxMDIwMywtMTkyMTE2MjUxMCwtMT
+c2NjU1MTYyMCwtODI2MTc4Njg0LC0yMDEwMTkyNjNdfQ==
 -->
