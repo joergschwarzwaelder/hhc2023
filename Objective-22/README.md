@@ -77,8 +77,7 @@ Contents
                 Value - /opt/SatelliteQueryFileFolderUtility.java - 0x2f6f70742f536174656c6c697465517565727946696c65466f6c6465725574696c6974792e6a617661
 ```
 So this is a serialization of an object of class  "SatelliteQueryFileFolderUtility" - where we have a source code in column 3.
-We can see, that "isQuery" and "isUpdate" are both "false" and "pathOrStatement" contains "/opt/SatelliteQueryFileFolderUtility.java". With these parameters, 
-
+We can see, that "isQuery" and "isUpdate" are both "false" and "pathOrStatement" contains "/opt/SatelliteQueryFileFolderUtility.java". With these parameters, a call to the "getResults" method of this object delivers the file content of "/opt/SatelliteQueryFileFolderUtility.java", which is the source code of the class.
 
 Following the source code, the two booleans can be set to "true" and the string to "update pointing_mode set numerical_mode=1" on order to modify the pointing mode:
 Modification of the above:
@@ -337,7 +336,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNTc3ODgsLTQzNDQ1NjU1MywxMzU5OT
-Q4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5MjYz
-XX0=
+eyJoaXN0b3J5IjpbNTYwNTUyODIxLC00MzQ0NTY1NTMsMTM1OT
+k0ODA5MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2
+M119
 -->
