@@ -17,9 +17,7 @@
 
 [Map of the Game](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Map.md)
 
-[Location of the NPC Characters](https://github.com/joergschwarzwaelder/hhc2022/blob/main/NPC%20Directory.md)
-
-[KTM Locations](https://github.com/joergschwarzwaelder/hhc2022/blob/main/KTM%20Locations.md)
+[Location of NPC, Terminals, and Items](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Directory.md)
 
 ## Main Objectives
 
@@ -51,5 +49,6 @@
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
+eyJoaXN0b3J5IjpbMTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MT
+kyNzQ1MDRdfQ==
 -->
