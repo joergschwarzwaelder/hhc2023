@@ -10,7 +10,7 @@ Using this information, we know that there are 171 different species out there w
 
 **Achievement: BONUS! Fishing Mastery!**
 
-Fishing automated using 
+Fishing automated using a Python3 script:
 ```
 HHC2023 🪿  username:joergen
 HHC2023 🪿  password:
@@ -363,6 +363,6 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MDY5NDgsMTQ2MDYzODU4MSwtMTAyND
-E5NjgwMSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE0NjE2NzY2MSwxNDYwNjM4NTgxLC0xMD
+I0MTk2ODAxLC0yMDEwMTkyNjNdfQ==
 -->
