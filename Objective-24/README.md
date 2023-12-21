@@ -8,8 +8,6 @@ In the "sea" HTML code we can see a link to the [Fish Density Reference](https:/
 ```
 Using this information, we know that there are 171 different species out there with different habitats.
 
-**Achievement: BONUS! Fishing Mastery!**
-
 Fishing automated using a Python3 script [Fishing-as-a-Service.py](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-24/faas.py):
 ```
 HHC2023 🪿  username:joergen
@@ -360,9 +358,10 @@ Thu Dec 21 13:01:26 2023: *** caught 🐠 Whirly Snuffleback Trout, 3 more to go
 Thu Dec 21 15:25:04 2023: *** caught 🐠 Glittering Gummy Whipray, 2 more to go
 Thu Dec 21 16:01:48 2023: *** caught 🐠 Bumblecado Finstache Hybridsail, 1 more to go
 Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more to go
-
 ```
+
+**Achievement: BONUS! Fishing Mastery!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc2MzAzNjIsMTQ2MDYzODU4MSwtMT
+eyJoaXN0b3J5IjpbLTIwMDQwNjcxODAsMTQ2MDYzODU4MSwtMT
 AyNDE5NjgwMSwtMjAxMDE5MjYzXX0=
 -->
