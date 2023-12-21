@@ -20,7 +20,7 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 More information about the database content in section "Bonus" below.
 
 As the table "satellite_query" is the only one we have write access to, we need to focus on this.
-Checking the contained data shows a serialized Java object in column "object" and a Java source code in column "result" (working with binary data should done using the MariaDB contained to_base64 and from_base64 functions).
+Checking the contained data shows a serialized Java object in column "object" and a [Java source code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-22/SatelliteQueryFileFolderUtility.java) in column "result" (working with binary data should done using the MariaDB contained to_base64 and from_base64 functions).
 
 Using [SerializationDumper](https://github.com/NickstaDB/SerializationDumper) we can analyse the serialized object:
 ```
@@ -334,7 +334,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIzNjg5NTYsLTQzNDQ1NjU1MywxMz
-U5OTQ4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMjAxMDE5
-MjYzXX0=
+eyJoaXN0b3J5IjpbLTQ3MTcxNDc3NiwtMTI3MjM2ODk1NiwtND
+M0NDU2NTUzLDEzNTk5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQy
+MzIxLC0yMDEwMTkyNjNdfQ==
 -->
