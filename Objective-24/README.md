@@ -8,6 +8,8 @@ In the "sea" HTML code we can see a link to the [Fish Density Reference](https:/
 ```
 Using this information, we know that there are 171 different species out there with different habitats.
 
+Ideally fishing is performed in the hotspot location of Piscis Cyberneticus Skodo, as all 171 species are available here. There is no need to move to another location to catch all fishes.
+
 Fishing automated using a Python3 script [Fishing-as-a-Service.py](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-24/faas.py):
 ```
 HHC2023 🪿  username:joergen
@@ -362,6 +364,6 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 
 **Achievement: BONUS! Fishing Mastery!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQwNjcxODAsMTQ2MDYzODU4MSwtMT
-AyNDE5NjgwMSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTE0MjA1NjIxMiwtMjAwNDA2NzE4MCwxND
+YwNjM4NTgxLC0xMDI0MTk2ODAxLC0yMDEwMTkyNjNdfQ==
 -->
