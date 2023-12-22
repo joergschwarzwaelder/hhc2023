@@ -11,7 +11,7 @@ The game was solved using the VisualBoyAdvance simulator.
 In the game there are effectively two challenges:
 
 ### Obtain 999 coins
-There are three different kind of coins in the game with values 1, 10, and 100. The game has overflow issues so that is it impossible to make 999 with regular gaming.
+There are three different kinds of coins in the game with values 1, 10, and 100. The game has overflow issues so that is it impossible to make 999 with regular gaming.
 In order to analyze, how/where the amount of coins is stored, the game status was backed up using the simulator prior and after obtaining coins.
 Using that it was found that the single digits of the coins amount are stored in these locations:
 
@@ -35,6 +35,6 @@ If the game gets saved in the screen where the character is positioned in front 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODE2NzU2MSwtMTE0MTg0NTI4OSwtMT
+eyJoaXN0b3J5IjpbMTQ0ODU3MTk1OCwtMTE0MTg0NTI4OSwtMT
 Y1NjY0NzY1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
 -->
