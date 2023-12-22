@@ -3,7 +3,7 @@
 **Hints provided by Dusty Giftwrap**  
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
 
-The Game Cartrige 3 can be found at the above location at 23/31. As Rosty Quay is [a maze](https://github.com/joergschwarzwaelder/hhc2023/main/Objective-11/Rusty%20Quay.md) in this area, it is advised to zoom out in the browser to find the right way.
+The Game Cartrige 3 can be found at the above location at 23/31. As Rosty Quay is [a maze](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/Rusty%20Quay.md) in this area, it is advised to zoom out in the browser to find the right way.
 The game can be started anytime from the "Items" section in the game.
 
 The game was solved using the VisualBoyAdvance simulator.
@@ -35,6 +35,6 @@ If the game gets saved in the screen where the character is positioned in front 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODI4NzY3MzMsLTExNDE4NDUyODksLT
-E2NTY2NDc2NTQsLTI1NTY5NTA0NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTc0ODE2NzU2MSwtMTE0MTg0NTI4OSwtMT
+Y1NjY0NzY1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
 -->
