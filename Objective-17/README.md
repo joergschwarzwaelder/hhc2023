@@ -4,6 +4,8 @@
 
 In this objective it shown how SSH certificates can be used for SSH authentication. For this, a [web tool](https://northpole-ssh-certs-fa.azurewebsites.net/api/create-cert?code=candy-cane-twirl) running in Azure is provided which signs SSH public keys with the principal "elf". With that it is possible to login to "ssh-server-vm.santaworkshopgeeseislands.org" as user "monitor".
 
+The objective is to login to the server as "alabaster" and grab his TODO list.
+
 Sample SSH public key:
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKaOSLQJfY/Mm39aSP6kE6Lwc72PAdilEePpx1/d+CRq joergen@northpole
@@ -87,7 +89,7 @@ In the code it is easy to spot, that the principal does just default to "elf" bu
 {"ssh_cert": "ssh-ed25519-cert-v01@openssh.com AAAAIHNzaC1lZDI1NTE5LWNlcnQtdjAxQG9wZW5zc2guY29tAAAAJzI4NjY5MDc2NTUyNTIzMTQwNjE2MzEyOTYwMDE0MTE4NjU3MDk2NQAAACCmjki0CX2PzJt/Wkj+pBOi8HO9jwHYpRHj6cdf3fgkagAAAAAAAAABAAAAAQAAACRhYTJkYWY4NS04NDI2LTRjYzMtODAwYi0wMzlhM2ZhYWViOGYAAAAJAAAABWFkbWluAAAAAGV/JQsAAAAAZaQQNwAAAAAAAAASAAAACnBlcm1pdC1wdHkAAAAAAAAAAAAAADMAAAALc3NoLWVkMjU1MTkAAAAgaTYY0wKYmRc8kcdFAf35MzgJGuyr/sEvTCn4/qsIhYcAAABTAAAAC3NzaC1lZDI1NTE5AAAAQHntvqzNyPQy9dnyRatxGXeEZwSsf02LLnIJ/DauD+hB5J+HNgZgjZc8A+2aZpt8lrY8TYGqp+s2GnH3Bor7BAU= ", "principal": "admin"}
 ```
 
-With this SSH certificate it is possible to login to the server as "alabaster":
+With this SSH certificate it is possible to login to the server as "alabaster" and grab his TODO list:
 ```
 alabaster@ssh-server-vm:~$ cat alabaster_todo.md 
 # Geese Islands IT & Security Todo List
@@ -103,6 +105,6 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODQzOTIyLC03ODYxOTEwMjMsLTE1Nz
-E1MjA3NDgsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTE5MDUwODIzNTYsLTc4NjE5MTAyMywtMT
+U3MTUyMDc0OCwtMjAxMDE5MjYzXX0=
 -->
