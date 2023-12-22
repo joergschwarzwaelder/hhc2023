@@ -11,11 +11,10 @@
 **A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!**
 
 **Background information:**
-
+This year the Holiday Hack Challenge moved from the cold Northpole to the Geese Islands in the Pacific Ocean.  
+There are in total six islands with different ports
 
 [Online Game](https://2023.holidayhackchallenge.com/)
-
-[Map of the Game](https://github.com/joergschwarzwaelder/hhc2022/blob/main/Map.md)
 
 [Location of NPC, Terminals, and Items](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Directory.md)
 
@@ -49,6 +48,6 @@
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MT
-kyNzQ1MDRdfQ==
+eyJoaXN0b3J5IjpbLTc3ODM1MTc3MywxMDU5MTk2OTIyLDQ1MT
+UwMTUxNSwtMTgxOTI3NDUwNF19
 -->
