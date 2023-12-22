@@ -16,7 +16,7 @@ There are in total six islands with different ports where the player can disemba
 
 The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.
 ![Minimap of the Geese Islands](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/minimap.png)
-It turned out that Jack create
+It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and make Santa and the Elves move to the Geese islands and Jack has a geostationary satellite there (on North Pole this is not 
 
 [Online Game](https://2023.holidayhackchallenge.com/)
 
@@ -52,7 +52,7 @@ It turned out that Jack create
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAwOTgwNjEsLTE3MjkyOTU3MiwtND
-c5MzQ2NDksMTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTg1MDYyMjA2OSwtMTcyOTI5NTcyLC00Nz
+kzNDY0OSwxMDU5MTk2OTIyLDQ1MTUwMTUxNSwtMTgxOTI3NDUw
+NF19
 -->
