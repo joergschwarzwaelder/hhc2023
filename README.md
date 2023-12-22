@@ -16,6 +16,7 @@ There are in total six islands with different ports where the player can disemba
 
 The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.
 ![Minimap of the Geese Islands](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/minimap.png)
+It turned out that Jack create
 
 [Online Game](https://2023.holidayhackchallenge.com/)
 
@@ -51,6 +52,7 @@ The player can move between the islands with a ship, which can also be used for 
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkyOTU3MiwtNDc5MzQ2NDksMTA1OT
-E5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1MDRdfQ==
+eyJoaXN0b3J5IjpbLTE1OTAwOTgwNjEsLTE3MjkyOTU3MiwtND
+c5MzQ2NDksMTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1
+MDRdfQ==
 -->
