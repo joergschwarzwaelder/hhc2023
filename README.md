@@ -12,7 +12,10 @@
 
 **Background information:**
 This year the Holiday Hack Challenge moved from the cold Northpole to the Geese Islands in the Pacific Ocean.  
-There are in total six islands with different ports
+There are in total six islands with different ports.
+
+The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.
+
 
 [Online Game](https://2023.holidayhackchallenge.com/)
 
@@ -48,6 +51,6 @@ There are in total six islands with different ports
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODM1MTc3MywxMDU5MTk2OTIyLDQ1MT
-UwMTUxNSwtMTgxOTI3NDUwNF19
+eyJoaXN0b3J5IjpbLTQ3OTM0NjQ5LDEwNTkxOTY5MjIsNDUxNT
+AxNTE1LC0xODE5Mjc0NTA0XX0=
 -->
