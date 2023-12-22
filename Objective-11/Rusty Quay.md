@@ -1,7 +1,7 @@
-Map of Rusty Quay.
-`O`: Walkable area
-`*`: Location of Gameboy Vol 3 Cartridge
-`#`: Path to Gameboy Cartride
+Map of Rusty Quay.  
+`O`: Walkable area  
+`*`: Location of Gameboy Vol 3 Cartridge  
+`#`: Path to Gameboy Cartride  
 ```
                                                                 OOO      
                 OOOOO                                   OOO OOOOOOOOOO   
@@ -81,5 +81,5 @@ OOOOOOOOOOOOO
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE5NjMxOTVdfQ==
+eyJoaXN0b3J5IjpbMjc5NTgwOTk3LC0xMjIxOTYzMTk1XX0=
 -->
