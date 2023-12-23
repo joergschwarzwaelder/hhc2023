@@ -13,7 +13,11 @@ The table "messaging" of objective 22 contains the launch codes of the film war 
 ![WarGames Launch Codes](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/wargames.png)
 ### Hack Space Con 2024
 On the right of the Zenith SGS computer on Space Island is a "Hack Space Con 2024" poster.
+
+### "You are Awesome!"
+On Pixel Island there is again on the right hand side the claim "You are Awesome!" on the background picture.
+![You are Awesome!ames Launch Codes](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/wargames.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAzNDEzNTUsLTk0MTMwMTg3MiwxMj
-Q4MTA3ODMwXX0=
+eyJoaXN0b3J5IjpbLTIzMDQ4NTM4MywtMTg2MDM0MTM1NSwtOT
+QxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
