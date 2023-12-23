@@ -15,12 +15,13 @@ The table "messaging" of objective 22 contains the launch codes of the film war 
 On the right of the Zenith SGS computer on Space Island is a "Hack Space Con 2024" poster.
 
 ### "You are Awesome!"
-On Pixel Island there is again on the right hand side the claim "You are Awesome!" on the background picture.
+On Pixel Island there is on the right hand side the claim "You are Awesome!" on the background picture.
 ![You are Awesome!](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/pixel_island_foreground.png)
 ### Isabel
 In the telescope you can see close to the top right corner the name "ISABEL" written in space.  
 ![ISABEL](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/isabel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzQwMzM5LC00MzU1NTIwODEsLTE4Nj
-AzNDEzNTUsLTk0MTMwMTg3MiwxMjQ4MTA3ODMwXX0=
+eyJoaXN0b3J5IjpbNTA4NTE2NjEsLTU3NzQwMzM5LC00MzU1NT
+IwODEsLTE4NjAzNDEzNTUsLTk0MTMwMTg3MiwxMjQ4MTA3ODMw
+XX0=
 -->
