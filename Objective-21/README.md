@@ -1,6 +1,7 @@
 # Objective 21: Camera Access
 **Location: Space Island: Zenith SGS**
 
+The entrance to Zenith SGS is invisible and is located on "Space Island: Cape Cosmis Inside Fence" at 54/24.
 The objective is to gain access to Jack's camera and find the third item on Jack's TODO list.
 
 To clear this objective, the [Docker image](https://www.holidayhackchallenge.com/2023/client_container.zip) provided by the vending machine "NanoSat-o-Matic" has to be used.
@@ -39,7 +40,7 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzU2NjYzMiwtNzQ4MjgzNTk5LC03ND
-gyODM1OTksNzM2MDg0MDg1LDIwNDgxMDg5MTIsLTIwMTAxOTI2
-M119
+eyJoaXN0b3J5IjpbMzU2ODU5NTk0LDEzMjM1NjY2MzIsLTc0OD
+I4MzU5OSwtNzQ4MjgzNTk5LDczNjA4NDA4NSwyMDQ4MTA4OTEy
+LC0yMDEwMTkyNjNdfQ==
 -->
