@@ -3,10 +3,12 @@
 ### Jason
 This year Jason is a fish on Steampunk Island, Coggoggle Marina:  
 ![Jason](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/notadeadfish_large.png)
+---
 
 ### Santa Claus hiring date
 In objective 13, table "Employees", it is shown that Santa was hired on December 24th of year 1.  
 ![Santa Hiring Date](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/santa_hiring_date.png)
+---
 
 ### War Games
 The table "messaging" of objective 22 contains the launch codes of the film war games.  
@@ -21,7 +23,7 @@ On Pixel Island there is on the right hand side the claim "You are Awesome!" on 
 In the telescope you can see close to the top right corner the name "ISABEL" written in space.  
 ![ISABEL](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/isabel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NTE2NjEsLTU3NzQwMzM5LC00MzU1NT
-IwODEsLTE4NjAzNDEzNTUsLTk0MTMwMTg3MiwxMjQ4MTA3ODMw
-XX0=
+eyJoaXN0b3J5IjpbLTE0NzE5MjU5MzcsNTA4NTE2NjEsLTU3Nz
+QwMzM5LC00MzU1NTIwODEsLTE4NjAzNDEzNTUsLTk0MTMwMTg3
+MiwxMjQ4MTA3ODMwXX0=
 -->
