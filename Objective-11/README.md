@@ -1,5 +1,5 @@
 # Objective 11: Game Cartridges: Vol 3
-**Location: Steampunk Island: Rosty Quay**  
+**Location: Steampunk Island: Rusty Quay**  
 **Hints provided by Dusty Giftwrap**  
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
 
@@ -37,7 +37,7 @@ If the game gets saved in the screen where the character is positioned in front 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTExNTM2NTAsODM3NDI4NDA1LDE0ND
-g1NzE5NTgsLTExNDE4NDUyODksLTE2NTY2NDc2NTQsLTI1NTY5
-NTA0NiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTkwNDE0MzkyOCwtMTA1MTE1MzY1MCw4Mz
+c0Mjg0MDUsMTQ0ODU3MTk1OCwtMTE0MTg0NTI4OSwtMTY1NjY0
+NzY1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
 -->
