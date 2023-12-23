@@ -22,7 +22,7 @@ Using that it was found that the single digits of the coins amount are stored in
 Setting these three bytes to `9` in the backup file results in an amount of `999` coins after the restore.
 
 ### Pass the gap
-On the far right of the game, there is a gap at it is impossible to jump over it.
+On the far right of the game, there is a gap and it is impossible to jump over it.
 
 ![gap](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/gap.png)
 
@@ -37,7 +37,7 @@ If the game gets saved in the screen where the character is positioned in front 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM3NjQ4MzAsODM3NDI4NDA1LDE0ND
+eyJoaXN0b3J5IjpbLTEwNTExNTM2NTAsODM3NDI4NDA1LDE0ND
 g1NzE5NTgsLTExNDE4NDUyODksLTE2NTY2NDc2NTQsLTI1NTY5
 NTA0NiwtMjAxMDE5MjYzXX0=
 -->
