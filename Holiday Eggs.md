@@ -11,6 +11,9 @@ In objective 13, table "Employees", it is shown that Santa was hired on December
 ### War Games
 The table "messaging" of objective 22 contains the launch codes of the film war games.  
 ![WarGames Launch Codes](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/wargames.png)
+### Hack Space Con 2024
+On the right of the Zenith SGS computer on Space Island is a "Hack Space Con 2024" poster.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTMwMTg3MiwxMjQ4MTA3ODMwXX0=
+eyJoaXN0b3J5IjpbLTE4NjAzNDEzNTUsLTk0MTMwMTg3MiwxMj
+Q4MTA3ODMwXX0=
 -->
