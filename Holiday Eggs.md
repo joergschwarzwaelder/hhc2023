@@ -16,8 +16,8 @@ On the right of the Zenith SGS computer on Space Island is a "Hack Space Con 202
 
 ### "You are Awesome!"
 On Pixel Island there is again on the right hand side the claim "You are Awesome!" on the background picture.
-![You are Awesome!ames Launch Codes](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/wargames.png)
+![You are Awesome!](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/pixel_island_foreground.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDQ4NTM4MywtMTg2MDM0MTM1NSwtOT
+eyJoaXN0b3J5IjpbLTQzNTU1MjA4MSwtMTg2MDM0MTM1NSwtOT
 QxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
