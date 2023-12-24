@@ -4,7 +4,7 @@
 
 In this objective it shown how SSH certificates can be used for SSH authentication. For this, a [web tool](https://northpole-ssh-certs-fa.azurewebsites.net/api/create-cert?code=candy-cane-twirl) running in Azure is provided which signs SSH public keys with the principal "elf". With that it is possible to login to "ssh-server-vm.santaworkshopgeeseislands.org" as user "monitor".
 
-The objective is to login to the server as "alabaster" and grab his TODO list.
+The objective is to login to the server as "alabaster" and grab a TODO list residing in the home directory.
 
 Sample SSH public key:
 ```
@@ -105,6 +105,6 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDUwODIzNTYsLTc4NjE5MTAyMywtMT
-U3MTUyMDc0OCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTE3MTM2ODg3NiwtMTkwNTA4MjM1NiwtNz
+g2MTkxMDIzLC0xNTcxNTIwNzQ4LC0yMDEwMTkyNjNdfQ==
 -->
