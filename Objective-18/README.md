@@ -54,7 +54,7 @@ With this information we are able to access the private signature key in [https:
 
 ![NUM Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/NUMDecoder.png)
 
-`{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`
+`{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`  
 This gives a hint to the go-date `1224` and the go-time 1600.
 As we have to target four hours earlier, we have to choose `1200`.
 
@@ -72,6 +72,6 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzczMjQ1LC0xNjk5MTE5Njg5LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODk0NzI2Nyw5NDgzNzMyNDUsLTE2OT
+kxMTk2ODksLTIwMTAxOTI2M119
 -->
