@@ -35,15 +35,15 @@ Without full game completion it should be empty.
 After completion, Jack is in the Pod.
 ![Jack in Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered.png)
 ### Access Speaker Phrase
-The phrase for the access speaker
+The phrase for the Space Island Door Access Speaker
 ```
 And he whispered, 'Now I shall be out of sight;
 So through the valley and over the height.'
 And he'll silently take his way.
 ```
-is from "The Frs
+is from "The Frost" by Hannah Flagg Gould.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjYxNTc4OSwxMTEzNDU1NTIsMTM1NT
+eyJoaXN0b3J5IjpbMTA0MTg5NDc4OCwxMTEzNDU1NTIsMTM1NT
 U1ODMyMSw1MDg1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwt
 MTg2MDM0MTM1NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
