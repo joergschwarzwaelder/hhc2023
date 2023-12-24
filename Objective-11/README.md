@@ -33,13 +33,13 @@ If the game gets saved in the screen where the character is positioned in front 
 
 ![gap passed](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/gap2.png)
 
-**Answer: !tom+elf!**
+Answer: **!tom+elf!**
 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU5Njk1MTcsLTExNDMxNzAzOTcsLT
-kwNDE0MzkyOCwtMTA1MTE1MzY1MCw4Mzc0Mjg0MDUsMTQ0ODU3
-MTk1OCwtMTE0MTg0NTI4OSwtMTY1NjY0NzY1NCwtMjU1Njk1MD
-Q2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTE3OTkzNzgxMSwtMTEzNTk2OTUxNywtMT
+E0MzE3MDM5NywtOTA0MTQzOTI4LC0xMDUxMTUzNjUwLDgzNzQy
+ODQwNSwxNDQ4NTcxOTU4LC0xMTQxODQ1Mjg5LC0xNjU2NjQ3Nj
+U0LC0yNTU2OTUwNDYsLTIwMTAxOTI2M119
 -->
