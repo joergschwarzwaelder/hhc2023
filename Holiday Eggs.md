@@ -33,9 +33,9 @@ Also in the telescope a Pod should be visible, although I was not able to spot i
 Without full game completion it should be empty.
 ![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
 After completion, Jack is in the Pod.
-![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
+![Jack in Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MjI3ODI3LDEzNTU1NTgzMjEsNTA4NT
+eyJoaXN0b3J5IjpbMTExMzQ1NTUyLDEzNTU1NTgzMjEsNTA4NT
 E2NjEsLTU3NzQwMzM5LC00MzU1NTIwODEsLTE4NjAzNDEzNTUs
 LTk0MTMwMTg3MiwxMjQ4MTA3ODMwXX0=
 -->
