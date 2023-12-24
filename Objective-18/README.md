@@ -2,8 +2,7 @@
 **Location: Steampunk Island: Brass Bouy Port**  
 **Hints provided by Chimney Scissorsticks**
 
-This objective is a deep dive into JWT tokens.
-
+This objective is a deep dive into JWT tokens.  
 For the whole task the tool https://token.dev/ was used.
 
 When the activity is started, a cookie "justWatchThisRole" is set containing this signed JWT:
@@ -73,5 +72,6 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkxMTk2ODksLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTcwNTgwMDk1MSwtMTY5OTExOTY4OSwtMj
+AxMDE5MjYzXX0=
 -->
