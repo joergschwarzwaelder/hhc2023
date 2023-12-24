@@ -66,6 +66,8 @@ Checking....
 Your answer is correct!
 ```
 
+***
+
 The correct answer was placed in `/etc/runtoanswer.yaml`:
 ```
 elf@958d5b4a0e93:/etc$ simplecopy '; cat /etc/runtoanswer.yaml' b
@@ -89,6 +91,7 @@ failure_message: "Sorry, that answer is *incorrect*. Please try again!"
 [...]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzIyNjA4MywtMTkyMTE2MjUxMCwtMT
-c2NjU1MTYyMCwtODI2MTc4Njg0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTQxMTM0NzM1OSwtNTc3MjI2MDgzLC0xOT
+IxMTYyNTEwLC0xNzY2NTUxNjIwLC04MjYxNzg2ODQsLTIwMTAx
+OTI2M119
 -->
