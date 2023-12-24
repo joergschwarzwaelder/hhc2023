@@ -5,7 +5,7 @@
 This objective is a deep dive into JWT tokens.  
 For the whole task the tool https://token.dev/ was used.
 
-When the activity is started, a cookie "justWatchThisRole" is set containing this signed JWT:
+When the activity is started, a cookie "justWatchThisRole" is set in the browser containing this signed JWT:
 ```
 {
   "iss": "HHC 2023 Captain's Comms",
@@ -72,6 +72,6 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTgwMDk1MSwtMTY5OTExOTY4OSwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbOTQ4MzczMjQ1LC0xNjk5MTE5Njg5LC0yMD
+EwMTkyNjNdfQ==
 -->
