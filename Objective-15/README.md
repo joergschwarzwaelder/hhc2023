@@ -37,10 +37,11 @@ Started: Wed Dec  6 17:09:22 2023
 Stopped: Wed Dec  6 17:09:27 2023
 ```
 
-**IluvC4ndyC4nes!**
+Answer: **IluvC4ndyC4nes!**
 
 **Achievement: Hashcat**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM2OTI0MSwtMjA5OTc0MTE0NiwtNz
-gwOTkwOTI1LDE1NzkxMDU5NjAsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTkwOTc0NzczMywtMTQxMzY5MjQxLC0yMD
+k5NzQxMTQ2LC03ODA5OTA5MjUsMTU3OTEwNTk2MCwtMjAxMDE5
+MjYzXX0=
 -->
