@@ -1,7 +1,7 @@
 # Objective 11: Game Cartridges: Vol 3
 **Location: Steampunk Island: Rusty Quay**  
 **Hints provided by Dusty Giftwrap**  
-**Gameboy Cartridge Detector provided by Dusty Giftwrap**
+**Game Boy Cartridge Detector provided by Dusty Giftwrap**
 
 The Game Cartrige 3 can be found at the above location at 23/31. As Rosty Quay is a maze, it is advised to zoom out in the browser to find the right way.
 ![Map of Rusty Quay](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/Rusty%20Quay.png)
@@ -38,8 +38,8 @@ If the game gets saved in the screen where the character is positioned in front 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMxNzAzOTcsLTkwNDE0MzkyOCwtMT
-A1MTE1MzY1MCw4Mzc0Mjg0MDUsMTQ0ODU3MTk1OCwtMTE0MTg0
-NTI4OSwtMTY1NjY0NzY1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNj
-NdfQ==
+eyJoaXN0b3J5IjpbLTExMzU5Njk1MTcsLTExNDMxNzAzOTcsLT
+kwNDE0MzkyOCwtMTA1MTE1MzY1MCw4Mzc0Mjg0MDUsMTQ0ODU3
+MTk1OCwtMTE0MTg0NTI4OSwtMTY1NjY0NzY1NCwtMjU1Njk1MD
+Q2LC0yMDEwMTkyNjNdfQ==
 -->
