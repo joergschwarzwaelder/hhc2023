@@ -364,8 +364,11 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 ```
 
 **Achievement: BONUS! Fishing Mastery!**
+
+Interestingly two fish species have a dot "." in their name:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUwNTI0NzAsOTQ3OTA4NTU4LC0yMD
-A0MDY3MTgwLDE0NjA2Mzg1ODEsLTEwMjQxOTY4MDEsLTIwMTAx
-OTI2M119
+eyJoaXN0b3J5IjpbMTI5MTMwNzc0NywtMTA2NTA1MjQ3MCw5ND
+c5MDg1NTgsLTIwMDQwNjcxODAsMTQ2MDYzODU4MSwtMTAyNDE5
+NjgwMSwtMjAxMDE5MjYzXX0=
 -->
