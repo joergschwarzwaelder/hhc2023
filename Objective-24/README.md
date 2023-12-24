@@ -365,10 +365,10 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 
 **Achievement: BONUS! Fishing Mastery!**
 
-Interestingly two fish species have a dot "." in their name:
+Interestingly two fish species have a dot "." in their name: "Beatleberry Fluff Guppy." and "Flutterfin Pancake Puffer."
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MTMwNzc0NywtMTA2NTA1MjQ3MCw5ND
-c5MDg1NTgsLTIwMDQwNjcxODAsMTQ2MDYzODU4MSwtMTAyNDE5
-NjgwMSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTcwOTAxOTI3LC0xMDY1MDUyNDcwLDk0Nz
+kwODU1OCwtMjAwNDA2NzE4MCwxNDYwNjM4NTgxLC0xMDI0MTk2
+ODAxLC0yMDEwMTkyNjNdfQ==
 -->
