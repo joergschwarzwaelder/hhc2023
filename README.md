@@ -11,7 +11,7 @@
 **A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!**
 
 **Background information:**  
-Again the game title is a reference to the "Twelve days of Christmas", after "Turtle Doves", "French Hens", "Calling Birds", "Golden Rings",
+Again the game title is a reference to the "Twelve days of Christmas", after "2 Turtle Doves", "3 French Hens", "4 Calling Birds", "5 Golden Rings", now "6 Geese A-laying" (likely next year "7 Swans A-swimming").
 This year the Holiday Hack Challenge moved from the cold Northpole to the Geese Islands in the Pacific Ocean.  
 There are in total six islands with different ports where the player can disembark.
 
@@ -53,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and ma
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDE3NTg5MTcsLTUyMzczMzAxOCwtMT
-cyOTI5NTcyLC00NzkzNDY0OSwxMDU5MTk2OTIyLDQ1MTUwMTUx
-NSwtMTgxOTI3NDUwNF19
+eyJoaXN0b3J5IjpbLTkzMjA0ODcwOSwtNTIzNzMzMDE4LC0xNz
+I5Mjk1NzIsLTQ3OTM0NjQ5LDEwNTkxOTY5MjIsNDUxNTAxNTE1
+LC0xODE5Mjc0NTA0XX0=
 -->
