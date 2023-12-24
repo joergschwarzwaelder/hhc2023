@@ -34,8 +34,16 @@ Without full game completion it should be empty.
 ![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
 After completion, Jack is in the Pod.
 ![Jack in Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered.png)
+### Access Speaker Phrase
+The phrase for the access speaker
+```
+And he whispered, 'Now I shall be out of sight;
+So through the valley and over the height.'
+And he'll silently take his way.
+```
+is from "The Frs
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzQ1NTUyLDEzNTU1NTgzMjEsNTA4NT
-E2NjEsLTU3NzQwMzM5LC00MzU1NTIwODEsLTE4NjAzNDEzNTUs
-LTk0MTMwMTg3MiwxMjQ4MTA3ODMwXX0=
+eyJoaXN0b3J5IjpbMTMwNjYxNTc4OSwxMTEzNDU1NTIsMTM1NT
+U1ODMyMSw1MDg1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwt
+MTg2MDM0MTM1NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
