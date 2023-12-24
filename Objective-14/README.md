@@ -3,7 +3,7 @@
 **Hints provided by Fitzy Shortstack**
 
 The aim of this objective is to get familiar with current email mechanisms to detect phishing emails, like SPF, DMARC, and DKIM.
-DMARC and DKIM and already cryptographically processed and only the result of this check is displayed.
+DMARC and DKIM are already cryptographically processed and only the result of this check is displayed.
 
 The following emails are suspicious:
 | Number |Sender|Comment|
@@ -20,5 +20,6 @@ The following emails are suspicious:
 
 **Achievement: Phish Detection Agency**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDI1MTM1MywtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTU5MDE0MDUwMiwxODUwMjUxMzUzLC0yMD
+EwMTkyNjNdfQ==
 -->
