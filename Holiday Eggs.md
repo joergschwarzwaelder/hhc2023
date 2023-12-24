@@ -29,9 +29,12 @@ On Pixel Island there is on the right hand side the claim "You are Awesome!" on 
 In the telescope you can see close to the top right corner the name "ISABEL" written in space.  
 ![ISABEL](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/isabel.png)
 ### Jack in the Sky
-Also in the telescope a Pod should be visible.
+Also in the telescope a Pod should be visible, although I was not able to spot it.
+Without full game completion it should be empty.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTU5NTU0NywxMzU1NTU4MzIxLDUwOD
+eyJoaXN0b3J5IjpbLTQzNzUwMTY3MywxMzU1NTU4MzIxLDUwOD
 UxNjYxLC01Nzc0MDMzOSwtNDM1NTUyMDgxLC0xODYwMzQxMzU1
 LC05NDEzMDE4NzIsMTI0ODEwNzgzMF19
 -->
