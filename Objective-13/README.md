@@ -129,10 +129,10 @@ We are provided with the below command to be executed in the KQL prompt:
 
 `print base64_decode_tostring('QmV3YXJlIHRoZSBDdWJlIHRoYXQgV29tYmxlcw==')`
 
-**Beware the Cube that Wombles**
+Answer: **Beware the Cube that Wombles**
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjE4OTE4LC00NTE1NzI5NjYsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTUwMDE1NDE1NCwtNDUxNTcyOTY2LC0yMD
+EwMTkyNjNdfQ==
 -->
