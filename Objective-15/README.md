@@ -1,5 +1,5 @@
 # Objective 15: Hashcat
-**Location: Island of Misfit Toys**
+**Location: Island of Misfit Toys/Scaredy Kite Heights**
 
 The aim of this objective is to get familiar with the password cracking tool "hashcat".
 
@@ -39,6 +39,6 @@ Stopped: Wed Dec  6 17:09:27 2023
 
 **Achievement: Hashcat**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3Nzk5NDg0LDE1NzkxMDU5NjAsLTIwMT
-AxOTI2M119
+eyJoaXN0b3J5IjpbLTc4MDk5MDkyNSwxNTc5MTA1OTYwLC0yMD
+EwMTkyNjNdfQ==
 -->
