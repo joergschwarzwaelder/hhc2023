@@ -65,7 +65,30 @@ Your answer: santa
 Checking....
 Your answer is correct!
 ```
+
+The correct answer was placed in `/etc/runtoanswer.yaml`:
+```
+elf@958d5b4a0e93:/etc$ simplecopy '; cat /etc/runtoanswer.yaml' b
+cp: missing file operand
+Try 'cp --help' for more information.
+# This is the config file for runtoanswer, where you can set up your challenge!
+---
+
+# This is the completionSecret from the Content sheet - don't tell the user this!
+key: b08b538569e395f88e12ef9fe751ac39
+
+# The answer that the user is expected to enter - case sensitive
+# (This is optional - if you don't have an answer, then running this will immediately win)
+answer: "santa"
+
+text: |
+  Who delivers Christmas presents?
+
+success_message: "Your answer is *correct*!"
+failure_message: "Sorry, that answer is *incorrect*. Please try again!"
+[...]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ4ODE0NjQsLTE5MjExNjI1MTAsLT
-E3NjY1NTE2MjAsLTgyNjE3ODY4NCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTU3NzIyNjA4MywtMTkyMTE2MjUxMCwtMT
+c2NjU1MTYyMCwtODI2MTc4Njg0LC0yMDEwMTkyNjNdfQ==
 -->
