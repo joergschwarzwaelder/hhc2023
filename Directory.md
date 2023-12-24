@@ -3,10 +3,10 @@
 |Item Name|Island|Area|Coordinates|
 |---------|------|----|-----------|
 |Fishing Pole|Christmas Island|Orientation|12/14|
-|Gameboy Cartride Detector|Island of Misfit Toys|Tarnished Trove|54/81|
-|Gameboy 1|Island of Misfit Toys|Tarnished Trove|31/35|
-|Gameboy 2|Pixel Island|Driftbit Grotto|3/20|
-|Gameboy 3|Steampunk Island|Rusty Quay|23/31|
+|Game Boy Cartride Detector|Island of Misfit Toys|Tarnished Trove|54/81|
+|Game Cartridge 1|Island of Misfit Toys|Tarnished Trove|31/35|
+|Game Cartridge 2|Pixel Island|Driftbit Grotto|3/20|
+|Game Cartridge 3|Steampunk Island|Rusty Quay|23/31|
 
 ### Terminals
 |Terminal Name|Island|Area|Coordinates|
@@ -89,5 +89,6 @@
 |Wombley Cube|Space Island|Zenith SGS|7/4|
 |Wunorse Openslae|Christmas Island|NetWars|8/1|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDA4MzE1MSwxODc4NDQxMzc0XX0=
+eyJoaXN0b3J5IjpbMTcyOTQ1Nzc1MiwtNjkwMDgzMTUxLDE4Nz
+g0NDEzNzRdfQ==
 -->
