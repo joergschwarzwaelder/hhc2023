@@ -30,7 +30,7 @@ In the telescope you can see close to the top right corner the name "ISABEL" wri
 ![ISABEL](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/isabel.png)
 ### Jack in the Sky
 Also in the telescope a Pod should be visible, although I was not able to spot it.
-Without full game completion it should be empty.
+Without full game completion it is be empty.
 ![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
 After completion, Jack is in the Pod.
 ![Jack in Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered.png)
@@ -43,7 +43,8 @@ And he'll silently take his way.
 ```
 is from "The Frost" by Hannah Flagg Gould.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTg5NDc4OCwxMTEzNDU1NTIsMTM1NT
-U1ODMyMSw1MDg1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwt
-MTg2MDM0MTM1NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE4ODEzNjQ5MzMsMTA0MTg5NDc4OCwxMT
+EzNDU1NTIsMTM1NTU1ODMyMSw1MDg1MTY2MSwtNTc3NDAzMzks
+LTQzNTU1MjA4MSwtMTg2MDM0MTM1NSwtOTQxMzAxODcyLDEyND
+gxMDc4MzBdfQ==
 -->
