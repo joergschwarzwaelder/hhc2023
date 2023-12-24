@@ -31,10 +31,11 @@ In the telescope you can see close to the top right corner the name "ISABEL" wri
 ### Jack in the Sky
 Also in the telescope a Pod should be visible, although I was not able to spot it.
 Without full game completion it should be empty.
-
-
+![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
+After completion, Jack is in the Pod.
+![empty Pod](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/satellite_feathered_alt.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzUwMTY3MywxMzU1NTU4MzIxLDUwOD
-UxNjYxLC01Nzc0MDMzOSwtNDM1NTUyMDgxLC0xODYwMzQxMzU1
-LC05NDEzMDE4NzIsMTI0ODEwNzgzMF19
+eyJoaXN0b3J5IjpbNjk5MjI3ODI3LDEzNTU1NTgzMjEsNTA4NT
+E2NjEsLTU3NzQwMzM5LC00MzU1NTIwODEsLTE4NjAzNDEzNTUs
+LTk0MTMwMTg3MiwxMjQ4MTA3ODMwXX0=
 -->
