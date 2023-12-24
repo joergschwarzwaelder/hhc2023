@@ -16,9 +16,9 @@ For the final number, "NaN" is smaller than every remaining number Shifty choose
 
 ### Bonus
 
-If the prechecks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the [main part of the Python code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-12/python-error.txt).
+If the pre-checks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the [main part of the Python code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-12/python-error.txt).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NTk3NDA5LC00MzgxOTQxMzMsLTE2Nj
-g3OTE3MjIsMTM3MDg5Mzc5MCwxOTM3MDYxMTY4LC0yMDEwMTky
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTM1MzYzMjg5NiwtNDM4MTk0MTMzLC0xNj
+Y4NzkxNzIyLDEzNzA4OTM3OTAsMTkzNzA2MTE2OCwtMjAxMDE5
+MjYzXX0=
 -->
