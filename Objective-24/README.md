@@ -1,7 +1,7 @@
 # Objective 24: BONUS! Fishing Mastery
 **Location: Sea**
 
-Based on the [Objective 23](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-23), this objective is about catching one of each individual species living in the sea.
+Based on the [Objective 23](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-23), the objective to catch one of each individual species living in the sea.
 In the "sea" HTML code we can see a link to the [Fish Density Reference](https://2023.holidayhackchallenge.com/sea/fishdensityref.html)
 ```
 <!-- <a href='fishdensityref.html'>[DEV ONLY] Fish Density Reference</a> -->
@@ -365,6 +365,7 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 
 **Achievement: BONUS! Fishing Mastery!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3OTA4NTU4LC0yMDA0MDY3MTgwLDE0Nj
-A2Mzg1ODEsLTEwMjQxOTY4MDEsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTE4MTQ4Mzg5NjcsOTQ3OTA4NTU4LC0yMD
+A0MDY3MTgwLDE0NjA2Mzg1ODEsLTEwMjQxOTY4MDEsLTIwMTAx
+OTI2M119
 -->
