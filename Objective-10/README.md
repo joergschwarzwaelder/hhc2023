@@ -5,7 +5,7 @@
 
 The Game Cartrige 2 can be found at the above location at 3/20.
 It can be started anytime from the "Items" section in the game.
-There are two different versions of this game. When the game is started, it is randomly chosen which one is started.
+There are two different versions of this game. When the game is started, it is randomly chosen which one is selected.
 The only difference between both is, that a specific screen in one game is open on the top and you the player is pushed down a few steps when trying to pass. The other version is just the opposite: The screen is open on the bottom and the player is pushed up when trying to pass.
 
 game0:  
@@ -23,7 +23,7 @@ Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMxOTExNDcsLTQ2MjYzMzY0NiwtMT
-I4NDgwODg3MCwtMjE0MDM0MDIzNyw3MjQwODEwODEsMTg2OTc4
-MTQxMSw5NTMzMjUyNzQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMzE3NjE0NjY1LC00NjI2MzM2NDYsLTEyOD
+Q4MDg4NzAsLTIxNDAzNDAyMzcsNzI0MDgxMDgxLDE4Njk3ODE0
+MTEsOTUzMzI1Mjc0LC0yMDEwMTkyNjNdfQ==
 -->
