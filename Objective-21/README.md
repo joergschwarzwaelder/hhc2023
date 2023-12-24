@@ -27,7 +27,7 @@ We can connect to it by selecting this provider followed by pressing the button 
 This opens a new tab "nanosat-mo-supervisor" on the subtab "Apps Launcher Service".
 As our objective is to take a picture using the camera, the "camera" app is selected followed by "runApp".
 
-Next we navigate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider".
+Next we navigate back to "Communications Settings" and refresh the data with "Fetch Information". Now the "App: camera" should be visible and we can connect to it (select provider, click "Connect to Selected Provider").
 
 A new tab "App: camera" appears. In this tab we can nagivate to subtab "Action service", where an action service definition for "Base64SnapImage" can be found.
 
@@ -40,7 +40,7 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTM4MzgwMiwzNTY4NTk1OTQsMTMyMz
+eyJoaXN0b3J5IjpbMTYxMzcxMjM0OSwzNTY4NTk1OTQsMTMyMz
 U2NjYzMiwtNzQ4MjgzNTk5LC03NDgyODM1OTksNzM2MDg0MDg1
 LDIwNDgxMDg5MTIsLTIwMTAxOTI2M119
 -->
