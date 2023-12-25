@@ -7,7 +7,7 @@
 
 ![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/holidayhack2023.jpg) 
 
-**A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!**
+## A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!
 
 **Background information:**  
 Again the game title is a reference to the ["Twelve days of Christmas"](https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_%28song%29), after "2 Turtle Doves", "3 French Hens", "4 Calling Birds", "5 Golden Rings", now "6 Geese A-laying" (likely next year "7 Swans A-swimming").  
@@ -53,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and ma
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgzNjE4LDE4MTUxMjYxNjQsLTUyMz
-czMzAxOCwtMTcyOTI5NTcyLC00NzkzNDY0OSwxMDU5MTk2OTIy
-LDQ1MTUwMTUxNSwtMTgxOTI3NDUwNF19
+eyJoaXN0b3J5IjpbLTU0NTI1OTU0NCwtNjQ1ODM2MTgsMTgxNT
+EyNjE2NCwtNTIzNzMzMDE4LC0xNzI5Mjk1NzIsLTQ3OTM0NjQ5
+LDEwNTkxOTY5MjIsNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
 -->
