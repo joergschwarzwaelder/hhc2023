@@ -2,7 +2,7 @@
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Ribb Bonbowford**
 
-This objective is a continuation of [Objective 17: Certificate SSHenanigans](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-17). It is a prerequisite to have this already cleared.
+This objective is a continuation of [Objective 17: Certificate SSHenanigans](/Objective-17). It is a prerequisite to have this already cleared.
 
 The aim is to get hold of the name of the secret file stored on the "FileShare".
 
@@ -286,7 +286,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxNDU1NDA2LDExNTQwMDc5NTIsLTE0Mj
-MwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMzMTcwLDEwODc4NTMx
-NDcsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTc2Mjk0MDUxNSw1MzE0NTU0MDYsMTE1ND
+AwNzk1MiwtMTQyMzA3NDQzLC0yMDAwMjc4Njc4LDExNjQzMzMx
+NzAsMTA4Nzg1MzE0NywtMjAxMDE5MjYzXX0=
 -->
