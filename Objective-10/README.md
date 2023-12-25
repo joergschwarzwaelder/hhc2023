@@ -18,13 +18,14 @@ After changing this byte in the game0 binary to `0x01` , the character is not pu
 The [modified game](game-solved.gb) can now be played in a Gameboy simulator like VisualBoyAdvance.
 
 In the  
- ![final screen](final-screen.png) a [Morse code audio](Morse-Code.m4a) is played. This was recorded and afterwards decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
+ ![final screen](final-screen.png)
+ a [Morse code audio](Morse-Code.m4a) is played. This was recorded and afterwards decoded using an audio [Morse code decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html).
 
 Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDYyOTA2MCwtNDYyNjMzNjQ2LC0xMj
-g0ODA4ODcwLC0yMTQwMzQwMjM3LDcyNDA4MTA4MSwxODY5Nzgx
-NDExLDk1MzMyNTI3NCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbODE0Mzk4MDM4LC00NjI2MzM2NDYsLTEyOD
+Q4MDg4NzAsLTIxNDAzNDAyMzcsNzI0MDgxMDgxLDE4Njk3ODE0
+MTEsOTUzMzI1Mjc0LC0yMDEwMTkyNjNdfQ==
 -->
