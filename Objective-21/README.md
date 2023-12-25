@@ -35,12 +35,12 @@ When this is selected and "submitAction" is pressed, the camera takes a picture 
 
 This transfer can be captured using the installed "Wireshark" on the wg0 interface. As the traffic is unencrypted, it is easy to spot and extract the base64 image data from the TCP stream.
 Finally, this base64 data just has to be decoded.
-![Camera image](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-21/image.jpg)
+![Camera image](image.jpg)
 As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the solution.
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM2ODUwNjIsMzU2ODU5NTk0LDEzMj
-M1NjY2MzIsLTc0ODI4MzU5OSwtNzQ4MjgzNTk5LDczNjA4NDA4
-NSwyMDQ4MTA4OTEyLC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNDQzODQ1NTkxLC0yMDkzNjg1MDYyLDM1Nj
+g1OTU5NCwxMzIzNTY2NjMyLC03NDgyODM1OTksLTc0ODI4MzU5
+OSw3MzYwODQwODUsMjA0ODEwODkxMiwtMjAxMDE5MjYzXX0=
 -->
