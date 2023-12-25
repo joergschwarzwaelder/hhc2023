@@ -13,11 +13,12 @@ Most of the blocks to be moved have their target locations nearby. Only one bloc
 
 The final QR code looks like this:
 
-![QR Code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-9/qr-code.png)
+![QR Code](qr-code.png)
 
 This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfusedgivingplanetsqrcode`, making the answer finally **santaconfusedgivingplanetsqrcode**.
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg4MTMzNTQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTAyOTI2MTk4MywtMjA1ODgxMzM1NCwtMj
+AxMDE5MjYzXX0=
 -->
