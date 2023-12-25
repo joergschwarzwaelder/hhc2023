@@ -21,7 +21,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 
 [Online Game](https://2023.holidayhackchallenge.com/)
 
-[Location of NPC, Terminals, and Items](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Directory.md)
+[Location of NPC, Terminals, and Items](Directory.md)
 
 ## Main Objectives
 
@@ -53,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDg4NzgxNCwtNjQ1ODM2MTgsMTgxNT
-EyNjE2NCwtNTIzNzMzMDE4LC0xNzI5Mjk1NzIsLTQ3OTM0NjQ5
-LDEwNTkxOTY5MjIsNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
+eyJoaXN0b3J5IjpbNjA3OTk5ODc3LC02NDU4MzYxOCwxODE1MT
+I2MTY0LC01MjM3MzMwMTgsLTE3MjkyOTU3MiwtNDc5MzQ2NDks
+MTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1MDRdfQ==
 -->
