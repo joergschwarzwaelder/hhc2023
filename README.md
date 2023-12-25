@@ -48,12 +48,12 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
  - [Objective 21: Camera Access](Objective-21)
  - [Objective 22: Missile Diversion](Objective-22)
  - [Objective 23: BONUS! Fishing Guide](Objective-23)
- - [Objective 24: BONUS! Fishing Mastery](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-24)
+ - [Objective 24: BONUS! Fishing Mastery](Objective-24)
 
 ## Holiday Eggs
-Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
+Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNzEzOTYxLC02NDU4MzYxOCwxODE1MT
-I2MTY0LC01MjM3MzMwMTgsLTE3MjkyOTU3MiwtNDc5MzQ2NDks
-MTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1MDRdfQ==
+eyJoaXN0b3J5IjpbLTExMTU4ODgxMTYsLTY0NTgzNjE4LDE4MT
+UxMjYxNjQsLTUyMzczMzAxOCwtMTcyOTI5NTcyLC00NzkzNDY0
+OSwxMDU5MTk2OTIyLDQ1MTUwMTUxNSwtMTgxOTI3NDUwNF19
 -->
