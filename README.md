@@ -14,7 +14,7 @@ Again the game title is a reference to the ["Twelve days of Christmas"](https://
 This year the Holiday Hack Challenge moved from the cold Northpole to the Geese Islands in the Pacific Ocean.  
 There are in total six islands with different ports where the player can disembark.
 
-The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.
+The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.  
 ![Minimap of the Geese Islands](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/minimap.png)
 
 It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and make Santa and the Elves move to the Geese islands and Jack has a geostationary satellite there  to intercept and manipulate all communication (on North Pole this is not possible).
@@ -53,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and ma
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTI1OTU0NCwtNjQ1ODM2MTgsMTgxNT
+eyJoaXN0b3J5IjpbMTM4Njc2MzI0MCwtNjQ1ODM2MTgsMTgxNT
 EyNjE2NCwtNTIzNzMzMDE4LC0xNzI5Mjk1NzIsLTQ3OTM0NjQ5
 LDEwNTkxOTY5MjIsNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
 -->
