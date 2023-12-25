@@ -45,14 +45,14 @@ In addition, using the same token, we can access [https://captainscomms.com/jwtD
 
 **CW:**
 
-![CW Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/CWDecoder.png)
+![CW Decoder](CWDecoder.png)
 
 `... CQ CQ CQ DE KH644 - -- SILLY CAPTAIN! WE FOUND HIS FANCY RADIO PRIVATE KEY IN A FOLDER CALLED TH3CAPSPR1V4T3F0LD3R ...`
 With this information we are able to access the private signature key in [https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key](https://captainscomms.com/jwtDefault/keys/TH3CAPSPR1V4T3F0LD3R/capsPrivKey.key) using the role "radioDecoder".
 
 **NUM:**
 
-![NUM Decoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/NUMDecoder.png)
+![NUM Decoder](NUMDecoder.png)
 
 `{music} {music} {music} 88323 88323 88323 {gong} {gong} {gong} {gong} {gong} {gong} 12249 12249 16009 16009 12249 12249 16009 16009 {gong} {gong} {gong} {gong} {gong} {gong} {music} {music} {music}`  
 This gives a hint to the go-date `1224` and the go-time 1600.
@@ -60,7 +60,7 @@ As we have to target four hours earlier, we have to choose `1200`.
 
 **RadioFax:**
 
-![RadioFaxDecoder](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/RadioFaxDecoder.png)
+![RadioFaxDecoder](RadioFaxDecoder.png)
 
 Freq: `10426` Hz
 
@@ -68,10 +68,10 @@ With the above private key we can create a signature for the above JWT token for
 
 Setting these three values in the transmitter station finalizes the objective:
 
-![Completion](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-18/completion.png)
+![Completion](completion.png)
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk0NzI2Nyw5NDgzNzMyNDUsLTE2OT
+eyJoaXN0b3J5IjpbMTUwODM1OTUzOSw5NDgzNzMyNDUsLTE2OT
 kxMTk2ODksLTIwMTAxOTI2M119
 -->
