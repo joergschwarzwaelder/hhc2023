@@ -155,9 +155,9 @@ Converting this back into the serialized object and inserting this into the tabl
 mysql> insert into satellite_query (object) values (from_base64("rO0ABXNyAB9TYXRlbGxpdGVRdWVyeUZpbGVGb2xkZXJVdGlsaXR5EtT2jQ6zkssCAANaAAdpc1F1ZXJ5WgAIaXNVcGRhdGVMAA9wYXRoT3JTdGF0ZW1lbnR0ABJMamF2YS9sYW5nL1N0cmluZzt4cAEBdAApdXBkYXRlIHBvaW50aW5nX21vZGUgc2V0IG51bWVyaWNhbF9tb2RlPTE="));
 ```
 
-In the background on server side a process is running which picks this serialized object, executes the "getResults
+In the background on server side a process is running which picks this serialized object, executes the "getResults" method of it and updates the database in the "results" column accordingly.
 
- gives the expected result in column "results":
+So the above serialized object leads to the expected result in column "results" and to the updated "pointing_mode":
 ```
 |   2 | 0xACED00057372001F536174656C6C697465517565727946696C65466F6C6465725574696C69747912D4F68D0EB392CB0200035A0007697351756572795A000869735570646174654C000F706174684F7253746174656D656E747400124C6A6176612F6C616E672F537472696E673B7870010174002975706461746520706F696E74696E675F6D6F646520736574206E756D65726963616C5F6D6F64653D31 | SQL Update completed.
 
@@ -337,8 +337,7 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjM2ODQ1MywxMjE1NDIwNzQsMTI2OD
-M2MjU2MCwtMTI3MjM2ODk1NiwtNDM0NDU2NTUzLDEzNTk5NDgw
-OTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMDEwMTkyNjNdfQ
-==
+eyJoaXN0b3J5IjpbNDczMDU1NjQxLDEyMTU0MjA3NCwxMjY4Mz
+YyNTYwLC0xMjcyMzY4OTU2LC00MzQ0NTY1NTMsMTM1OTk0ODA5
+MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2M119
 -->
