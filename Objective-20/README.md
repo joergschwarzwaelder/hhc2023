@@ -2,7 +2,7 @@
 **Location: Space Island: Spaceport Point**  
 **Hints provided by Jewel Loggins**
 
-It is a prerequisite to have [Objective 19: Active Directory](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-19) already cleared.
+It is a prerequisite to have [Objective 19: Active Directory](../Objective-19) already cleared.
 
 The aim of this objective is to get familiar with voice cloning using AI.
 
@@ -15,12 +15,13 @@ And he'll silently take his way.
 spoken with the voice of Wombley Cube.
 
 In order to achieve this, we use the [audio book](https://www.holidayhackchallenge.com/2023/wombleycube_the_enchanted_voyage.mp3.zip) Wombley gave us .
-With this data, we can head to https://play.ht, clone Wombley's voice using the audio book and the "voice clone" feature and let this artificial voice speak the above sentence: [Audio file](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-20/And%20he%20whispered.wav)
+With this data, we can head to https://play.ht, clone Wombley's voice using the audio book and the "voice clone" feature and let this artificial voice speak the above sentence: [Audio file](And%20he%20whispered.wav)
 
 This file can be played against the access controller to open the door.
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE2MjI2MDQsLTEwNjIzNTY4NzQsLT
-E5NDI3MjE4MjIsMTA0NDYyNDM3MiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTUxNTA2NjExOSwtMTUwMTYyMjYwNCwtMT
+A2MjM1Njg3NCwtMTk0MjcyMTgyMiwxMDQ0NjI0MzcyLC0yMDEw
+MTkyNjNdfQ==
 -->
