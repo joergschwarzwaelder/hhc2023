@@ -5,7 +5,7 @@
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
 
-![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/holidayhack2023.jpg) 
+![HHC2023 Logo](images/holidayhack2023.jpg) 
 
 ## A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!
 
@@ -15,7 +15,7 @@ This year the Holiday Hack Challenge moved from the cold Northpole to the Geese 
 There are in total six islands with different ports where the player can disembark.
 
 The player can move between the islands with a ship, which can also be used for fishing (objectives 23 and 24) and boat racing.  
-![Minimap of the Geese Islands](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/minimap.png)
+![Minimap of the Geese Islands](images/minimap.png)
 
 It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With this he made Santa and the Elves move to the Geese islands. Jack has a geostationary satellite there to intercept and manipulate all communication (on North Pole this is not possible).
 
@@ -53,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3OTk5ODc3LC02NDU4MzYxOCwxODE1MT
-I2MTY0LC01MjM3MzMwMTgsLTE3MjkyOTU3MiwtNDc5MzQ2NDks
-MTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MTkyNzQ1MDRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM0NjcyOTUsLTY0NTgzNjE4LDE4MT
+UxMjYxNjQsLTUyMzczMzAxOCwtMTcyOTI5NTcyLC00NzkzNDY0
+OSwxMDU5MTk2OTIyLDQ1MTUwMTUxNSwtMTgxOTI3NDUwNF19
 -->
