@@ -4,7 +4,7 @@
 **Game Boy Cartridge Detector provided by Dusty Giftwrap**
 
 The Game Cartrige 3 can be found at the above location at 23/31. As Rosty Quay is a maze, it is advised to zoom out in the browser to find the right way.
-![Map of Rusty Quay](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/Rusty%20Quay.png)
+![Map of Rusty Quay](Rusty%20Quay.png)
 The game can be started anytime from the "Items" section in the game.
 
 The game was solved using the VisualBoyAdvance simulator.
@@ -25,20 +25,20 @@ Setting these three bytes to `9` in the backup file results in an amount of `999
 ### Pass the gap
 On the far right of the game, there is a gap and it is impossible to jump over it.
 
-![gap](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/gap.png)
+![gap](gap.png)
 
 So the idea was to modify the X position of the game character in a saved game, so that after a restore the gap was passed.
 After several tests it was found, that the X position is stored in byte position `0x4432` (low) and `0x4433` (high) of the backup.
-If the game gets saved in the screen where the character is positioned in front of the gap (to have the right scene), the "high" position can be changed to `0x40`. After a [restore](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/game0.sgm) , the game character is on the right of the gap.
+If the game gets saved in the screen where the character is positioned in front of the gap (to have the right scene), the "high" position can be changed to `0x40`. After a [restore](game0.sgm) , the game character is on the right of the gap.
 
-![gap passed](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-11/gap2.png)
+![gap passed](gap2.png)
 
 Answer: **!tom+elf!**
 
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTkzNzgxMSwtMTEzNTk2OTUxNywtMT
+eyJoaXN0b3J5IjpbMTIxNzA3NjI1MSwtMTEzNTk2OTUxNywtMT
 E0MzE3MDM5NywtOTA0MTQzOTI4LC0xMDUxMTUzNjUwLDgzNzQy
 ODQwNSwxNDQ4NTcxOTU4LC0xMTQxODQ1Mjg5LC0xNjU2NjQ3Nj
 U0LC0yNTU2OTUwNDYsLTIwMTAxOTI2M119
