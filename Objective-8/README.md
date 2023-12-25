@@ -13,10 +13,10 @@ Using this information, it is still some effort to open the lock, but after a fe
 ### Hacking the simulation
 Using the browser web developer console, there is a variable `lock_numbers` in the context `paddlelockdecode.com` revealing all three numbers. In addition, the other sticky number and guess number (from the classic way) are shown.
 
-![Browser Developer Console](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-8/fasterlock-console.png)
+![Browser Developer Console](fasterlock-console.png)
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5ODQwODcyLDI1OTg0MDg3MiwtMjAxMD
-E5MjYzXX0=
+eyJoaXN0b3J5IjpbMTM4ODQ4MDE4MiwyNTk4NDA4NzIsLTIwMT
+AxOTI2M119
 -->
