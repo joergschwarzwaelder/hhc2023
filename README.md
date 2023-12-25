@@ -5,8 +5,7 @@
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
 
-![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/ab67616d00001e023ee75b5cce48e7771fb066f3.jpeg)
-![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/HHC3-2023-Web-Banner.webp) 
+![HHC2023 Logo](https://github.com/joergschwarzwaelder/hhc2023/blob/main/images/holidayhack2023.jpg) 
 
 **A Holiday Odyssey | Featuring 6: Geese A-Lei'ing!**
 
@@ -54,7 +53,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT and ma
 ## Holiday Eggs
 Some [Holiday Eggs](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTEyNjE2NCwtNTIzNzMzMDE4LC0xNz
-I5Mjk1NzIsLTQ3OTM0NjQ5LDEwNTkxOTY5MjIsNDUxNTAxNTE1
-LC0xODE5Mjc0NTA0XX0=
+eyJoaXN0b3J5IjpbLTY0NTgzNjE4LDE4MTUxMjYxNjQsLTUyMz
+czMzAxOCwtMTcyOTI5NTcyLC00NzkzNDY0OSwxMDU5MTk2OTIy
+LDQ1MTUwMTUxNSwtMTgxOTI3NDUwNF19
 -->
