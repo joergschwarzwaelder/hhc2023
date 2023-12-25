@@ -1,7 +1,7 @@
 # Objective 24: BONUS! Fishing Mastery
 **Location: Sea**
 
-Based on the [Objective 23](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-23), the objective to catch one of each individual species living in the sea.
+Based on the [Objective 23](../Objective-23), the objective to catch one of each individual species living in the sea.
 In the "sea" HTML code we can see a link to the [Fish Density Reference](https://2023.holidayhackchallenge.com/sea/fishdensityref.html)
 ```
 <!-- <a href='fishdensityref.html'>[DEV ONLY] Fish Density Reference</a> -->
@@ -9,9 +9,9 @@ In the "sea" HTML code we can see a link to the [Fish Density Reference](https:/
 Using this information, we know that there are 171 different species out there in different habitats.
 
 Ideally fishing is performed in the hotspot location of Piscis Cyberneticus Skodo, as all 171 species are available here. There is no need to move to another location to catch all fishes.  
-![Hotspot of Piscis Cyberneticus Skodo overlayed with map of Geese Islands](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-24/Piscis%20Cyberneticus%20Skodo-on-Minimap.png)
+![Hotspot of Piscis Cyberneticus Skodo overlayed with map of Geese Islands](Piscis%20Cyberneticus%20Skodo-on-Minimap.png)
 
-Fishing automated using a Python3 script [Fishing-as-a-Service.py](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-24/faas.py):
+Fishing automated using a Python3 script [Fishing-as-a-Service.py](faas.py):
 ```
 HHC2023 🪿  username:joergen
 HHC2023 🪿  password:
@@ -368,7 +368,7 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 Interestingly two fish species have a dot "." in their name: "Beatleberry Fluff Guppy." and "Flutterfin Pancake Puffer."
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTAxOTI3LC0xMDY1MDUyNDcwLDk0Nz
-kwODU1OCwtMjAwNDA2NzE4MCwxNDYwNjM4NTgxLC0xMDI0MTk2
-ODAxLC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NzQ1NDA1NzQsMTcwOTAxOTI3LC0xMD
+Y1MDUyNDcwLDk0NzkwODU1OCwtMjAwNDA2NzE4MCwxNDYwNjM4
+NTgxLC0xMDI0MTk2ODAxLC0yMDEwMTkyNjNdfQ==
 -->
