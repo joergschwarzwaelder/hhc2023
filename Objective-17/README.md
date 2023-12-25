@@ -83,7 +83,7 @@ So the source code is stored in a Github [repository](https://github.com/SantaWo
 
 In the code it is easy to spot, that the principal does just default to "elf" but can be provided as a parameter in the call. So we just have to supply the principal "admin" to the SSH certificate generation call, for example in the browser developer console:
 
-![Developer Console](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-17/ssh-principal-admin.png)
+![Developer Console](ssh-principal-admin.png)
 
 ```
 {"ssh_cert": "ssh-ed25519-cert-v01@openssh.com AAAAIHNzaC1lZDI1NTE5LWNlcnQtdjAxQG9wZW5zc2guY29tAAAAJzI4NjY5MDc2NTUyNTIzMTQwNjE2MzEyOTYwMDE0MTE4NjU3MDk2NQAAACCmjki0CX2PzJt/Wkj+pBOi8HO9jwHYpRHj6cdf3fgkagAAAAAAAAABAAAAAQAAACRhYTJkYWY4NS04NDI2LTRjYzMtODAwYi0wMzlhM2ZhYWViOGYAAAAJAAAABWFkbWluAAAAAGV/JQsAAAAAZaQQNwAAAAAAAAASAAAACnBlcm1pdC1wdHkAAAAAAAAAAAAAADMAAAALc3NoLWVkMjU1MTkAAAAgaTYY0wKYmRc8kcdFAf35MzgJGuyr/sEvTCn4/qsIhYcAAABTAAAAC3NzaC1lZDI1NTE5AAAAQHntvqzNyPQy9dnyRatxGXeEZwSsf02LLnIJ/DauD+hB5J+HNgZgjZc8A+2aZpt8lrY8TYGqp+s2GnH3Bor7BAU= ", "principal": "admin"}
@@ -105,6 +105,7 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTM2ODg3NiwtMTkwNTA4MjM1NiwtNz
-g2MTkxMDIzLC0xNTcxNTIwNzQ4LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNzcyNzMyNjQyLDExNzEzNjg4NzYsLTE5MD
+UwODIzNTYsLTc4NjE5MTAyMywtMTU3MTUyMDc0OCwtMjAxMDE5
+MjYzXX0=
 -->
