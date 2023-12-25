@@ -1,7 +1,7 @@
 # Objective 22: Missile Diversion
 **Location: Space Island: Zenith SGS**
 
-For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](https://github.com/joergschwarzwaelder/hhc2023/tree/main/Objective-21) is used.
+For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](../Objective-21) is used.
 The aim is to change the pointing mode from 0 ("Earth Point Mode") to 1 ("Sun Point Mode").
 
 In the first step, the app "missile-targeting-system" is started just like the "camera" app in objective 21.
@@ -20,7 +20,7 @@ Grants for targeter@%: GRANT SELECT ON `missile_targeting_system`.`pointing_mode
 More information about the database content in section "Bonus" below.
 
 As the table "satellite_query" is the only one we have write access to, we need to focus on this.
-Checking the contained data shows a serialized Java object in column "object" and a [Java source code](https://github.com/joergschwarzwaelder/hhc2023/blob/main/Objective-22/SatelliteQueryFileFolderUtility.java) in column "result" (working with binary data should done using the MariaDB contained to_base64 and from_base64 functions).
+Checking the contained data shows a serialized Java object in column "object" and a [Java source code](SatelliteQueryFileFolderUtility.java) in column "result" (working with binary data should done using the MariaDB contained to_base64 and from_base64 functions).
 
 Using [SerializationDumper](https://github.com/NickstaDB/SerializationDumper) we can analyse the serialized object:
 ```
@@ -337,7 +337,8 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMDU1NjQxLDEyMTU0MjA3NCwxMjY4Mz
-YyNTYwLC0xMjcyMzY4OTU2LC00MzQ0NTY1NTMsMTM1OTk0ODA5
-MywtNTEwMjczMjY4LC00NjYyNDIzMjEsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMjQyMTI0NDU0LDQ3MzA1NTY0MSwxMjE1ND
+IwNzQsMTI2ODM2MjU2MCwtMTI3MjM2ODk1NiwtNDM0NDU2NTUz
+LDEzNTk5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMD
+EwMTkyNjNdfQ==
 -->
