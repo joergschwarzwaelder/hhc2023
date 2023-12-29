@@ -1,4 +1,5 @@
 # Objective 18: The Captain's Comms
+**Difficultree: 🎄🎄🎄🎄🎄**  
 **Location: Steampunk Island: Brass Bouy Port**  
 **Hints provided by Chimney Scissorsticks**
 
@@ -72,6 +73,6 @@ Setting these three values in the transmitter station finalizes the objective:
 
 **Achievement: The Captain's Comms**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODM1OTUzOSw5NDgzNzMyNDUsLTE2OT
+eyJoaXN0b3J5IjpbMTE1ODQ3MDQwNyw5NDgzNzMyNDUsLTE2OT
 kxMTk2ODksLTIwMTAxOTI2M119
 -->
