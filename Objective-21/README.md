@@ -1,4 +1,5 @@
 # Objective 21: Camera Access
+**Difficultree: 🎄🎄🎄**  
 **Location: Space Island: Zenith SGS**
 
 The entrance to Zenith SGS is invisible and is located on "Space Island: Cape Cosmic Inside Fence" at 54/24.
@@ -40,7 +41,7 @@ As we need the third item on the TODO list, **CONQUER HOLIDAY SEASON!** is the s
 
 **Achievement: Camera Access**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzODQ1NTkxLC0yMDkzNjg1MDYyLDM1Nj
-g1OTU5NCwxMzIzNTY2NjMyLC03NDgyODM1OTksLTc0ODI4MzU5
-OSw3MzYwODQwODUsMjA0ODEwODkxMiwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTQyNjg0MTYzNywtMjA5MzY4NTA2MiwzNT
+Y4NTk1OTQsMTMyMzU2NjYzMiwtNzQ4MjgzNTk5LC03NDgyODM1
+OTksNzM2MDg0MDg1LDIwNDgxMDg5MTIsLTIwMTAxOTI2M119
 -->
