@@ -1,4 +1,5 @@
 # Objective 11: Game Cartridges: Vol 3
+**Difficultree: 🎄🎄🎄**  
 **Location: Steampunk Island: Rusty Quay**  
 **Hints provided by Dusty Giftwrap**  
 **Game Boy Cartridge Detector provided by Dusty Giftwrap**
@@ -38,7 +39,7 @@ Answer: **!tom+elf!**
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzA3NjI1MSwtMTEzNTk2OTUxNywtMT
+eyJoaXN0b3J5IjpbLTY0MjI2NDU0NSwtMTEzNTk2OTUxNywtMT
 E0MzE3MDM5NywtOTA0MTQzOTI4LC0xMDUxMTUzNjUwLDgzNzQy
 ODQwNSwxNDQ4NTcxOTU4LC0xMTQxODQ1Mjg5LC0xNjU2NjQ3Nj
 U0LC0yNTU2OTUwNDYsLTIwMTAxOTI2M119
