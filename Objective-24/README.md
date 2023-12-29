@@ -1,4 +1,5 @@
 # Objective 24: BONUS! Fishing Mastery
+**Difficultree: 🎄🎄🎄🎄**  
 **Location: Sea**
 
 Based on the [Objective 23](../Objective-23), the objective to catch one of each individual species living in the sea.
@@ -368,7 +369,7 @@ Thu Dec 21 16:45:40 2023: *** caught 🐠 Whiskered Rainbow Glidleberry, 0 more 
 Interestingly two fish species have a dot "." in their name: "Beatleberry Fluff Guppy." and "Flutterfin Pancake Puffer."
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ1NDA1NzQsMTcwOTAxOTI3LC0xMD
-Y1MDUyNDcwLDk0NzkwODU1OCwtMjAwNDA2NzE4MCwxNDYwNjM4
-NTgxLC0xMDI0MTk2ODAxLC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMzE5MTQ3NzU4LDE3MDkwMTkyNywtMTA2NT
+A1MjQ3MCw5NDc5MDg1NTgsLTIwMDQwNjcxODAsMTQ2MDYzODU4
+MSwtMTAyNDE5NjgwMSwtMjAxMDE5MjYzXX0=
 -->
