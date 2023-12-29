@@ -1,4 +1,5 @@
 # Objective 15: Hashcat
+**Difficultree: 🎄🎄**  
 **Location: Island of Misfit Toys: Scaredy Kite Heights**
 
 The aim of this objective is to get familiar with the password cracking tool "hashcat".
@@ -41,7 +42,7 @@ Answer: **IluvC4ndyC4nes!**
 
 **Achievement: Hashcat**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3MjgzNTcsLTE0MTM2OTI0MSwtMj
-A5OTc0MTE0NiwtNzgwOTkwOTI1LDE1NzkxMDU5NjAsLTIwMTAx
-OTI2M119
+eyJoaXN0b3J5IjpbMTk0MTYxOTc5OSwtMTQxMzY5MjQxLC0yMD
+k5NzQxMTQ2LC03ODA5OTA5MjUsMTU3OTEwNTk2MCwtMjAxMDE5
+MjYzXX0=
 -->
