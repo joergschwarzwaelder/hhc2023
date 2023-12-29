@@ -30,7 +30,7 @@ On Pixel Island there is on the right hand side the claim "You are Awesome!" on 
 In the telescope you can see close to the top right corner the name "ISABEL" written in space.  
 ![ISABEL](images/isabel.png)
 ### Jack in the Sky
-Also in the telescope a Pod should be visible, although I was not able to spot it.
+Also in the telescope a Pod should be visible, although I was not able to spot it.  
 Without full game completion it is empty.
 ![empty Pod](images/satellite_feathered_alt.png)
 After completion, Jack is in the Pod.
@@ -44,8 +44,8 @@ And he'll silently take his way.
 ```
 is from "The Frost" by Hannah Flagg Gould.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzA1NjExNCwxNzU3ODI5OTk4LDEwND
-E4OTQ3ODgsMTExMzQ1NTUyLDEzNTU1NTgzMjEsNTA4NTE2NjEs
-LTU3NzQwMzM5LC00MzU1NTIwODEsLTE4NjAzNDEzNTUsLTk0MT
-MwMTg3MiwxMjQ4MTA3ODMwXX0=
+eyJoaXN0b3J5IjpbMTc4MDU5OTAyNiwxMDUzMDU2MTE0LDE3NT
+c4Mjk5OTgsMTA0MTg5NDc4OCwxMTEzNDU1NTIsMTM1NTU1ODMy
+MSw1MDg1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwtMTg2MD
+M0MTM1NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
