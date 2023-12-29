@@ -1,4 +1,5 @@
 # Objective 12: Na'an
+**Difficultree: 🎄🎄**  
 **Location: Film Noir Island: Chiaroscuro City**  
 **Hints from Shifty McShuffles**
 
@@ -18,7 +19,7 @@ For the final number, "NaN" is smaller than every remaining number Shifty choose
 
 If the pre-checks in the browser are bypassed and a string is submitted instead of number, a Python error message reveals the [main part of the Python code](python-error.txt) running on the server side.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NDIxNDc0LC00MzgxOTQxMzMsLTE2Nj
-g3OTE3MjIsMTM3MDg5Mzc5MCwxOTM3MDYxMTY4LC0yMDEwMTky
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg4NzY3NzAsLTQzODE5NDEzMywtMT
+Y2ODc5MTcyMiwxMzcwODkzNzkwLDE5MzcwNjExNjgsLTIwMTAx
+OTI2M119
 -->
