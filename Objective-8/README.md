@@ -1,4 +1,5 @@
 # Objective 8: Faster Lock Combination
+**Difficultree: 🎄🎄**  
 **Location: Steampunk Island: Brass Bouy Port**  
 **Hints from Bow Ninecandle**
 
@@ -17,6 +18,6 @@ Using the browser web developer console, there is a variable `lock_numbers` in t
 
 **Achievement: Faster Lock Combination**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODQ4MDE4MiwyNTk4NDA4NzIsLTIwMT
+eyJoaXN0b3J5IjpbLTk1NjI2NDkwMiwyNTk4NDA4NzIsLTIwMT
 AxOTI2M119
 -->
