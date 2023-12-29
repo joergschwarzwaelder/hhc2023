@@ -1,4 +1,5 @@
 # Objective 14: Phish Detection Agency
+**Difficultree: 🎄🎄**  
 **Location: Film Noir Island: The Blacklight District**  
 **Hints provided by Fitzy Shortstack**
 
@@ -20,6 +21,6 @@ The following emails are suspicious:
 
 **Achievement: Phish Detection Agency**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDE0MDUwMiwxODUwMjUxMzUzLC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMzE0Mzc0MTA2LDE1OTAxNDA1MDIsMTg1MD
+I1MTM1MywtMjAxMDE5MjYzXX0=
 -->
