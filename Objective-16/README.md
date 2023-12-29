@@ -1,4 +1,5 @@
 # Objective 16: Elf Hunt
+**Difficultree: 🎄🎄🎄**  
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Piney Sappington**
 
@@ -24,5 +25,5 @@ Assigning the new JWT to the cookie, the game is much easier to play.
 
 **Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODk4MjYyNCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTI2OTA3MjM0OCwtMjAxMDE5MjYzXX0=
 -->
