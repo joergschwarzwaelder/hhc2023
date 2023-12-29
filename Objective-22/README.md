@@ -1,4 +1,5 @@
 # Objective 22: Missile Diversion
+**Difficultree: 🎄🎄🎄🎄🎄**  
 **Location: Space Island: Zenith SGS**
 
 For this objective the same Docker image and Wireguard VPN connection as in [Objective 21](../Objective-21) is used.
@@ -337,8 +338,8 @@ Grants for targeter_admin@%":"GRANT SELECT ON `missile_targeting_system`.`pointi
 Grants for targeter_admin@%":"GRANT SELECT, INSERT, UPDATE ON `missile_targeting_system`.`satellite_query` TO `targeter_admin`@`%`"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMTI0NDU0LDQ3MzA1NTY0MSwxMjE1ND
-IwNzQsMTI2ODM2MjU2MCwtMTI3MjM2ODk1NiwtNDM0NDU2NTUz
-LDEzNTk5NDgwOTMsLTUxMDI3MzI2OCwtNDY2MjQyMzIxLC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTY1OTY3NDI1OCw0NzMwNTU2NDEsMTIxNT
+QyMDc0LDEyNjgzNjI1NjAsLTEyNzIzNjg5NTYsLTQzNDQ1NjU1
+MywxMzU5OTQ4MDkzLC01MTAyNzMyNjgsLTQ2NjI0MjMyMSwtMj
+AxMDE5MjYzXX0=
 -->
