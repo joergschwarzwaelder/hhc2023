@@ -1,4 +1,5 @@
 # Objective 7: Linux PrivEsc
+**Difficultree: 🎄🎄🎄**  
 **Location: Island of Misfit Toys: Ostrich Saloon**  
 **Hints provided by Rose Mold**
 
@@ -91,7 +92,7 @@ failure_message: "Sorry, that answer is *incorrect*. Please try again!"
 [...]
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTM0NzM1OSwtNTc3MjI2MDgzLC0xOT
+eyJoaXN0b3J5IjpbMTUwMTczNjYwMywtNTc3MjI2MDgzLC0xOT
 IxMTYyNTEwLC0xNzY2NTUxNjIwLC04MjYxNzg2ODQsLTIwMTAx
 OTI2M119
 -->
