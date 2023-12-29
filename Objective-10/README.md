@@ -1,4 +1,5 @@
 # Objective 10: Game Cartridges: Vol 2
+**Difficultree: 🎄🎄🎄**  
 **Location: Pixel Island: Driftbit Grotto**  
 **Hints provided by Dusty Giftwrap**  
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
@@ -25,7 +26,7 @@ Answer: **GL0RY**
 
 **Achievement: Game Cartridges: Vol 2**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODU2Mjk4NiwtNDYyNjMzNjQ2LC0xMj
+eyJoaXN0b3J5IjpbLTYwNDI5MzkzNCwtNDYyNjMzNjQ2LC0xMj
 g0ODA4ODcwLC0yMTQwMzQwMjM3LDcyNDA4MTA4MSwxODY5Nzgx
 NDExLDk1MzMyNTI3NCwtMjAxMDE5MjYzXX0=
 -->
