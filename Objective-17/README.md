@@ -1,4 +1,5 @@
 # Objective 17: Certificate SSHenanigans
+**Difficultree: 🎄🎄🎄🎄🎄**  
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Alabaster Snowball**
 
@@ -105,7 +106,7 @@ alabaster@ssh-server-vm:~$ cat alabaster_todo.md
 
 **Achievement: SSH/API**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNzMyNjQyLDExNzEzNjg4NzYsLTE5MD
+eyJoaXN0b3J5IjpbNzMyNzM4NDIyLDExNzEzNjg4NzYsLTE5MD
 UwODIzNTYsLTc4NjE5MTAyMywtMTU3MTUyMDc0OCwtMjAxMDE5
 MjYzXX0=
 -->
