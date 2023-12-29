@@ -1,4 +1,5 @@
 # Objective 19: Active Directory
+**Difficultree: 🎄🎄🎄🎄**  
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Ribb Bonbowford**
 
@@ -286,7 +287,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE5Njc3MTUsNTMxNDU1NDA2LDExNT
+eyJoaXN0b3J5IjpbLTE1MTE1MzEyMjMsNTMxNDU1NDA2LDExNT
 QwMDc5NTIsLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMz
 MTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
 -->
