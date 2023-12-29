@@ -1,4 +1,5 @@
 # Objective 6: Luggage Lock
+**Difficultree: 🎄**  
 **Location: Island of Misfit Toys: Squarewheel Yard**  
 **Hints from Garland Candlesticks**
 
@@ -12,6 +13,6 @@ The position with biggest stickiness likelihood is the right one.
 
 **Achievement: Luggage Lock**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY1NjMyNDAsMjAwNTA2OTU1LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTg4NDA1ODA2MCwyMDA1MDY5NTUsLTIwMT
+AxOTI2M119
 -->
