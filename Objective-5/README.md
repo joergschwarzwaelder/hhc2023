@@ -1,4 +1,5 @@
 # Objective 5: Azure 101
+**Difficultree: 🎄🎄**  
 **Location: Christmas Island: Rudolph's Rest**
 
 In this objective the player gets hand on experience with the Azure CLI.
@@ -67,6 +68,6 @@ elf@16e0a0834f6e:~$ az vm run-command invoke --resource-group northpole-rg2 -n N
 
 **Achievement: Azure 101**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MDcxNzUxLDE2Mzg0OTYwMDcsLTIwMT
+eyJoaXN0b3J5IjpbLTk1MDg2MjYxLDE2Mzg0OTYwMDcsLTIwMT
 AxOTI2M119
 -->
