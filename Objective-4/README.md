@@ -1,4 +1,5 @@
 # Objective 4: Reportinator
+**Difficultree: 🎄🎄**  
 **Location: Christmas Island: Rudolph's Rest**
 
 In this objective a penetration testing report is shown to the player, which was created by an LLM AI.
@@ -47,6 +48,6 @@ The player has to comment on each of the 9 findings whether it is a true or a fa
 ### Alternative
 As an alternative, as there are only 9 true/false choices in total, i.e. 512 combinations, the solution can easily be brute forced using a script.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NzU0NzcwMiwxNzYwNTkyNjMxLDIxMj
-c2MDIyODddfQ==
+eyJoaXN0b3J5IjpbNjEzNjgwNDYyLC03OTc1NDc3MDIsMTc2MD
+U5MjYzMSwyMTI3NjAyMjg3XX0=
 -->
