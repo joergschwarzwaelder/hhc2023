@@ -1,4 +1,5 @@
 # Objective 9: Game Cartridges: Vol 1
+**Difficultree: 🎄**  
 **Location: Island of Misfit Toys: Tarnished Trove**  
 **Hints provided by Dusty Giftwrap**  
 **Gameboy Cartridge Detector provided by Dusty Giftwrap**
@@ -19,6 +20,6 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTI2MTk4MywtMjA1ODgxMzM1NCwtMj
-AxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTY4NzM0ODkxLC0yMDU4ODEzMzU0LC0yMD
+EwMTkyNjNdfQ==
 -->
