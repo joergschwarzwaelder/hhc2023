@@ -1,4 +1,5 @@
 # Objective 20: Space Island Door Access Speaker
+**Difficultree: 🎄🎄🎄**  
 **Location: Space Island: Spaceport Point**  
 **Hints provided by Jewel Loggins**
 
@@ -21,7 +22,7 @@ This file can be played against the access controller to open the door.
 
 **Achievement: Space Island Door Access Speaker**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTA2NjExOSwtMTUwMTYyMjYwNCwtMT
-A2MjM1Njg3NCwtMTk0MjcyMTgyMiwxMDQ0NjI0MzcyLC0yMDEw
-MTkyNjNdfQ==
+eyJoaXN0b3J5IjpbNTk5NTA4NTksLTE1MDE2MjI2MDQsLTEwNj
+IzNTY4NzQsLTE5NDI3MjE4MjIsMTA0NDYyNDM3MiwtMjAxMDE5
+MjYzXX0=
 -->
