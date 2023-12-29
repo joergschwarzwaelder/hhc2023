@@ -1,4 +1,5 @@
 # Objective 13: KQL Kraken Hunt
+**Difficultree: 🎄🎄**  
 **Location: Film Noir Island: Gumshoe Alley PI Office**  
 **Hints provided by Tangle Coalbox**
 
@@ -133,6 +134,6 @@ Answer: **Beware the Cube that Wombles**
 
 **Achievement: KQL Kraken Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDE1NDE1NCwtNDUxNTcyOTY2LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDYwNDQ3MTgsLTQ1MTU3Mjk2NiwtMj
+AxMDE5MjYzXX0=
 -->
