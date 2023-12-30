@@ -3,8 +3,7 @@
 **Location: Pixel Island: Raincaster Cliffs**  
 **Hints provided by Piney Sappington**
 
-The objective is a browser game where the player has to target elves which move very fast over the screen.
-
+The objective is a browser game where the player has to target elves which move very fast over the screen.  
 There are al least two ways to accomplish this:
 
 ### Play an easier game
@@ -38,5 +37,5 @@ score=75
 
 **Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDg4MTY1OSwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTE1MjA5MDQ3NDUsLTIwMTAxOTI2M119
 -->
