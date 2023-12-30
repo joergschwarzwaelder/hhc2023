@@ -27,8 +27,7 @@ Assigning the new JWT to the cookie, the game is much easier to play.
 
 ### Win without playing
 The game has a variable "score" holding the current game score.
-If this is set to 75, the game is immediately won.
-
+If this is set to 75, the game is immediately won.  
 To accomplish this, open the browser developer tools, console.
 Select the context "elfhunt.org/" and just set score to 75:
 ```
@@ -39,5 +38,5 @@ score=75
 
 **Achievement: Elf Hunt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODQxMDc1LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTU0MDg4MTY1OSwtMjAxMDE5MjYzXX0=
 -->
