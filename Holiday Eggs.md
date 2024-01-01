@@ -3,7 +3,7 @@
 ### Jason
 This year Jason is a fish on Steampunk Island, Coggoggle Marina:  
 ![Jason](images/notadeadfish_large.png)  
-He is "not a dead fish" (filename) just like last year where he was a canary stating ("I'm not dead. I'm merely resting.").
+He is "not a dead fish" just like last year where he was a canary stating ("I'm not dead. I'm merely resting.").
 ***
 
 ### Santa Claus hiring date
@@ -44,8 +44,9 @@ And he'll silently take his way.
 ```
 is from "The Frost" by Hannah Flagg Gould.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDU5OTAyNiwxMDUzMDU2MTE0LDE3NT
-c4Mjk5OTgsMTA0MTg5NDc4OCwxMTEzNDU1NTIsMTM1NTU1ODMy
-MSw1MDg1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwtMTg2MD
-M0MTM1NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
+eyJoaXN0b3J5IjpbODYyNTI1MDA4LDE3ODA1OTkwMjYsMTA1Mz
+A1NjExNCwxNzU3ODI5OTk4LDEwNDE4OTQ3ODgsMTExMzQ1NTUy
+LDEzNTU1NTgzMjEsNTA4NTE2NjEsLTU3NzQwMzM5LC00MzU1NT
+IwODEsLTE4NjAzNDEzNTUsLTk0MTMwMTg3MiwxMjQ4MTA3ODMw
+XX0=
 -->
