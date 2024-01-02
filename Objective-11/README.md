@@ -15,7 +15,7 @@ In the game there are effectively two challenges:
 ### Obtain 999 coins
 There are three different kinds of coins in the game with values 1, 10, and 100. The game has overflow issues so that is it impossible to make 999 with regular gaming.
 In order to analyze, how/where the amount of coins is stored, the game status was backed up using the simulator prior and after obtaining coins.
-Using that it was found that the single digits of the coins amount are stored in these locations:
+Using that it was found that the single digits of the coins amount are stored in these locations of the saved games (they are GZIP compressed and need to be uncompressed for these modifications):
 
 - 100s: `0x44d8`
 - 10s: `0x44a4`
@@ -39,8 +39,8 @@ Answer: **!tom+elf!**
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjI2NDU0NSwtMTEzNTk2OTUxNywtMT
-E0MzE3MDM5NywtOTA0MTQzOTI4LC0xMDUxMTUzNjUwLDgzNzQy
-ODQwNSwxNDQ4NTcxOTU4LC0xMTQxODQ1Mjg5LC0xNjU2NjQ3Nj
-U0LC0yNTU2OTUwNDYsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbLTExNTQ5MDk4MTcsLTExMzU5Njk1MTcsLT
+ExNDMxNzAzOTcsLTkwNDE0MzkyOCwtMTA1MTE1MzY1MCw4Mzc0
+Mjg0MDUsMTQ0ODU3MTk1OCwtMTE0MTg0NTI4OSwtMTY1NjY0Nz
+Y1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
 -->
