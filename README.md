@@ -1,6 +1,5 @@
 # The 2023 SANS Holiday Hack Challenge
-**Write-up submitted by Joerg Schwarzwaelder**  
-
+**Write-up submitted by Joerg Schwarzwaelder** (hhc@schwarzwaelder.name)  
 **In-game character: joergen** 
 
 **Disclaimer:** All information and code in this repository is provided as-is, probably not without errors and not ready for production use.
@@ -53,7 +52,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 ## Holiday Eggs
 Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU4ODgxMTYsLTY0NTgzNjE4LDE4MT
-UxMjYxNjQsLTUyMzczMzAxOCwtMTcyOTI5NTcyLC00NzkzNDY0
-OSwxMDU5MTk2OTIyLDQ1MTUwMTUxNSwtMTgxOTI3NDUwNF19
+eyJoaXN0b3J5IjpbMTIxNTQwMzY2NywtNjQ1ODM2MTgsMTgxNT
+EyNjE2NCwtNTIzNzMzMDE4LC0xNzI5Mjk1NzIsLTQ3OTM0NjQ5
+LDEwNTkxOTY5MjIsNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
 -->
