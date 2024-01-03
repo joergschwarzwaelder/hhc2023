@@ -1,4 +1,5 @@
 # Objective 2: Snowball Fight
+**Difficultree: 🎄🎄**  
 **Location: Christmas Island: Frosty's Beach**  
 **Hints provided by Morcel Nougat**
 
@@ -16,6 +17,6 @@ For this, open the browsers console, set the context to "room/" and modify the d
 
 **Achievement: Snowball Fight**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDM0ODA3OCw3NDk0MDQ1MjgsMTM2MT
-EwMjc4OSwtMTczMDYxMTgzMSwxNTQyOTM5OTUxXX0=
+eyJoaXN0b3J5IjpbMjMyMjE1NDM4LDc0OTQwNDUyOCwxMzYxMT
+AyNzg5LC0xNzMwNjExODMxLDE1NDI5Mzk5NTFdfQ==
 -->
