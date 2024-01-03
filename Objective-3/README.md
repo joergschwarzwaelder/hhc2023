@@ -2,7 +2,7 @@
 **Difficultree: 🎄**  
 **Location: Christmas Island: Santa's Surf Shack**
 
-Is this terminal the player gets to know some Linux basics.
+In this terminal the player gets to know some Linux basics.
 
 ```
 elf@dd0741506806:~$ ls
@@ -55,6 +55,6 @@ troll.73180338045875elf@dd0741506806:~/workshop/electrical$ pkill 14516_troll
 **Achievement: Linux 101**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYwODMzMjQsLTIxMzc1MTI0MjMsMT
-Q5NjY3MzMzNCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbMTM4MTI0NTczNywtMjEzNzUxMjQyMywxND
+k2NjczMzM0LC0yMDEwMTkyNjNdfQ==
 -->
