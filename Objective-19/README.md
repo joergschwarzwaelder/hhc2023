@@ -136,8 +136,6 @@ FileShare
 IPC$
 NETLOGON
 SYSVOL
-# cd FileShare
-[-] No share selected
 # use FileShare
 # ls
 drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 .
@@ -285,7 +283,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxODg3NjEsNTMxNDU1NDA2LDExNT
+eyJoaXN0b3J5IjpbLTE5MzczNjI2MjIsNTMxNDU1NDA2LDExNT
 QwMDc5NTIsLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMz
 MTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
 -->
