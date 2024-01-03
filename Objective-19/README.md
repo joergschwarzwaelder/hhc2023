@@ -128,8 +128,6 @@ Impacket v0.11.0 - Copyright 2023 Fortra
 Password:
 Type help for list of commands
 
-# ls
-[-] No share selected
 # shares
 ADMIN$
 C$
@@ -287,7 +285,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE1MzEyMjMsNTMxNDU1NDA2LDExNT
+eyJoaXN0b3J5IjpbLTIwMzIxODg3NjEsNTMxNDU1NDA2LDExNT
 QwMDc5NTIsLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMz
 MTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
 -->
