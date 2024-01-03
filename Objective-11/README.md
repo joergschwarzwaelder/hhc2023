@@ -4,7 +4,7 @@
 **Hints provided by Dusty Giftwrap**  
 **Game Boy Cartridge Detector provided by Dusty Giftwrap**
 
-The Game Cartrige 3 can be found at the above location at 23/31. As Rosty Quay is a maze, it is advised to zoom out in the browser to find the right way.
+The Game Cartrige 3 can be found at the above location at 23/31. As Rusty Quay is a maze, it is advised to zoom out in the browser to find the right way.
 ![Map of Rusty Quay](Rusty%20Quay.png)
 The game can be started anytime from the "Items" section in the game.
 
@@ -39,8 +39,8 @@ Answer: **!tom+elf!**
 
 **Achievement: Game Cartridges: Vol 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg2MDYwMDUsLTExMzU5Njk1MTcsLT
-ExNDMxNzAzOTcsLTkwNDE0MzkyOCwtMTA1MTE1MzY1MCw4Mzc0
-Mjg0MDUsMTQ0ODU3MTk1OCwtMTE0MTg0NTI4OSwtMTY1NjY0Nz
-Y1NCwtMjU1Njk1MDQ2LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTk2NjQzMTQ4MywtMTEzNTk2OTUxNywtMT
+E0MzE3MDM5NywtOTA0MTQzOTI4LC0xMDUxMTUzNjUwLDgzNzQy
+ODQwNSwxNDQ4NTcxOTU4LC0xMTQxODQ1Mjg5LC0xNjU2NjQ3Nj
+U0LC0yNTU2OTUwNDYsLTIwMTAxOTI2M119
 -->
