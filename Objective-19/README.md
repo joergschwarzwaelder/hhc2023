@@ -153,8 +153,8 @@ drw-rw-rw-          0  Sun Dec 10 01:13:44 2023 super_secret_research
 # 
 ```
 
-So it seems that the access to "super_secret_research" is restricted to researchers.
-
+So it seems that the access to "super_secret_research" is restricted to researchers.  
+Next we make use of the also locally installed ldapdomaindump tool:
 ```
 alabaster@ssh-server-vm:~/.venv/bin$ ./ldapdomaindump -u northpole.local\\elfy -p 'J4`ufC49/J4766' 10.0.0.53
 
@@ -283,7 +283,7 @@ And he'll silently take his way.
 
 **Achievement: AD**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczNjI2MjIsNTMxNDU1NDA2LDExNT
-QwMDc5NTIsLTE0MjMwNzQ0MywtMjAwMDI3ODY3OCwxMTY0MzMz
-MTcwLDEwODc4NTMxNDcsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMjExOTcwMzQ2OCw1MzE0NTU0MDYsMTE1ND
+AwNzk1MiwtMTQyMzA3NDQzLC0yMDAwMjc4Njc4LDExNjQzMzMx
+NzAsMTA4Nzg1MzE0NywtMjAxMDE5MjYzXX0=
 -->
