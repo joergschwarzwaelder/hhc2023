@@ -14,7 +14,7 @@ Most of the blocks to be moved have their target locations nearby. Only one bloc
 
 ![QR Code](game-qr.png)
 
-The final QR code looks like this:
+Once completed,  a different QR code is displayed as solution:
 
 ![QR Code](qr-code.png)
 
@@ -22,6 +22,6 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIyMDY2NzUsMjExMjk1Mzk4LC0yMD
-U4ODEzMzU0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMjEwNzExOTc5LDIxMTI5NTM5OCwtMjA1OD
+gxMzM1NCwtMjAxMDE5MjYzXX0=
 -->
