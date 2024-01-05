@@ -22,7 +22,7 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 
 [Location of NPC, Terminals, and Items](Directory.md)
 
-## Main Objectives
+## Objectives
 
  - [Objective 1: Holiday Hack Orientation](Objective-1)
  - [Objective 2: Snowball Fight](Objective-2)
@@ -52,7 +52,8 @@ It turned out that Jack recruited Wombley Cube and created the AI ChatNPT. With 
 ## Holiday Eggs
 Some [Holiday Eggs](Holiday%20Eggs.md) were discovered.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTQwMzY2NywtNjQ1ODM2MTgsMTgxNT
-EyNjE2NCwtNTIzNzMzMDE4LC0xNzI5Mjk1NzIsLTQ3OTM0NjQ5
-LDEwNTkxOTY5MjIsNDUxNTAxNTE1LC0xODE5Mjc0NTA0XX0=
+eyJoaXN0b3J5IjpbMTA3ODY0MjIxOCwxMjE1NDAzNjY3LC02ND
+U4MzYxOCwxODE1MTI2MTY0LC01MjM3MzMwMTgsLTE3MjkyOTU3
+MiwtNDc5MzQ2NDksMTA1OTE5NjkyMiw0NTE1MDE1MTUsLTE4MT
+kyNzQ1MDRdfQ==
 -->
