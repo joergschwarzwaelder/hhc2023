@@ -46,13 +46,16 @@ On Pixel Island there is on the right hand side the claim "You are Awesome!" on 
 
 ### Isabel
 In the telescope you can see close to the top right corner the name "ISABEL" written in space.  
+
 ![ISABEL](images/isabel.png)
+
 ### Jack in the Sky
 Also in the telescope a Pod should be visible, although I was not able to spot it.  
 Without full game completion it is empty.
 ![empty Pod](images/satellite_feathered_alt.png)
 After completion, Jack is in the Pod.
 ![Jack in Pod](images/satellite_feathered.png)
+
 ### Access Speaker Phrase
 The phrase for the Space Island Door Access Speaker
 ```
@@ -62,9 +65,9 @@ And he'll silently take his way.
 ```
 is from "The Frost" by Hannah Flagg Gould.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjEyMTg3MSw4NjI1MjUwMDgsMTc4MD
-U5OTAyNiwxMDUzMDU2MTE0LDE3NTc4Mjk5OTgsMTA0MTg5NDc4
-OCwxMTEzNDU1NTIsMTM1NTU1ODMyMSw1MDg1MTY2MSwtNTc3ND
-AzMzksLTQzNTU1MjA4MSwtMTg2MDM0MTM1NSwtOTQxMzAxODcy
-LDEyNDgxMDc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDE3NDA3OTcsLTIwMjEyMTg3MSw4Nj
+I1MjUwMDgsMTc4MDU5OTAyNiwxMDUzMDU2MTE0LDE3NTc4Mjk5
+OTgsMTA0MTg5NDc4OCwxMTEzNDU1NTIsMTM1NTU1ODMyMSw1MD
+g1MTY2MSwtNTc3NDAzMzksLTQzNTU1MjA4MSwtMTg2MDM0MTM1
+NSwtOTQxMzAxODcyLDEyNDgxMDc4MzBdfQ==
 -->
