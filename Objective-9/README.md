@@ -11,6 +11,7 @@ The main objective in the game is a broken QR code which has to be repaired.
 It is possible to make music to uncover, which black block can be moved (by pushing it) and which locations are expected to receive a black block.
 
 Most of the blocks to be moved have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the target location.
+In the below screenshot, the blocks were colored and their target location highlighted in the same color.
 
 ![QR Code](game-qr.png)
 
@@ -25,6 +26,7 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjI5NzEzNiwyMTA3MTE5NzksMjExMj
-k1Mzk4LC0yMDU4ODEzMzU0LC0yMDEwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbMTU5MzA4NDU3MiwxMzgyMjk3MTM2LDIxMD
+cxMTk3OSwyMTEyOTUzOTgsLTIwNTg4MTMzNTQsLTIwMTAxOTI2
+M119
 -->
