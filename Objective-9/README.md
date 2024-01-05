@@ -16,6 +16,7 @@ Most of the blocks to be moved have their target locations nearby. Only one bloc
 
 Special care has to be taken during the game, as the block can only be pushed forward and especially on the lower right is it quite crowded. Proper planning is paramount.
 
+Interestingly, even the "corrected" QR code is not a valid one.  
 Once completed,  a different QR code is displayed as solution:
 
 ![QR Code](qr-code.png)
@@ -24,6 +25,6 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODQyMDczLDIxMDcxMTk3OSwyMTEyOT
-UzOTgsLTIwNTg4MTMzNTQsLTIwMTAxOTI2M119
+eyJoaXN0b3J5IjpbMTM4MjI5NzEzNiwyMTA3MTE5NzksMjExMj
+k1Mzk4LC0yMDU4ODEzMzU0LC0yMDEwMTkyNjNdfQ==
 -->
