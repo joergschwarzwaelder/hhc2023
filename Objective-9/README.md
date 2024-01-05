@@ -12,6 +12,8 @@ It is possible to make music to uncover, which black block can be moved (by push
 
 Most of the blocks to be moved have their target locations nearby. Only one block has to be pushed from the left hand side to the outside, around the QR code and then finally inserted from the right hand side to the target location.
 
+![QR Code](game-qr.png)
+
 The final QR code looks like this:
 
 ![QR Code](qr-code.png)
@@ -20,6 +22,6 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjk1Mzk4LC0yMDU4ODEzMzU0LC0yMD
-EwMTkyNjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIyMDY2NzUsMjExMjk1Mzk4LC0yMD
+U4ODEzMzU0LC0yMDEwMTkyNjNdfQ==
 -->
