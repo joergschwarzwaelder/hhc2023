@@ -14,6 +14,8 @@ Most of the blocks to be moved have their target locations nearby. Only one bloc
 
 ![QR Code](game-qr.png)
 
+Special care has to be taken during the game, as the block can only be pushed forward and especially 
+
 Once completed,  a different QR code is displayed as solution:
 
 ![QR Code](qr-code.png)
@@ -22,6 +24,6 @@ This is pointing to `http://8bitelf.com`. This web page reveals `flag:santaconfu
 
 **Achievement: Game Cartridges: Vol 1**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzExOTc5LDIxMTI5NTM5OCwtMjA1OD
-gxMzM1NCwtMjAxMDE5MjYzXX0=
+eyJoaXN0b3J5IjpbLTgzMzEyNDQwNSwyMTA3MTE5NzksMjExMj
+k1Mzk4LC0yMDU4ODEzMzU0LC0yMDEwMTkyNjNdfQ==
 -->
